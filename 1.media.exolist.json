@@ -1,0 +1,107 @@
+﻿[
+  {
+    "name": "TV Malaysia",
+    "samples": [
+      {
+        "name": "TV1",
+   "uri":
+"https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
+      },
+      {
+        "name": "hypp Inspirasi test",
+        "uri":"http://1.9.58.102/PLTV/88888888/224/3221227601/3221227601.mpd",
+        "drm_scheme": "widevine",
+         "drm_license_url":
+"http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
+      },
+      {
+        "name": "blue etentaiment test",
+        "uri":"http://1.9.58.102/PLTV/88888888/224/3221227637/3221227637.mpd",
+        "drm_scheme": "widevine",
+         "drm_license_url":
+"http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
+      },
+      {
+        "name": "dunia senima test",
+        "uri":"http://1.9.58.102/PLTV/88888888/224/3221227631/3221227631.mpd",
+        "drm_scheme": "widevine",
+         "drm_license_url":
+"http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
+      },
+      {
+        "name": "TV2",
+        "uri": "https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
+      },
+      {
+        "name": "TV3",
+     "uri":
+"http://1.9.62.158/PLTV/88888888/224/3221227715/3221227715.mpd"
+      },
+      {
+        "name": "NTV7",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8"
+      },
+      {
+        "name": "8TV",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8"
+      },
+      {
+        "name": "TV9",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8"
+      },
+      {
+        "name": "TV OKEY",
+      "uri":"https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
+      },
+      {
+        "name": "CERIA",
+        "uri": "
+http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110228.m3u8"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8"
+      },
+      {
+        "name": "DUNIA SINEMA",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/55453.m3u8"
+      },
+      {
+        "name": "OASIS",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110157.m3u8"
+      },
+      {
+        "name": "WARNA",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110158.m3u8"
+      },
+      {
+        "name": "RIA",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110155.m3u8"
+      },
+      {
+        "name": "CITRA",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110270.m3u8"
+      },
+      {
+        "name": "PRIMA",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110156.m3u8"
+      },
+      {
+        "name": "ALHIJRAH",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110160.m3u8"
+      },
+      {
+        "name": "BOO",
+        "uri": ""
+      },
+      {
+        "name": "NAURA",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110159.m3u8"
+      },
+      {
+        "name": "BOLLYONE",
+        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110176.m3u8"
+      }
+    ]
+  }
+]
