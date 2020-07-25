@@ -1,32 +1,11 @@
 ﻿[
   {
-    "name": "TV Malaysia",
+    "name": "TV MALAYSIA",
     "samples": [
       {
         "name": "TV1",
    "uri":
 "https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8"
-      },
-      {
-        "name": "hypp Inspirasi test",
-        "uri":"http://1.9.58.102/PLTV/88888888/224/3221227601/3221227601.mpd",
-        "drm_scheme": "widevine",
-         "drm_license_url":
-"http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
-      },
-      {
-        "name": "blue etentaiment test",
-        "uri":"http://1.9.58.102/PLTV/88888888/224/3221227637/3221227637.mpd",
-        "drm_scheme": "widevine",
-         "drm_license_url":
-"http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
-      },
-      {
-        "name": "dunia senima test",
-        "uri":"http://1.9.58.102/PLTV/88888888/224/3221227631/3221227631.mpd",
-        "drm_scheme": "widevine",
-         "drm_license_url":
-"http://1.9.58.113:8063/?deviceId=NzJkYjJkYTktOTU2MS0zOGM2LTljNTItYTc2ZWU1OTM4MDIy"
       },
       {
         "name": "TV2",
@@ -54,8 +33,7 @@
       },
       {
         "name": "CERIA",
-        "uri": "
-http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110228.m3u8"
+        "uri": "http://185.59.222.189:25461/kevinshah234961_mac/EE8cPrEghF/110228?play_token=btg64TBKvS&token=GRdRWUpbQV9BBVkCBVFTWgRQXldQUwAEUFpcVwRUDwZaDFwJDlcHXFMRFEQQFxAGVQxnD1YVCVACU1YACE8aRBFQS2dQV0FfQQcMUFJXVUEYQ0wPX1IRWwJWXQcFWwgHVgIVGklaB0dZEQlXUlZbQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaV1JTWlEWHA=="
       },
       {
         "name": "DRAMA SANGAT",
@@ -71,11 +49,11 @@ http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110228.m3u8"
       },
       {
         "name": "WARNA",
-        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110158.m3u8"
+        "uri": "http://185.59.222.189:25461/kevinshah234961_mac/EE8cPrEghF/110158?play_token=zW1arOc0t7&token=GRdRWUpbQV9BUV5eB1EAVANVDANXAgsHUAEHVgFVWlVQU18IXQUCU1URFEQQFxAGVQxnD1YVCVACU1UHCE8aRBFQS2dQV0FfQQcMUFJXVUEYQ0wPX1IRWwJWXQcFWwgEUQcVGklaB0dZEQtUU1tVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1UAWRpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFRW1AAUxob"
       },
       {
         "name": "RIA",
-        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110155.m3u8"
+        "uri": "http://185.59.222.189:25461/kevinshah234961_mac/EE8cPrEghF/110155?play_token=3nFzDJy7US&token=GRdRWUpbQV9BCw8HAQJUB1BWCAQCAgZVClAHBgYFDQlbDAkNCFVRAAARFEQQFxAGVQxnD1YVCVACU1UHBU8aRBFQS2dQV0FfQQcMUFJXVUEYQ0wPX1IRWwJWXQcFWwgFUQ0VGklaB0dZEQpfVFFaQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFlBU1UAUhpKEFRcFF0XFksSWRp8OxcVGlxLFwANQFEJDUFYQUASGkoQXkA+QQYXRkIGWVwHRxsCGwNBSUFeWR48AA0NWgRbEltYXRIRWUYDEk8aXA1bUExWQTwVClcaXEFSUVQDWRob"
       },
       {
         "name": "CITRA",
@@ -83,7 +61,7 @@ http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110228.m3u8"
       },
       {
         "name": "PRIMA",
-        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110156.m3u8"
+        "uri": "http://185.59.222.189:25461/kevinshah234961_mac/EE8cPrEghF/110156?play_token=AK78FaTmOL&token=GRdRWUpbQV9BVw5eAQIGU1BWClBWAARZBFoBVgZRCANVUQFbWgYHBgIRFEQQFxAGVQxnD1YVCVACU1UHBk8aRBFQS2dQV0FfQQcMUFJXVUEYQ0wPX1IRWwJWXQcFWwgEUgEVGklaB0dZEQlWUFFATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFSWlIEQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJTU1QWHA=="
       },
       {
         "name": "ALHIJRAH",
@@ -881,7 +859,7 @@ http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110228.m3u8"
     ]
       }, 
       {
-    "name": "Premium Movies",
+    "name": "PREMIUM MOVIES",
     "samples": [
       {
         "name": "HBO US",
