@@ -45,7 +45,7 @@
       },
       {
         "name": "OASIS",
-        "uri": "http://link.iptvsubscription.org:7899/live/cuscun-710854/jZbGn2WIEs/110157.m3u8"
+        "uri": "http://iptv-line.com:7899/ChSSwWP69G/pyf7Ia6kCp/110157?play_token=eFwPDDG3c0"
       },
       {
         "name": "WARNA",
@@ -82,7 +82,7 @@
      ] 
        },
        {
-    "name": "UNFI TV ANEKA",
+    "name": "UNIFI TV ANEKA",
     "samples": [
      {
         "name": "	100 UnifiTV",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "name": "UNFI TV RUBY",
+    "name": "UNIFI TV RUBY",
     "samples": [
      {
         "name": "	201 TVN MOVIES HD",
@@ -218,7 +218,7 @@
     ]
   },
   {
-    "name": "UNFI TV VARNAM",
+    "name": "UNIFI TV VARNAM",
     "samples": [
       {
         "name": "	311 COLORS TAMIL HD",
@@ -277,7 +277,7 @@
     ]
   },
   {
-    "name": "UNFI TV ENTERTAINMENT",
+    "name": "UNIFI TV ENTERTAINMENT",
     "samples": [
       {
         "name": "	401 FOX MOVIES",
@@ -360,7 +360,7 @@
     ]
   },
   {
-    "name": "UNFI TV KNOWLEDGE",
+    "name": "UNIFI TV KNOWLEDGE",
     "samples": [
       {
         "name": "	501 BBC EARTH HD",
@@ -419,7 +419,7 @@
 	]
   },
   {
-    "name": "UNFI TV KIDS",
+    "name": "UNIFI TV KIDS",
     "samples": [
       {
         "name": "	550 DREAMWORK HD",
@@ -460,7 +460,7 @@
     ]
   },
   {
-    "name": "UNFI TV NEWS",
+    "name": "UNIFI TV NEWS",
     "samples": [
      {
         "name": "	601 BBC WORLD NEWS HD",
@@ -525,7 +525,7 @@
     ]
   },
   {
-    "name": "UNFI TV SPORTS",
+    "name": "UNIFI TV SPORTS",
     "samples": [
      {
         "name": "	701 UNIFISPORTS1",
@@ -578,7 +578,7 @@
     ]
   },
   {
-    "name": "UNFI TEST",
+    "name": "UNIFI TEST",
     "samples": [
      {
         "name": "	801 UNIFITEST",
