@@ -195,8 +195,12 @@
          {
               "name": "&XPLOR HD",
    "uri": "http://iptv-line.com:7899/equaynor092/hmrMM7Wv/303?play_token=2ezcEdkW6G"
-      } 
-   ]
+      },
+      {
+              "name": "STAR CHINA MOVIES",
+   "uri": "http://62.210.124.97:8080/yDgZw8xX12fCmaRT/WHzSVumtjQHGfAV7/33249?play_token=SWpF92lrzz&token=QhVcUhcJRggXBg0FBgMCUlgDVQtTBwVUUVMHBwcAW1ILUgNSUgVVBVNGGURBEkJRAFtpWgVEXlBWVgFYSkAXElxFa1oAQ14QBlMDVwBWEhhDQl9eBEReUlBdAFlfVlBVCRsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+      }
+    ]
       }, 
       {
     "name": "SPORTS",
@@ -216,7 +220,6 @@
          {
              "name": "BT SPORT 1",
    "uri": "http://iptv-line.com:7899/equaynor092/hmrMM7Wv/8?play_token=1hakk4H3o3"
-           
          },
          {
               "name": "BT SPORT 2",
