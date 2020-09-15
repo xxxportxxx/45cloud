@@ -22,18 +22,16 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023543X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=de4a5496897bedcdabf8941dc8ecd1771cbf9ed5f8cb9534b90619fe3f0d6a6d5acdcff2453a7529f82444c22972cb7c7a46ac0c9cc06e7cf14c530052acd3c3&drmId=prod"
       },
       {
-        "name": "FAST FURIIOU HOBBS & SHAW",
+        "name": "FAST FURIOUS HOBBS & SHAW",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "
-https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023508X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=4809ce64186359d8131438a1edcdb6a924242aa2cf2473d737f0427d5ce603cbed372d9a8d645e1e9e9c67fc12d43422127c7f8f6e6e3ef603b4eeec4f7e252d&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023508X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=4809ce64186359d8131438a1edcdb6a924242aa2cf2473d737f0427d5ce603cbed372d9a8d645e1e9e9c67fc12d43422127c7f8f6e6e3ef603b4eeec4f7e252d&drmId=prod"
       },
       {
         "name": "CRAWL",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8aafe33a736626cecdef24_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "
-https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b14563ee96f0813cb5663d3b7116991b9dae8c3f193281ddb70ead847d5e5123e29d02dedd6d45e60e55e597540a55e928757193339c57cc7c192afedd815d04&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b14563ee96f0813cb5663d3b7116991b9dae8c3f193281ddb70ead847d5e5123e29d02dedd6d45e60e55e597540a55e928757193339c57cc7c192afedd815d04&drmId=prod"
       },
       {
         "name": "DHOOM ANNIHILATION",
@@ -43,24 +41,19 @@ https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0
       },
       {
         "name": "JARHEAD LAW OF RETURN",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda38526d048943f7558f43_hbovodhd/dash0/MYS_index.mpd
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda38526d048943f7558f43_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023667X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b01c780cd8cf146f4e30b1e6bf6d049277010405657d64fc4a5ef772e4d4dbfc0e31efc67a6430cc1d0b38e0fa62e36b75bc22ca36b57475161624365a8f7c2a&drmId=prod
-"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023667X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b01c780cd8cf146f4e30b1e6bf6d049277010405657d64fc4a5ef772e4d4dbfc0e31efc67a6430cc1d0b38e0fa62e36b75bc22ca36b57475161624365a8f7c2a&drmId=prod"
       },
       {
         "name": "INSIDEMAN MOST WANTED",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb8028f6d048943f7524e46_hbovodhd/dash0/MYS_index.mpd
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb8028f6d048943f7524e46_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023512X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7ac0bc7ea1d54c27ae2e62825203a0cc8a5eedb2117eb8fe3802c97538755bdb099b14902fec9305b38dcb4c2ad8f238e88512187e04ac010f8b46d7111774fa&drmId=prod"
       },
       {
         "name": "THE SECRET LIFE OF PETS 2",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7d625d3a736626cecc6fd2_hbovodhd/dash0/MYS_index.mpd
-
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7d625d3a736626cecc6fd2_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023417X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b23712818828375e0835e18599effa47a8391b3d9918a3762582298bb6b8aace291815eb46021f818fa4263e4e1430dbd0481783e7de5961932ad964e911d371&drmId=prod"
       },
@@ -72,26 +65,21 @@ https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0
       },
       {
         "name": "RAMBO LAST BLOOD",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb7f8196d048943f7524d45_hbovodhd/dash0/MYS_index.mpd
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb7f8196d048943f7524d45_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023425X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=85f16c5f7a4daed5c07e97a4807f267f2ee8d91a577526dca8249baee14b426df3dfe340061c83a4d079b517d2efb993a6bf5042e6498468d1f4a2938358aeb1&drmId=prod"
       },
       {
         "name": "TEEN TITAN GO VS TEEN TITAN",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecfaf426d048943f7548ed7_hbovodhd/dash0/MYS_index.mpd
-
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecfaf426d048943f7548ed7_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "
-https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023710X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8afbea1c8ebc5540be3fbcba1f3dbd977d02523058e4099a3f53da48e3ed33bd28d0f9e1d29c032a4079c20b6be972b72abf487586dca8516e120283395f802c&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023710X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8afbea1c8ebc5540be3fbcba1f3dbd977d02523058e4099a3f53da48e3ed33bd28d0f9e1d29c032a4079c20b6be972b72abf487586dca8516e120283395f802c&drmId=prod"
       },
       {
         "name": "ANNA",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eec91536d048943f7574e2d_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "
-https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3fb038678e546fda3f8e5fdc847fe5c0c1748cedc22d47599060b17a2510ec7af4c4432fc8bc0837875dd409d770d26a850351e5ef426dbd3493174ca374cc71&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3fb038678e546fda3f8e5fdc847fe5c0c1748cedc22d47599060b17a2510ec7af4c4432fc8bc0837875dd409d770d26a850351e5ef426dbd3493174ca374cc71&drmId=prod"
       }
     ]
   },
@@ -112,8 +100,7 @@ https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0
       },
       {
         "name": "TRIAL BY FIRE",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda43ff6d048943f7559065_hbovodhd/dash0/MYS_index.mpd
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda43ff6d048943f7559065_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023669X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=475de1f0df76b4e7e1e4b17dd5ec18c739bea12633a11fbe85a665e6ab056f877d1d76212e1f0a4b7f09d0742b0ddb6d80c1f48ff43340bf31a921372f9b5d8c&drmId=prod"
       },
@@ -125,15 +112,13 @@ https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0
       },
       {
         "name": "ANGEL HAS FALLEN",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed105e96d048943f754af8e_hbovodhd/dash0/MYS_index.mpd
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed105e96d048943f754af8e_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023468X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7afc8202a4559141cbf0ba21e599f9cd7ba50818bedb0eead873186c03c06c2b68bcbd37842516c2d742c8d40fc7aa365e3d7171a25c273b57e767a097007cb6&drmId=prod"
       },
       {
         "name": "TAKEN 2",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dea4839cbea8a6a4ef829dc_hbovodhd/dash0/MYS_index.mpd
-",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dea4839cbea8a6a4ef829dc_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=022798X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=de8eb48a6e3bc194a5a05692f4f3233e9bc2ae7a85036d7fe78b6ccfc510cc70b92fa799e13feeb910b3391025c7164bf1808853ba293d3df4405ef0ccc71301&drmId=prod"
       },
