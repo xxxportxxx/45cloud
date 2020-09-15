@@ -82,7 +82,8 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3fb038678e546fda3f8e5fdc847fe5c0c1748cedc22d47599060b17a2510ec7af4c4432fc8bc0837875dd409d770d26a850351e5ef426dbd3493174ca374cc71&drmId=prod"
       },
      ]
-      {
+     },
+     {
     "name": "MOVIES 2",
     "samples": [
      {
@@ -176,6 +177,7 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
       },
       ]
+      },
       {
     "name": "MOVIES 3",
     "samples": [
