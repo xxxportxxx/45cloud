@@ -175,7 +175,58 @@
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
+      },
+      {
+    "name": "MOVIES 3",
+    "samples": [
+     {
+        "name": "GOOD BOYS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5d6896d048943f7582fa1_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023513X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7a17ef814ad670939d665e6a1631b3a0d180e8140c30c889d2f17bce2619d3bbf4554098b6d24b950b1393589482fde12595ca121613011a93682878069fccf0&drmId=prod"
+     },
+     {
+        "name": "OFFICIAL SECRET",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed0ff886d048943f754aef0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023689X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=f7c59b78dd253dbf09bf6db2e1727a4ee12f59812b16efc70f34ed215dfc221ed32452be6ebf02c88b790a6d2852281b580438a16b0e3acb39955667faefe069&drmId=prod"
+      },
+      {
+        "name": "TRIAL BY FIRE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda43ff6d048943f7559065_hbovodhd/dash0/MYS_index.mpd
+",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023669X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=475de1f0df76b4e7e1e4b17dd5ec18c739bea12633a11fbe85a665e6ab056f877d1d76212e1f0a4b7f09d0742b0ddb6d80c1f48ff43340bf31a921372f9b5d8c&drmId=prod"
+      },
+      {
+        "name": "JUSTICE LEAGUE VS THE FATAL FIVE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e5795b93a736626cec8da16_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023412X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=2d299f19a6c3853587e79569ba3477808db52fa00dd2bb99dfaa460668868f500efaf89527db2a9ac52d1e1431955940bbeedc22773811732811b6db5e6c898c&drmId=prod"
+      },
+      {
+        "name": "ANGEL HAS FALLEN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed105e96d048943f754af8e_hbovodhd/dash0/MYS_index.mpd
+",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023468X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7afc8202a4559141cbf0ba21e599f9cd7ba50818bedb0eead873186c03c06c2b68bcbd37842516c2d742c8d40fc7aa365e3d7171a25c273b57e767a097007cb6&drmId=prod"
+      },
+      {
+        "name": "TAKEN 2",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dea4839cbea8a6a4ef829dc_hbovodhd/dash0/MYS_index.mpd
+",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=022798X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=de8eb48a6e3bc194a5a05692f4f3233e9bc2ae7a85036d7fe78b6ccfc510cc70b92fa799e13feeb910b3391025c7164bf1808853ba293d3df4405ef0ccc71301&drmId=prod"
+      },
+      {
+        "name": "WANTED",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd514eccbea8a6a4ef62646_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009351X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f6aad42127da5f58050def4211afb7f4f1ff98e239ef77f85264e7e7ffb62a78c02da2d198c77d3421e50380e0cdcf086fdc2861b973888d6881b1022e74f905&drmId=prod"
       }
+    ]
+  }
+]
     ]
   }
 ]
