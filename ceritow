@@ -105,10 +105,10 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023669X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=475de1f0df76b4e7e1e4b17dd5ec18c739bea12633a11fbe85a665e6ab056f877d1d76212e1f0a4b7f09d0742b0ddb6d80c1f48ff43340bf31a921372f9b5d8c&drmId=prod"
       },
       {
-        "name": "VEERAM",
-        "uri": "https://iflix-videocdn-p1.akamaized.net/8f742/Veeram_Divo_TV_Feature_2(221912_ISMUSP).ism/Veeram_Divo_TV_Feature_2(221912_ISMUSP).mpd?idx=0&assetId=221912&userId=v_61-i_6153959",
+        "name": "TERMINATOR DARK FATE",
+        "uri": "http://1.9.58.102/88888888/16/20200213/268682591/268682591.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/221912?timeStamp=2020-09-15T13%3A39%3A13%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F8f742%2FVeeram_Divo_TV_Feature_2%28221912_ISMUSP%29.ism%2FVeeram_Divo_TV_Feature_2%28221912_ISMUSP%29.mpd&profile=offline&contract=c267e88df67dee3a4f8ca47b08758198&securityToken=r8zcbaYh6Spi_-aPljf7_gMoRyyW-EjoZarI-l1L3KE&account=source"
+        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
       },
       {
         "name": "ANGEL HAS FALLEN",
