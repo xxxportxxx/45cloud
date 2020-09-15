@@ -6,8 +6,7 @@
         "name": "IT CHAPTER 2",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023714X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=48362fe68742e4c2914f3c8ef62e4f2841d215973fb5ac4c17d54b32bce870288a8134c582a1c330fe16aff492641267a76bb462454e54c34b4b7e4abdc12302&drmId=prod
-"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023714X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=48362fe68742e4c2914f3c8ef62e4f2841d215973fb5ac4c17d54b32bce870288a8134c582a1c330fe16aff492641267a76bb462454e54c34b4b7e4abdc12302&drmId=prod"
       },
       {
         "name": "GEMINI MAN",
@@ -81,7 +80,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3fb038678e546fda3f8e5fdc847fe5c0c1748cedc22d47599060b17a2510ec7af4c4432fc8bc0837875dd409d770d26a850351e5ef426dbd3493174ca374cc71&drmId=prod"
       },
-     ]
+   ]
      },
      {
     "name": "MOVIES 2",
@@ -176,7 +175,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
       },
-      ]
+    ]
       },
       {
     "name": "MOVIES 3",
@@ -223,9 +222,6 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009351X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f6aad42127da5f58050def4211afb7f4f1ff98e239ef77f85264e7e7ffb62a78c02da2d198c77d3421e50380e0cdcf086fdc2861b973888d6881b1022e74f905&drmId=prod"
       }
-    ]
-  }
-]
     ]
   }
 ]
