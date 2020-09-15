@@ -1092,7 +1092,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       }
-    ]  
+    ]
   },
   {
     "name": "MNC PLAY NEWS",
@@ -1193,9 +1193,9 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       }
-    ]  
+    ]
   },
-  {
+   {
     "name": "MNC PLAY ADD-ON",
     "samples": [  
       {
