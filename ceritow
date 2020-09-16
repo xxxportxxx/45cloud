@@ -129,9 +129,9 @@
      },
      {
         "name": "VORTEX",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e877bf13a736626cecda14f_hbovodhd/dash0/MYS_index.mpd",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eab193c6d048943f751130b_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002729&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cce52c2907f2261e6763cdf3686b1b16b06cd841d64acaa01e6374af212e36b97e06c347495f980c7747ae25aa1af871996ecf3ebe551a8d9504e86e7017f9ad&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002729&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b3d047ef5d66a2adccd391e2409d9ebe26da60167b767d68b96dbf4e54b3ee6e7556056e746cb53dbfbe4f8b1a010a5fb03f8924f0a1d6f45da488fd2e76b11c&drmId=prod"
       },
       {
         "name": "TRIAL BY FIRE",
