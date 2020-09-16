@@ -21,7 +21,7 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023543X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=de4a5496897bedcdabf8941dc8ecd1771cbf9ed5f8cb9534b90619fe3f0d6a6d5acdcff2453a7529f82444c22972cb7c7a46ac0c9cc06e7cf14c530052acd3c3&drmId=prod"
       },
       {
-        "name": "FAST FURIIOU HOBBS & SHAW",
+        "name": "FAST FURIOUS HOBBS & SHAW",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023508X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=4809ce64186359d8131438a1edcdb6a924242aa2cf2473d737f0427d5ce603cbed372d9a8d645e1e9e9c67fc12d43422127c7f8f6e6e3ef603b4eeec4f7e252d&drmId=prod"
