@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TV1.MACAN" tvg-name="TV1.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", TV1
+#EXTINF:-1 tvg-id="TV1.MACAN" tvg-name="TV1.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", TV1
 https://delivery.macan.tv/stream/tv1/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="TV2.MACAN" tvg-name="TV2.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png", TV1
+#EXTINF:-1 tvg-id="TV2.MACAN" tvg-name="TV2.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png", TV1
 https://delivery.macan.tv/stream/tv1/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="TV2.MACAN" tvg-name="TV3.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
-https://delivery.macan.tv/stream/tv1/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="RIA.MACAN" tvg-name="RIA.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA
+#EXTINF:-1 tvg-id="TV2.MACAN" tvg-name="TV3.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV3_v1.png", TV3
+https://delivery.macan.tv/stream/tv3/playlist.m3u8?token=macangratisan&v=20200807
+#EXTINF:-1 tvg-id="RIA.MACAN" tvg-name="RIA.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_RIA_v1.png", RIA
 https://delivery.macan.tv/stream/astro_ria/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="PRIMA.MACAN" tvg-name="PRIMA.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png", PRIMA
+#EXTINF:-1 tvg-id="PRIMA.MACAN" tvg-name="PRIMA.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV2_v1.png", PRIMA
 https://delivery.macan.tv/stream/astro_prima/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="OASIS.MACAN" tvg-name="OASIS.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS
+#EXTINF:-1 tvg-id="OASIS.MACAN" tvg-name="OASIS.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Oasis_v1.png", OASIS
 https://delivery.macan.tv/stream/astro_oasis/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="RANIA.MACAN" tvg-name="RANIA.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA
+#EXTINF:-1 tvg-id="RANIA.MACAN" tvg-name="RANIA.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroRania.png", RANIA
 https://delivery.macan.tv/stream/astro_rania/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="AURA.MACAN" tvg-name="AURA.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA
+#EXTINF:-1 tvg-id="AURA.MACAN" tvg-name="AURA.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroAura.png", AURA
 https://delivery.macan.tv/stream/astro_aura/playlist.m3u8?token=macangratisan&v=20200807
-#EXTINF:-1 tvg-id="AWANI.MACAN" tvg-name="AWANI.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png", AWANI
+#EXTINF:-1 tvg-id="AWANI.MACAN" tvg-name="AWANI.MACAN" group-title="MALAYSIA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png", AWANI
 https://delivery.macan.tv/stream/astro_awani/playlist.m3u8?token=macangratisan&v=20200807
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans7.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/trans7.png", TRANS 7
 https://delivery.macan.tv/stream/id_trans7/playlist.m3u8?token=macangratisan&v=20200807
