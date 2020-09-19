@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TV1.MACAN" group-title="Lokal FTA" tvg-logo="https://linear-poster.astro.com.my/prod/logo/TV1_v1.png", TV1
+https://delivery.macan.tv/stream/tv1/playlist.m3u8?token=macangratisan&v=20200807
 #EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="Trans7.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/trans7.png", TRANS 7
 https://delivery.macan.tv/stream/id_trans7/playlist.m3u8?token=macangratisan&v=20200807
 #EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TransTV.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/transtv.png", TRANS TV
