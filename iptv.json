@@ -10,7 +10,7 @@
       },
       {
         "name": "	101 TV1",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
       },
@@ -22,7 +22,7 @@
       },
       {
         "name": "	103 TV3",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227509/3221227779.mpd",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
       },
