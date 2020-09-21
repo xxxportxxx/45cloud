@@ -1,5 +1,56 @@
-[
+"name": "UNIFI ANEKA",
+      "samples": [
        {
+        "name": "101 \nTV1",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
+        "name": "TV1",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
+      },
+      {
+        "name": "102 \nTV2",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
+        "name": "TV2",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
+      },
+      {
+        "name": "103 \nTV3",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
+        "name": "TV3",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
+      },
+      {
+        "name": "107 \nNTV7",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
+        "name": "NTV7",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
+      },
+      {
+        "name": "108 \n8TV",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
+        "name": "8TV",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
+      },
+      {
+        "name": "109 \nTV9",
+		    "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
+        "name": "TV9",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTQxNDJkY2EtYzFjNi0zZTJjLTlhZWEtYzBmMzU5NjA3YmI2"
+      }
+  ]
+   },
+   {
     "name": "UNIFI TV ANEKA",
     "samples": [
      {
