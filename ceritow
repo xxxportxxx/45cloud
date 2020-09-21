@@ -79,8 +79,8 @@
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecfaf426d048943f7548ed7_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023710X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8afbea1c8ebc5540be3fbcba1f3dbd977d02523058e4099a3f53da48e3ed33bd28d0f9e1d29c032a4079c20b6be972b72abf487586dca8516e120283395f802c&drmId=prod"
-	},
-	{
+},
+     {
         "name": "ANNA",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eec91536d048943f7574e2d_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
