@@ -38,7 +38,7 @@
       },
       {
         "name": "CRAWL",   
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023420X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8aafe33a736626cecdef24_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b14563ee96f0813cb5663d3b7116991b9dae8c3f193281ddb70ead847d5e5123e29d02dedd6d45e60e55e597540a55e928757193339c57cc7c192afedd815d04&drmId=prod"
