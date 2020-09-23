@@ -18,7 +18,7 @@
       },
       {
 	"name": "JOKER",   
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023711X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=df2cd4d72534aa363e68d5aa3a8411dd71097be6fefaab380d452f6981e1022def85868fdc775667203861990d2c5e048e783b5e72176abc703101a714bb643c&drmId=prod"
@@ -63,7 +63,7 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023512X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7ac0bc7ea1d54c27ae2e62825203a0cc8a5eedb2117eb8fe3802c97538755bdb099b14902fec9305b38dcb4c2ad8f238e88512187e04ac010f8b46d7111774fa&drmId=prod"
       },
       {
-        "name": "THE SECRET LIFE OF PETS 2",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023507X0-landscape.jpg",
+        "name": "THE SECRET LIFE OF PETS 2",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023417X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7d625d3a736626cecc6fd2_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023417X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b23712818828375e0835e18599effa47a8391b3d9918a3762582298bb6b8aace291815eb46021f818fa4263e4e1430dbd0481783e7de5961932ad964e911d371&drmId=prod"
