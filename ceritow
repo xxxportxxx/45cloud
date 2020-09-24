@@ -90,7 +90,7 @@
       },
       {
         "name": "ANNA",   
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023470X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023623X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eec91536d048943f7574e2d_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3fb038678e546fda3f8e5fdc847fe5c0c1748cedc22d47599060b17a2510ec7af4c4432fc8bc0837875dd409d770d26a850351e5ef426dbd3493174ca374cc71&drmId=prod"
@@ -102,7 +102,7 @@
     "samples": [
      {
         "name": "GOOD BOYS",   
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023513X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5d6896d048943f7582fa1_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023513X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7a17ef814ad670939d665e6a1631b3a0d180e8140c30c889d2f17bce2619d3bbf4554098b6d24b950b1393589482fde12595ca121613011a93682878069fccf0&drmId=prod"
