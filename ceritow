@@ -155,10 +155,10 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002729&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b3d047ef5d66a2adccd391e2409d9ebe26da60167b767d68b96dbf4e54b3ee6e7556056e746cb53dbfbe4f8b1a010a5fb03f8924f0a1d6f45da488fd2e76b11c&drmId=prod"
       },
       {
-        "name": "TRIAL BY FIRE",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda43ff6d048943f7559065_hbovodhd/dash0/MYS_index.mpd",
+        "name": "BUMBLEBEE",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/022847X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7e50503ae366782ad98498_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023669X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=475de1f0df76b4e7e1e4b17dd5ec18c739bea12633a11fbe85a665e6ab056f877d1d76212e1f0a4b7f09d0742b0ddb6d80c1f48ff43340bf31a921372f9b5d8c&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=022847X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=db71f533ff4ba4eac9f8fff02e7193ed921689a1619f6efc1756324659fa91d9ebeae16d17168fcb410c1ad7f2a182645f58ed92c8de1d24add47eba8f3e9bb1&drmId=prod"
       },
       {
         "name": "A SCORE TO SETTLE",   
