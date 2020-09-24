@@ -129,13 +129,13 @@
       },
       {
         "name": "TAKEN 2",   
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/022798X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dea4839cbea8a6a4ef829dc_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=022798X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=de8eb48a6e3bc194a5a05692f4f3233e9bc2ae7a85036d7fe78b6ccfc510cc70b92fa799e13feeb910b3391025c7164bf1808853ba293d3df4405ef0ccc71301&drmId=prod"
       },
       {
-        "name": "WANTED",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+        "name": "WANTED",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/originald/009351X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd514eccbea8a6a4ef62646_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009351X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f6aad42127da5f58050def4211afb7f4f1ff98e239ef77f85264e7e7ffb62a78c02da2d198c77d3421e50380e0cdcf086fdc2861b973888d6881b1022e74f905&drmId=prod"
