@@ -242,6 +242,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023775X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=828e9eb7c662d49e6382c95e8fd8a38faa214d13b0fade0aa70df69c0ce5bca548a1a942223d3bb671c74d3be83ad8c0073e540322d31e431477620b549a6e88&drmId=prod"
       },
       {
+        "name": "CRITTERS ATTACK",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023709X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5efec20f6d048943f759083b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023709X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3673bb4e9ec1fb31b355b7879d03dd7985ad510637344783fcc4c3f544dadb8047ad90684794fbd78eccccb09f69ead3316fa3f24c20ce1865b89b714b8e24b1&drmId=prod"
+      },
+      {
         "name": "SHAZAM",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023363X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd",
