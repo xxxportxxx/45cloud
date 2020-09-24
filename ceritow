@@ -57,6 +57,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b14563ee96f0813cb5663d3b7116991b9dae8c3f193281ddb70ead847d5e5123e29d02dedd6d45e60e55e597540a55e928757193339c57cc7c192afedd815d04&drmId=prod"
       },
       {
+        "name": "ANNABELLE COMES HOME",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023471X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023471X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=40a1778f427b427fbc7027ca6cae11031502287a4aeadab1494c3a32631115cb14a6db610d3cb62f7418815b24005e03dc7320d8d2d594d1194c7db8ed89c8cc&drmId=prod"
+      },
+      {
         "name": "DHOOM ANNIHILATION",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023507X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8629f03a736626cecd8128_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
