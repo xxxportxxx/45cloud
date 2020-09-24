@@ -235,6 +235,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023324X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=47b6ae27f9d43b7a7b1493493cbd411d7340f92d10905ffa2dda64f49229789de8e2864edff6bbd91dc1c81d3fe80b005a4a31c0a14ca6135b4455eb1de13aa4&drmId=prod"
       },
       {
+        "name": "REMEMBER ME",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023775X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f2275e06d048943f75c6cf9_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023775X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=828e9eb7c662d49e6382c95e8fd8a38faa214d13b0fade0aa70df69c0ce5bca548a1a942223d3bb671c74d3be83ad8c0073e540322d31e431477620b549a6e88&drmId=prod"
+      },
+      {
         "name": "SHAZAM",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023363X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd",
