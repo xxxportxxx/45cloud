@@ -30,6 +30,12 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023543X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=de4a5496897bedcdabf8941dc8ecd1771cbf9ed5f8cb9534b90619fe3f0d6a6d5acdcff2453a7529f82444c22972cb7c7a46ac0c9cc06e7cf14c530052acd3c3&drmId=prod"
       },
       {
+	"name": "THE ART OF SELF",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023510X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecf78ec6d048943f75489a0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023510X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=decb1234099c52c258cb851392bb7c3e4e889255d77e45e3d5d62beae3cb5ef3b743a937c8df63714c204ccc77d3b03b852880dea8ee0bb5018f24e70b7560d2&drmId=prod"
+      },
+      {
 	"name": "FAST FURIOUS HOBBS & SHAW",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023508X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd",
