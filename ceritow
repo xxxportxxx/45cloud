@@ -109,13 +109,13 @@
      },
      {
         "name": "OFFICIAL SECRET",   
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023689X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed0ff886d048943f754aef0_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023689X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=f7c59b78dd253dbf09bf6db2e1727a4ee12f59812b16efc70f34ed215dfc221ed32452be6ebf02c88b790a6d2852281b580438a16b0e3acb39955667faefe069&drmId=prod"
       },
       {
-        "name": "TRIAL BY FIRE",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+        "name": "TRIAL BY FIRE",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023669X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda43ff6d048943f7559065_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023669X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=475de1f0df76b4e7e1e4b17dd5ec18c739bea12633a11fbe85a665e6ab056f877d1d76212e1f0a4b7f09d0742b0ddb6d80c1f48ff43340bf31a921372f9b5d8c&drmId=prod"
