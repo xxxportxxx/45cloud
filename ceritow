@@ -57,6 +57,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b14563ee96f0813cb5663d3b7116991b9dae8c3f193281ddb70ead847d5e5123e29d02dedd6d45e60e55e597540a55e928757193339c57cc7c192afedd815d04&drmId=prod"
       },
       {
+        "name": "HUSTLERS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023796X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1fa9636d048943f75c28a2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023796X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8299aa141147f48ba2841fa7d8b81c72b468f93bcce63cc9225801025347882d9cbed5f06923c8a9c86fb47ffbef52a8770118add2ef5e94c74549da8651d5c8&drmId=prod"
+      },
+      {
         "name": "ANNABELLE COMES HOME",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023471X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd",
