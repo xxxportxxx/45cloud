@@ -9,115 +9,121 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023714X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=48362fe68742e4c2914f3c8ef62e4f2841d215973fb5ac4c17d54b32bce870288a8134c582a1c330fe16aff492641267a76bb462454e54c34b4b7e4abdc12302&drmId=prod"
       },
-      {
-        "name": "GEMINI MAN",   
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
+	"name": "GEMINI MAN",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb128ef6d048943f751a681_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023544X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=046ccdfe80411bf0ba2364e98c830b5ec877ef95cbe0f108fbc90b6409c91865662551754a359dfb480b3d330e9a78160ab2242fb430e1ce610370f041478b36&drmId=prod"
       },
       {
-	"name": "JOKER",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-landscape.jpg",
+	"name": "JOKER",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023711X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=df2cd4d72534aa363e68d5aa3a8411dd71097be6fefaab380d452f6981e1022def85868fdc775667203861990d2c5e048e783b5e72176abc703101a714bb643c&drmId=prod"
       },
-      {
-	"name": "DORA AND THE LOST CITY GOLD",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023543X0-landscape.jpg",
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023543X0-landscape.jpg",
+	"name": "DORA AND THE LOST CITY GOLD",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e877bbd3a736626cecda148_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023543X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=de4a5496897bedcdabf8941dc8ecd1771cbf9ed5f8cb9534b90619fe3f0d6a6d5acdcff2453a7529f82444c22972cb7c7a46ac0c9cc06e7cf14c530052acd3c3&drmId=prod"
       },
       {
-	"name": "THE ART OF SELF",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023510X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023510X0-landscape.jpg",
+	"name": "THE ART OF SELF",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecf78ec6d048943f75489a0_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023510X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=decb1234099c52c258cb851392bb7c3e4e889255d77e45e3d5d62beae3cb5ef3b743a937c8df63714c204ccc77d3b03b852880dea8ee0bb5018f24e70b7560d2&drmId=prod"
       },
       {
-	"name": "FAST FURIOUS HOBBS & SHAW",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023508X0-landscape.jpg",
+	"name": "FAST FURIOUS HOBBS & SHAW",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023508X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=4809ce64186359d8131438a1edcdb6a924242aa2cf2473d737f0427d5ce603cbed372d9a8d645e1e9e9c67fc12d43422127c7f8f6e6e3ef603b4eeec4f7e252d&drmId=prod"
       },
       {
-	"name": "ABOMINABLE",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023670H1-landscape.jpg",
+	"name": "ABOMINABLE",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1e811e6d048943f75c0c80_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023670H1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d3db7a20c748db556c821abd62df1ccec0fda63cf3d3299f3ac2d980ec15e364de25b44279132bb127c23bee2ff6e5b5d0698fd6ed6605939dbc4f8c31a22ef8&drmId=prod"
       },
       {
-        "name": "CRAWL",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023420X0-landscape.jpg",
+	"name": "CRAWL",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8aafe33a736626cecdef24_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b14563ee96f0813cb5663d3b7116991b9dae8c3f193281ddb70ead847d5e5123e29d02dedd6d45e60e55e597540a55e928757193339c57cc7c192afedd815d04&drmId=prod"
       },
       {
-        "name": "HUSTLERS",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023796X0-landscape.jpg",
+	"name": "HUSTLERS",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1fa9636d048943f75c28a2_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023796X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8299aa141147f48ba2841fa7d8b81c72b468f93bcce63cc9225801025347882d9cbed5f06923c8a9c86fb47ffbef52a8770118add2ef5e94c74549da8651d5c8&drmId=prod"
       },
       {
-        "name": "ANNABELLE COMES HOME",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023471X0-landscape.jpg",
+	"name": "ANNABELLE COMES HOME",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023471X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=40a1778f427b427fbc7027ca6cae11031502287a4aeadab1494c3a32631115cb14a6db610d3cb62f7418815b24005e03dc7320d8d2d594d1194c7db8ed89c8cc&drmId=prod"
       },
       {
-        "name": "DHOOM ANNIHILATION",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023507X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023507X0-landscape.jpg",
+	"name": "DHOOM ANNIHILATION", 
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8629f03a736626cecd8128_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023507X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=c0353cb08e22355be59a211ca83667b0f49a037fb1b25abed849098bfb68d8de61890f19ec153d88e9b423a678ae916e03601efe4637a46f1ba276f283ddc092&drmId=prod"
       },
       {
-        "name": "JARHEAD LAW OF RETURN",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023667X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023667X0-landscape.jpg",
+	"name": "JARHEAD LAW OF RETURN",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda38526d048943f7558f43_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023667X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b01c780cd8cf146f4e30b1e6bf6d049277010405657d64fc4a5ef772e4d4dbfc0e31efc67a6430cc1d0b38e0fa62e36b75bc22ca36b57475161624365a8f7c2a&drmId=prod"
       },
       {
-        "name": "INSIDEMAN MOST WANTED",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023512X0-landscape.jpg",
+	"name": "INSIDEMAN MOST WANTED",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb8028f6d048943f7524e46_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023512X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7ac0bc7ea1d54c27ae2e62825203a0cc8a5eedb2117eb8fe3802c97538755bdb099b14902fec9305b38dcb4c2ad8f238e88512187e04ac010f8b46d7111774fa&drmId=prod"
       },
       {
-        "name": "THE SECRET LIFE OF PETS 2",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023417X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023417X0-landscape.jpg",
+	"name": "THE SECRET LIFE OF PETS 2",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7d625d3a736626cecc6fd2_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023417X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b23712818828375e0835e18599effa47a8391b3d9918a3762582298bb6b8aace291815eb46021f818fa4263e4e1430dbd0481783e7de5961932ad964e911d371&drmId=prod"
       },
       {
-        "name": "FIST OF FURY",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX001572-landscape.jpg",
+	"name": "FIST OF FURY",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd2763ecbea8a6a4ef5e66a_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX001572&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=769bdee593db4ad6d4fe26e07c1caf714a929b44f1795a2b562195a9e1c3d13dd62a317a43ef05c0b78b767f299a3ee6b522f69f9f281e43e73a83218dcb584c&drmId=prod"
       },
       {
-        "name": "RAMBO LAST BLOOD",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023425X0-landscape.jpg",
+	"name": "RAMBO LAST BLOOD",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb7f8196d048943f7524d45_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023425X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=85f16c5f7a4daed5c07e97a4807f267f2ee8d91a577526dca8249baee14b426df3dfe340061c83a4d079b517d2efb993a6bf5042e6498468d1f4a2938358aeb1&drmId=prod"
       },
       {
-        "name": "TEEN TITAN GO VS TEEN TITAN",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+	"name": "TEEN TITAN GO VS TEEN TITAN",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecfaf426d048943f7548ed7_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023710X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8afbea1c8ebc5540be3fbcba1f3dbd977d02523058e4099a3f53da48e3ed33bd28d0f9e1d29c032a4079c20b6be972b72abf487586dca8516e120283395f802c&drmId=prod"
       },
       {
-        "name": "ANNA",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023623X0-landscape.jpg",
+	"name": "ANNA",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eec91536d048943f7574e2d_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3fb038678e546fda3f8e5fdc847fe5c0c1748cedc22d47599060b17a2510ec7af4c4432fc8bc0837875dd409d770d26a850351e5ef426dbd3493174ca374cc71&drmId=prod"
