@@ -258,12 +258,6 @@
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
       },
       {
-        "name": "	472 ANIMAX HD",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227574/3221227574.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
-      },
-      {
         "name": "	473 BLUE ANT ENTERTAINMENT HD",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
         "drm_scheme": "widevine",
