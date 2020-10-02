@@ -1373,11 +1373,11 @@
         "uri": "https://delivery.macan.tv/stream/astro_aura/playlist.m3u8?token=jm7hs&v=20200807"
       },
       {
-        "name": "BERNAMA TV",
+        "name": "BERNAMA",
         "uri": "https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8"
       },
       {
-        "name": "AWANI",
+        "name": "ASTRO AWANI",
         "uri": "https://delivery.macan.tv/stream/astro_awani/playlist.m3u8?token=jm7hs&v=20200807"
        }
     ]
