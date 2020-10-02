@@ -1342,6 +1342,9 @@
     ]
       }, 
       {
+    "name": "ASTRO CHANNEL",
+    "samples": [ 
+      {
         "name": "ASTRO CERIA 1",
         "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157481?play_token=x5uwQTLHSh"
       },
