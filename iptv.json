@@ -1342,119 +1342,99 @@
     ]
       }, 
       {
-    "name": "PREMIUM MOVIES",
-    "samples": [
-      {
-        "name": "HBO MY",
-   "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjUxNzh9fX1dfQ__&Signature=CA38caVHtIONMzbs0ISaG6v8KS~EHQKLeYp8sRFm0N14v153Qw6iX7bcjor6wUIw6EsrUkQqOGaa7TFfwD9GlYoPZUIjjOpqWyAfdhbpLS1UTIp611tUhTz3LoFg5~7eKtPRQ87zj4uKGsmx7Pr8mbUs21xH2VCwKykrzqxgazKxbNDZT9FXl6aTx-cD2riby3ff-PdRzVoifPOjzKZdu~GQrathWSbeCs8peuJVToJwk0lKBBtmoFsRnx4fp51ldi5NDA3BiTTP5n5gqcDrw7Do5E7C6AqbP2TYBrVYLqIYlZICYFCLiQzizM4YWWhHIx8yNbNKOAOj8kHwjvzkAA__&Key-Pair-Id=APKAJFBTWETXLROKW43A="
+          "name": "ASTRO CERIA 1",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
+        "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157481?play_token=x5uwQTLHSh"
       },
       {
-        "name": "HBO FAMILY",
-        "uri":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU3MjN9fX1dfQ__&Signature=CNMl93pxwEbjrfHyuEe8G6eoVrjNOcpIcobHYlu2kX~rYQ75bY6WgVFbxFbnYerRoS1coplGAWRr-jAzpn-NKyb460RfstpwXAnWgHQ--oAPYN5OTh0oJE4~3auqekYYv79bE-8gHXg~ndqvVKWXXFVOFA9WtWpptQdRkIIW38knIxXfv4uRTCO2DdzUDPMV~RboGa0Mm6iLyu9YOWjb2nemOIXl2H68khlHyYjsA0P-v5Fmu~hwsMVMmbPTqK1ZvqtyNCv64lX5okS58vyJDU5-XlCU43dhjQHkwdqMg81KUt8NROt8oVHWvA9Z7PhYA721f1Ig0NkClGaK2xRMzw__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+          "name": "ASTRO CERIA 2",
+          "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/386_144.png",
+        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110228?play_token=hOTKI9qzX0"
       },
       {
-        "name": "HBO HITS",
-        "uri":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk2NDY1NjA5fX19XX0_&Signature=DDcttMFRkcFIpC2qfidK7MWtXlS2uQRmBRry9gWwKh3FdQ7QXb8fygs8ZGGre3SwMiWF1P5S3YUmtj2HFeTZSSXkjaKSOt1WGBSXtj4hADX98BOkLuGe~rQKlHv3vDjQQhI~Nog0jt5Cd1MGx~UeW572KdWJjtSPAtrLlRnnGOo4FK4Dp7pA~mWmHSWY~Y3i7Z1rJ2WDqGzVY-YDNt7rq3o4csbJVIAKtWuHAz1hBOtBgdBRIDmosNZeZDiq0rKdFQCOmuwRsxfKoEBJ1suN2iYeYVFnCC94ZVXyHNcvhsVgctB6ABHB38WvbRzBnSHgCecFKECgtoqfNClxyTAMkg__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+        "name": "ASTRO OASIS 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
+        "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110157?token=GRdRWUpbQV9BUghfV1ZUWlYEWV9UDwoCV1ZTBAdRDwcBAgBaWwFXUVMRFEQQFxAGVQxnD1YVCVACU1UHB08aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FWgwOFBtDCgFBCRpXUFRbUhZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFICVwlEHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBU1IHUg1ETw=="
       },
       {
-        "name": "HBO SIGNATURE",
-        "uri":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU0NjR9fX1dfQ__&Signature=e-k0-w8aZRq5B45nX5nfrJODjkSJHPLux5eYAio1Kzrn5J1B8xPmjmLaqv63Ogn-KWGtJwiEYgGqXjA4PZ4E0RqOLkvs~wHua9pXVT6Bi5Jo9AnwfAGgKDSceH55T9lHP6a4xg4fM1r0YBF3elRc8dq1qwlEmbQZlG~gdn6Nj0-nbqM0UrJ4wnH1WFLcHLbCAHu0o0MmzVQxNvXSN-XvJPoSV5VmpL4tQwErBoKTC8SJh9Trr9lC2t~JLXKIp0EOPVkKRZMaQpCoQoeZOgxlhVuGVh4D5X4nrVyKIqYmC38s6BgmbaZcTv-DHfuIIniE1dOTiLThKsPGtTiiWkBJpg__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+        "name": "ASTRO OASIS 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",
+        "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157489?play_token=gg2FGCFzDw"
       },
       {
-        "name": "CINEMAX",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU3NDN9fX1dfQ__&Signature=Ly0UYA72JsptZty-ee3tpEgmz2lbn2UlMGmVJFj0mMEr8AZxDt6H61LKiGk9-SIUh0DWaiC9IE2oNW1N0z6MtqG6GJaQ4-zt4E9F~VXtzH3nYulR-P9AzmtCEJrKhCIuPc0DTgniqFYu-B3kYarConRCyOVAO851qiCn9-7T90VNGWaY9nZfqj-opO5WH6~omKVZPQ0SBOXKuC4ofGZwWJZpSyVRdNYM~EryNAyawp9hV0d8C0FwL33idPFfjTeoT5j5lluWX9wD6z4l2EA~CdVgSOkCEPPG4BSgra4KQu1lIL~2Nykzwyq2foNPYAQgF3TDxecuMlwIChF2ikBF2A__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+        "name": "ASTRO WARNA 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
+        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110158?play_token=YHb1uMvSBg"
       },
       {
-        "name": "RED BY HBO",
-     "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU4Nzd9fX1dfQ__&Signature=a-npp~tGhx7xLO2Y5k0gFGgUVaGgkrbb309Z5oRknxY~Gd-nzV6UtLLysTauju1pg~z6NVeGkA07y85aCW7uN85irc2dH8ox~ReA4DrjHhcqxab2O2b1peqW8-kJahK3CKHxBLg~4Vx~QhCOT6BgWaFyyb0MQN5GY0kybnoEIcitMnUv~LRmzzWfZvwKtYThaqDddzS47ZZJ0SO0uzM6H~36SOIjPjKCO7UEPfCudgtREmfcXhG6N1OWMmFieNEhwIIA4W~8hB7C7OOgUm86Z6PMeIOxCU9EB2iWtwM8jBi3bhnivKolGSAlbt44PT6GNwykYZhzDy5vrJIEowIIPw__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+        "name": "ASTRO WARNA 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/272_144.png",
+        "uri": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157492?play_token=BQFceXMXzH?play_token=BQFceXMXzH&token=ShUNAEFcElxEWgEADg5VBFUNBgBUVQZYAAcFVQdQBVVXUldSBgECU1EaGEZKTREDAFhpWAUVDwgDBldbBU5DFkJSFz5bUBJcRAwBUw0OQUpDQV9cBBUPCAABU1QAWlNaCBtHEVtQElxECgdUDQ9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVJWFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggIW1RXF0s="
       },
       {
-        "name": "Sony PixHD",
-        "uri": "http://103.194.169.115:25461/NKeqS0uTC6/jB1bFWpqH6/54057?play_token=Bl9uaoN0Uc&token=GRdRWUpbQV9BC14AAFQBWwRQW1RWDgpZBVJRVwECAQFWBgteDlVSUFQRFEQQFxAGVQxnD1YVCVQHU1EFHEFNQgdHZlFdEVlHUgYNUVRaUUEYQ0wPX1IRWwJWXQcGVg4CWwQVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "name": "ASTRO RIA 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
+        "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110155?token=GRdRWUpbQV9BUABeVwUDVwBVC1NTAwdUV1tRCgUGAANRDFxZDFUBB1ERFEQQFxAGVQxnD1YVCVACU1UHBU8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FVAUKFBtDCgFBCRpUVltVQRhDXR5GUkEPUg87VlUVUVIHFwNWTF8PSUFcVjkHBg8CWgUaXBAGEU0RChdCEllWRA5ZFRpbWhcXAkddRFkNFw9YTRoFXUJdFUEaRggSLmETThdcQE1WDRYKXFZEWUEWEBZNGg9BaEEEQBcWV1EOXUNADxsIGx9BCAJLZwUMDQwGVxVRCVxEEVsRUkYeEg5XXwtBVkpmQwoBQQkaUlFWVkFJ"
       },
       {
-        "name": "HBOHD",
-        "uri": "http://195.181.174.34:25461/NKeqS0uTC6/jB1bFWpqH6/54015?play_token=FdG20P9qbK&token=GRdRWUpbQV9BVg5UUVBVAFFXXFULDgpRC1sFAQRXDgdSAQkKDlFVUlIRFEQQFxAGVQxnD1YVCVQHU1UHHEFNQgdHZlFdEVlHUgYNUVRaUUEYQ0wPX1IRWwJWXQcGVg4FVwIVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "name": "ASTRO RIA 2",
+         "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/193_144.png",
+        "uri": "http://iptv-line.com:7899/sISPXwFT5S/wA7bQl7OX8/110155?play_token=UXV18MQ1Dk"
       },
       {
-        "name": "Red By HBO",
-        "uri": "http://62.210.127.217:8080/tZGkdkfR4r/J13UM0kfVz/28650?play_token=uqpN7yEl64&token=QhVcUhcJRggXBQUCUVUFUFVVUANWAwFRU1dXVARWUVAPDwBQVANSBQRGGURBEkJRAFtpWgVEXlFdUgBRSkAXElxFa1oAQ14QB1IEUANeEhhDQl9eBEReUlBdAFVWUFJSDxsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI"
+        "name": "ASTRO CITRA 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
+        "uri": "http://iptv-line.com:7899/htlbdi4E5n/g5HfRs97Y7/110270?token=GRdRWUpbQV9BVVxRUVpSBQMAXFcLBVdXBgdSAAJUCQYABwBeW1EGXVARFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIAVlNbVFAWTRoSW1pWQwlSUgIAVwADWwUNFBtDCgFBCRpUVlJQVRZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZQFIAUQ9EHhVQDkYNEEBJQQITL2wbFBtWGxEGXUsPDA1AWRYVS0QeFVoSbBEBQUQRXVAPUEsaAxFTR08RVQcbPAEMWg9dBUZeXA9AQV4QAUEUEw9aV1FNXBE6E1pcRFlBUFYFUQlETw=="
       },
       {
-        "name": "Colors InfinityHD",
-      "uri":"http://103.194.169.115:25461/NKeqS0uTC6/jB1bFWpqH6/54155?play_token=TnBNVkQMuM&token=GRdRWUpbQV9BBFpRAVEAV1dSCF5RVgNZUAEHAFFVCQFSAA4PW1dQXVIRFEQQFxAGVQxnD1YVCVQHUlEHHEFNQgdHZlFdEVlHUgYNUVRaUUEYQ0wPX1IRWwJWXQcGVg4HWg0VGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "name": "ASTRO CITRA 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png",
+        "uri": "http://185.59.222.189:25461/hHQcyglr3i/DsIXstfyTnisshared/110270?token=GRdRWUpbQV9BVg9TUABTUwxRCgVQA1AHC1RQCgACXlJaU1heDgIHB1MRFEQQFxAGVQxnD1YVCVACU1YFAE8aRBFQS2dQV0FfQQIPUlBSUlIWTRoSW1pWQwlSUgIBUg4FWwMIFBtDCgFBCRpUVFdTURZNGgNKQ1YTXQIIbVQGTlgBUBsCV0YPCU8RVwg8BwcOVQ9cRAgVAkMfQQ1BQEECXxdZVRQbUQoREVJMA0FZDBZYDRREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFFUUVQGQ0U="
       },
       {
-        "name": "MNPlusHD",
-        "uri": "http://103.194.169.115:25461/NKeqS0uTC6/jB1bFWpqH6/54104?play_token=HrSZirWF06&token=GRdRWUpbQV9BVgkFUVQBAlZTDlQEVABRV1dSAlVSAVRTVA5ZDgIAU1ERFEQQFxAGVQxnD1YVCVQHUlQGHEFNQgdHZlFdEVlHUgYNUVRaUUEYQ0wPX1IRWwJWXQcGVg4JUgUVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "name": "ASTRO PRIMA 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
+        "uri": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/157467?play_token=szH1jWfxOj?play_token=szH1jWfxOj&token=ShUNAEFcElxECQVQCApSUgdTDwNWAAxcB1JXV1VSBwICAgFQCwxWBwAaGEZKTREDAFhpWAUVDwgDBldUAE5DFkJSFz5bUBJcRAwBUw0OQUpDQV9cBBUPCAABU1QAWlVRCRtHEVtQElxECQFTDglBSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVNRFxoTAlhAV0JDGkANQDM2ExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORgwIW0Qc"
       },
       {
-        "name": "MNXHD",
-        "uri": "http://103.194.169.115:25461/NKeqS0uTC6/jB1bFWpqH6/54103?play_token=7Kti39t5sG&token=GRdRWUpbQV9BAw4EVVIDBwNXDFIHUlcDBFJWBghXWgQGAlgLW1cFB1ERFEQQFxAGVQxnD1YVCVQHUlQBHEFNQgdHZlFdEVlHUgYNUVRaUUEYQ0wPX1IRWwJWXQcGVg4JUQEVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
+        "name": "ASTRO PRIMA 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",
+        "uri": "http://iptvtree.net:8080/F11664/1704fb2b/157467?play_token=jFOs6rstAS"
       },
       {
-        "name": "Now MoviesHD",
-        "uri": "http://103.194.169.115:25461/NKeqS0uTC6/jB1bFWpqH6/54102?play_token=g49sBB3kmX&token=GRdRWUpbQV9BAw4CVQVbVFBTWVRQBQQCVgUHUAhTCQFVUQxaXVEHBAcRFEQQFxAGVQxnD1YVCVQHUlQAHEFNQgdHZlFdEVlHUgYNUVRaUUEYQ0wPX1IRWwJWXQcGVg4JVQQVGklaB0dZEQtTWldATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAMVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFRUVQFQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFBWVVYWHA=="
+        "name": "ASTRO RANIA 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
+        "uri": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/171984?play_token=yXZMsAb7qk?play_token=yXZMsAb7qk&token=ShUNAEFcElxEWVEGWwpTUVMBUAgHVVNfU1MCVVZSWQJSA1wHUQwCX18aGEZKTREDAFhpWAUVDwgBAFpaA05DFkJSFz5bUBJcRAwBUw0OQUpDQV9cBBUPCAABU1QAWlZUARtHEVtQElxECQZXCw9BSkNQTkUERVtYWm4HB0ELAgYTDQsUXlgcRAlWawBcVAIIBRcME1EVGRtfQhNADQwUD10bRwNbQEIHEl0WXhsIVVVSFxoTAlhAV0JDGkANQCMkExtHBEpAVQgVUVsKGwNBEhIXGhMIRGpLU0IXEFIDDAZDFV9DAhYcRAtZTDtaVg0IBFZCWA5ZRhsME1JAG0AMDF9eEQ5Aa0APAhoORggLV1FDSA=="
       },
       {
-        "name": "And PicsHD",
-        "uri": "http://iptv-line.com:7899/thomasdj19821/vODCWh1y/54060?play_token=ikoudmnqHb"
+        "name": "ASTRO RANIA 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",
+        "uri": "http://85.203.33.120:25461/ix0CrC6K5S/bSyblbESqM/174348?play_token=AfGGqkAKZR&token=ShdcBRFREglDBwtWAFFaDwBWCFsPCFBVBQQAAFEGDgMFBwEABw8HBARGHxERR0tSUF5mClwbCQZRUQoBD04bRUJQRjsLXRIJQ1AGA1QDDRUdEU0KVVwRDVdTCQUAUQoIAAAYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
-        "name": "And XplorHD",
-        "uri": "http://iptv-line.com:7899/rebel.robert1/yQVpCdG9/303?play_token=ePgbLXn8k2"
+        "name": "ASTRO AURA 1",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
+        "uri": "http://85.203.33.120:25461/ix0CrC6K5S/bSyblbESqM/174350?play_token=cJ9WD3OqMO&token=ShdcBRFREglDBgVQAQYKVAIACFAPXAFWBVBfBVIDAAMBUwRUVQACC1BGHxERR0tSUF5mClwbCQZRUQoAB04bRUJQRjsLXRIJQ1AGA1QDDRUdEU0KVVwRDVdTCQUAUQoIBAYYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
-        "name": "Zee CinemaHD",
-        "uri": "http://iptv-line.com:7899/olayemioa1/yHsiE1AJ/54228?play_token=jmTYlicmTT"
+        "name": "ASTRO AURA 2",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",
+        "uri": "http://85.203.33.120:25461/ZP2TRfbKjW/t9TY3rkNPR/174350?play_token=4W8WlIMzHh&token=ShdcBRFREglDAQNQVQJdBwECCwUIDAMFB1UKVg4AC1EAVwQGAVxTUlJGHxERR0tSUF5mClwbCQZRUQoAB04bRUJQRjsLXRIJQ1AAAVUBCRUdEU0KVVwRDVdTCQQHVQEJBwMYRhJQVBFbCkZfDh8bUklHXBFWWF9oAgBPXFQHGwpfQFgIThtfXT4AVl4DXV0VCxEIQRQbWkQWRwNbQg5VHBNXXRAQWERWQ15dRg5fFRVSXEwNTEtKFVxHdGwVThtVSUFRChFQX11DXhFHEREVFVhAZhFdSkdFAwRUUEVAAxIBFxhGD1hIbAILXV0HUE1eXl1KQQIbAhVKR1RaWQtNX0NqRA0GGwpdFAhfTg=="
       },
       {
-        "name": "Colors CinePlexHD",
-        "uri": "http://iptv-line.com:7899/greekgr1/uWnSc7fW/54090?play_token=VFhyA1GsZR"
+        "name": "TAYANGAN HEBAT",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+        "uri": "http://iptvtree.net:8080/Line1051/f4fffd47/195647?play_token=JFCRnCrlYj"
       },
       {
-        "name": "BOLLYONE HD",
-        "uri": "http://185.59.222.189:25461/NKeqS0uTC6/jB1bFWpqH6/110176?play_token=I0gKdsCXNo&token=GRdRWUpbQV9BBA1UVlYBVwZUDVQEAARTUFUBCwMBW1dQUQoBXwBWVQERFEQQFxAGVQxnD1YVCVACU1UFBk8aRBFQS2dQV0FfQQINU1RUW1AWTRoSW1pWQwlSUQsFVQ4JUQwPFBtDCgFBCVYTDw9OQVEZTANAWVINbAcBRFkAXRNYW0xUVR9BCg1sXAMOAgwHFlsaVxAbEQhAE0YIXhZUXU4XW1FNQQIRBhECCBYPDk8WAlcTXENBGBFZRn9pQRQTB01NXVdACgoNEQJEFxBATxYISzlAUkAVQQYFX1URGgtABRsUG14CHTxQVwgNBgEXXQ5WFRANEVART0ZfXw1RRQ1HZkhQV0FfDUZUCh4="
+        "name": "ASTRO BOO HD 1",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+        "uri": "http://iptvtree.net:8080/F11664/1704fb2b/171958?play_token=3EG34Htbkm"
       },
       {
-        "name": "D2H Movies HD",
-        "uri": "http://103.194.169.115:25461/Gilbertusevans1/Vut4paSy/54226?play_token=lxrPIC6ZpK&token=GRdRWUpbQV9BVl5QUlRXBgZRW1RRAwEEAlIHBglRWQlQBAsNAVVSA1ARFEQQFxAGVQxnD1YVCVQHUVYEHEFNQgdHZlFdEVlHUgsMVldaVEEYQ0wPX1IRWwJWXQcHUAEEUAAVGklaB0dZXU0KD09ABkwVXRRcVl8+VwYSW1MGGgsMQFVUFREMCzxXXQsCDQZBDkMJRB4VWhJDQV5cRQ9UHUBXUExLUhcAQQlWEw8PTkFXDk0IRkVKQwlBKWsSTxpUGkFcVkpaDAtBCRoSEEFOQV0SZxRXREcTVgIJV0JBAhNSFxUaVFIbOgBcVggGABYKWw9LRAgVAkMfQQldXgpMXhBqSVFdEVkLFl9UGw=="
-      },
-      {
-        "name": "Etv Movies",
-        "uri": "http://mantul.biz.id:8888/randu/280520/227"
-      },
-      {
-        "name": "Etv Cinema",
-        "uri": "http://mantul.biz.id:8888/randu/280520/237"
-      },
-      {
-        "name": "Etv Indo",
-        "uri": "http://mantul.biz.id:8888/randu/280520/230"
-      },
-      {
-        "name": "Cinemax US",
-        "uri": "http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/3551"
-      },
-      {
-        "name": "Cinemax MoreMax",
-        "uri": "http://iptv-line.com:7899/cuscun-748238/03lSCtOyS0/46831"
-      },
-      {
-        "name": "X SciFi HD",
-        "uri": "http://iptv-line.com:7899/live/Alen023/alen02/3448.m3u8"
-      },
-      {
-        "name": "X Action HD",
-        "uri": "http://iptv-line.com:7899/live/Alen023/alen02/3443.m3u8"
-      },
-      {
-        "name": "X Premium3 HD",
-        "uri": "http://89.187.181.223:25461/Sergioferreira9465/onhc9WnV5I/31315?play_token=B0hjaR2WiZ&token=GRdRWUpbQV9BUV1TVFIAVwFYClAGAVFVUVQFAgNVAVJRAVoNWgtQVlsRFEQQFxAGVQxnD1YVCVICUFUHHEFNQgdHZlFdEVlHUgsOV1pWUEEYQ0wPX1IRWwJWXQcHUQ4BVQUVGklaB0dZEQ5VWltATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAIVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFRVFsDQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJaWlYWHA=="
-      },
-      {
-        "name": "X Thriller HD",
-        "uri": "http://89.187.181.223:25461/Sergioferreira9465/onhc9WnV5I/31312?play_token=01Y2W10Zpu&token=GRdRWUpbQV9BB1sEUwIGW1JYCgUDAgcDBVAGVgJVWVNRVlsOC1ZbUFoRFEQQFxAGVQxnD1YVCVICUFUAHEFNQgdHZlFdEVlHUgsOV1pWUEEYQ0wPX1IRWwJWXQcHUQ4FVgQVGklaB0dZEQBVUVZATxYEQBJXRV0AXzwAV0YKW1RAD1dNVV9PRwxdZwIGDgMNUEMCRAIVH0NaEBQQCg1NXQ4ZG1pQRxEEF1YaXEFRUlYNQxREUVhGD0cRHRAKQXVoQBkbXUFHBgsQWlcIQVlAF0dDFERbRGwTVhAQQFUCVVQQFwMaCRFPRw5SQDkADAwNUQJMD11ZQEMJQVUQHEFVXgxcTVdLbBMMBxECRFJaUFIWHA=="
+        "name": "ASTRO BOO HD 2",
+        "logo_uri": "https://i.postimg.cc/pXRBjBGR/400x400.png",
+        "uri": "http://iptvtree.net:8080/test-2dbbab/a422/171958?play_token=CxU10pLCGY"
        }
     ]
   }
