@@ -10,6 +10,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023714X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=48362fe68742e4c2914f3c8ef62e4f2841d215973fb5ac4c17d54b32bce870288a8134c582a1c330fe16aff492641267a76bb462454e54c34b4b7e4abdc12302&drmId=prod"
       },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023715X0-landscape.jpg",
+	"name": "PLAYING WITH FIRE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f48dcd56d048943f7601331_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023715X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d82ca2fc60969e50130ccae9ca8f60d54bf042cd5464f202c864870a9cd0c4f65f10ca1023c1fb7fe2a8003ff341e3a3612658647ca8ecd5017134374c00c905&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
 	"name": "GEMINI MAN",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb128ef6d048943f751a681_hbovodhd/dash0/MYS_index.mpd",
