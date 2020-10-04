@@ -17,6 +17,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023715X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d82ca2fc60969e50130ccae9ca8f60d54bf042cd5464f202c864870a9cd0c4f65f10ca1023c1fb7fe2a8003ff341e3a3612658647ca8ecd5017134374c00c905&drmId=prod"
       },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023234X0-landscape.jpg",
+	"name": "HAPPY DEATH DAY 2U",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5da00b89cbea8a6a4ef1179d_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023234X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6ef78dfedbbad1762efee04cc16896ba52bc44a7c1989e1ad5e11830c54a19f834fd23e5eb96366fd68a5405541032cd63b170da519cfb13612b631ff57f96d0&drmId=prod"
+      },
+      {  
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
 	"name": "GEMINI MAN",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb128ef6d048943f751a681_hbovodhd/dash0/MYS_index.mpd",
