@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv1.png", tv1
+https://delivery.macan.tv/stream/tv1/playlist.m3u8?token=jm7hs&v=20200807
+#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv2.png", tv2
+https://delivery.macan.tv/stream/tv2/playlist.m3u8?token=jm7hs&v=20200807
+#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv3.png", tv3
+https://delivery.macan.tv/stream/tv3/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="AstroRia.my" tvg-name="AstroRia.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_ria.png", Astro Ria
 https://delivery.macan.tv/stream/astro_ria/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="AstroPrima.my" tvg-name="AstroPrima.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_prima.png", Astro Prima
@@ -9,14 +15,14 @@ https://delivery.macan.tv/stream/astro_oasis/playlist.m3u8?token=jm7hs&v=2020080
 https://delivery.macan.tv/stream/astro_ceria/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="AstroWarna.my" tvg-name="AstroWarna.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_warna.png", Astro Warna
 https://delivery.macan.tv/stream/astro_warna/playlist.m3u8?token=jm7hs&v=20200807
-#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="AstroAwani.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_awani.png", Astro Awani
-https://delivery.macan.tv/stream/astro_awani/playlist.m3u8?token=jm7hs&v=20200807
-#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="AstroNaura.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_naura.png", Astro Naura
-https://delivery.macan.tv/stream/astro_naura/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="AstroAura.my" tvg-name="AstroAura.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_aura.png", Astro Aura
 https://delivery.macan.tv/stream/astro_aura/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="AstroRania.my" tvg-name="AstroRania.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_rania.png", Astro Rania
 https://delivery.macan.tv/stream/astro_rania/playlist.m3u8?token=jm7hs&v=20200807
+#EXTINF:-1 tvg-id="AstroAwani.my" tvg-name="AstroAwani.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_awani.png", Astro Awani
+https://delivery.macan.tv/stream/astro_awani/playlist.m3u8?token=jm7hs&v=20200807
+#EXTINF:-1 tvg-id="AstroNaura.my" tvg-name="AstroNaura.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/astro_naura.png", Astro Naura
+https://delivery.macan.tv/stream/astro_naura/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NetTV.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/net.png", NET.
 https://delivery.macan.tv/stream/id_nettv/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="Indosiar.MACAN" group-title="Lokal FTA" tvg-logo="https://cdn.macan.tv/img/indosiar.png", INDOSIAR
@@ -269,12 +275,6 @@ https://delivery.macan.tv/stream/zeetv/playlist.m3u8?token=jm7hs&v=20200807
 https://delivery.macan.tv/stream/zeecinema/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="Zing.sg" tvg-name="Zing.sg" group-title="India" tvg-logo="https://cdn.macan.tv/img/zingtv.jpg", Zing
 https://delivery.macan.tv/stream/zing/playlist.m3u8?token=jm7hs&v=20200807
-#EXTINF:-1 tvg-id="TV1.my" tvg-name="TV1.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv1.png", tv1
-https://delivery.macan.tv/stream/tv1/playlist.m3u8?token=jm7hs&v=20200807
-#EXTINF:-1 tvg-id="TV2.my" tvg-name="TV2.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv2.png", tv2
-https://delivery.macan.tv/stream/tv2/playlist.m3u8?token=jm7hs&v=20200807
-#EXTINF:-1 tvg-id="TV3.my" tvg-name="TV3.my" group-title="Malaysia" tvg-logo="https://cdn.macan.tv/img/tv3.png", tv3
-https://delivery.macan.tv/stream/tv3/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="BBCWorldNews.MACAN" tvg-name="BBCWorldNews.MACAN" group-title="News" tvg-logo="https://cdn.macan.tv/img/bbc_world_news.png", BBC World News
 https://delivery.macan.tv/stream/id_bbcworldnews/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="NHKWorld.MACAN" tvg-name="NHKWorld.MACAN" group-title="News" tvg-logo="https://cdn.macan.tv/img/nhk_world.png", NHK World
@@ -324,4 +324,4 @@ https://delivery.macan.tv/stream/live_2/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="Live.id" tvg-name="Live.id" group-title="Entertainment" tvg-logo="https://cdn.macan.tv/img/live.png", LIVE #3
 https://delivery.macan.tv/stream/live_3/playlist.m3u8?token=jm7hs&v=20200807
 #EXTINF:-1 tvg-id="Live.id" tvg-name="Live.id" group-title="Entertainment" tvg-logo="https://cdn.macan.tv/img/live.png", LIVE #4
-https://delivery.macan.tv/stream/live_4/playlist.m3u8?token=jm7hs&v=2020
+https://delivery.macan.tv/stream/live_4/playlist.m3u8?token=jm7hs&v=20200807
