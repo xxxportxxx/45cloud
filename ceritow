@@ -18,6 +18,13 @@
       },
       { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023234X0-landscape.jpg",
+	"name": "THE DARE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e5cbc343a736626cec95714_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023472X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3be4bcdd0e8b355bf3fc53944e8ecccc0013049f2c25b566a2a47680015ff2975dc6d49f21c467d6eb632838faa642df3a4209b4a46744436bd0b465aa6b9763&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023234X0-landscape.jpg",
 	"name": "HAPPY DEATH DAY 2U",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5da00b89cbea8a6a4ef1179d_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
