@@ -64,34 +64,6 @@
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
-      },
-      {
-        "name": "WARNER TV",
-"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/712_300.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
-      },
-      {
-        "name": "FOX",
-"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/704_300.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
-      },
-      {
-        "name": "FX",
-"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/713_300.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
-      },
-      {
-        "name": "FOX LIFE",
-"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/703_300.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       }
     ]
   },
