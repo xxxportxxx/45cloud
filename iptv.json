@@ -1333,7 +1333,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&"
        }
-    ]
+    ]  
   },
   {
     "name": "ASTRO CHANNEL",
@@ -1342,7 +1342,7 @@
         "name": "THANGATHIRAI",
         "uri": "http://skylogic.site:8080/live/Line1009/c48eb829/157571.m3u8"
       },
-      {
+       {
         "name": "ASTRO AWANI",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
       },
