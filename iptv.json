@@ -1332,28 +1332,44 @@
         "uri": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&"
-       }
-    ]  
-  },
-  {
-    "name": "ASTRO CHANNEL",
-    "samples": [ 
+        }
+    ]
+      }, 
       {
-        "name": "THANGATHIRAI",
-        "uri": "http://skylogic.site:8080/live/Line1009/c48eb829/157571.m3u8"
-       },
-       {
+    "name": "PREMIUM MOVIES",
+    "samples": [
+      {
+        "name": "HBO MY",
+   "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjUxNzh9fX1dfQ__&Signature=CA38caVHtIONMzbs0ISaG6v8KS~EHQKLeYp8sRFm0N14v153Qw6iX7bcjor6wUIw6EsrUkQqOGaa7TFfwD9GlYoPZUIjjOpqWyAfdhbpLS1UTIp611tUhTz3LoFg5~7eKtPRQ87zj4uKGsmx7Pr8mbUs21xH2VCwKykrzqxgazKxbNDZT9FXl6aTx-cD2riby3ff-PdRzVoifPOjzKZdu~GQrathWSbeCs8peuJVToJwk0lKBBtmoFsRnx4fp51ldi5NDA3BiTTP5n5gqcDrw7Do5E7C6AqbP2TYBrVYLqIYlZICYFCLiQzizM4YWWhHIx8yNbNKOAOj8kHwjvzkAA__&Key-Pair-Id=APKAJFBTWETXLROKW43A="
+      },
+      {
+        "name": "HBO FAMILY",
+        "uri":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vRkFNSUxZLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU3MjN9fX1dfQ__&Signature=CNMl93pxwEbjrfHyuEe8G6eoVrjNOcpIcobHYlu2kX~rYQ75bY6WgVFbxFbnYerRoS1coplGAWRr-jAzpn-NKyb460RfstpwXAnWgHQ--oAPYN5OTh0oJE4~3auqekYYv79bE-8gHXg~ndqvVKWXXFVOFA9WtWpptQdRkIIW38knIxXfv4uRTCO2DdzUDPMV~RboGa0Mm6iLyu9YOWjb2nemOIXl2H68khlHyYjsA0P-v5Fmu~hwsMVMmbPTqK1ZvqtyNCv64lX5okS58vyJDU5-XlCU43dhjQHkwdqMg81KUt8NROt8oVHWvA9Z7PhYA721f1Ig0NkClGaK2xRMzw__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+      },
+      {
+        "name": "HBO HITS",
+        "uri":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSElUUy8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNTk2NDY1NjA5fX19XX0_&Signature=DDcttMFRkcFIpC2qfidK7MWtXlS2uQRmBRry9gWwKh3FdQ7QXb8fygs8ZGGre3SwMiWF1P5S3YUmtj2HFeTZSSXkjaKSOt1WGBSXtj4hADX98BOkLuGe~rQKlHv3vDjQQhI~Nog0jt5Cd1MGx~UeW572KdWJjtSPAtrLlRnnGOo4FK4Dp7pA~mWmHSWY~Y3i7Z1rJ2WDqGzVY-YDNt7rq3o4csbJVIAKtWuHAz1hBOtBgdBRIDmosNZeZDiq0rKdFQCOmuwRsxfKoEBJ1suN2iYeYVFnCC94ZVXyHNcvhsVgctB6ABHB38WvbRzBnSHgCecFKECgtoqfNClxyTAMkg__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+      },
+      {
+        "name": "HBO SIGNATURE",
+        "uri":"https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vU0lHLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU0NjR9fX1dfQ__&Signature=e-k0-w8aZRq5B45nX5nfrJODjkSJHPLux5eYAio1Kzrn5J1B8xPmjmLaqv63Ogn-KWGtJwiEYgGqXjA4PZ4E0RqOLkvs~wHua9pXVT6Bi5Jo9AnwfAGgKDSceH55T9lHP6a4xg4fM1r0YBF3elRc8dq1qwlEmbQZlG~gdn6Nj0-nbqM0UrJ4wnH1WFLcHLbCAHu0o0MmzVQxNvXSN-XvJPoSV5VmpL4tQwErBoKTC8SJh9Trr9lC2t~JLXKIp0EOPVkKRZMaQpCoQoeZOgxlhVuGVh4D5X4nrVyKIqYmC38s6BgmbaZcTv-DHfuIIniE1dOTiLThKsPGtTiiWkBJpg__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+      },
+      {
+        "name": "CINEMAX",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTUFYLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU3NDN9fX1dfQ__&Signature=Ly0UYA72JsptZty-ee3tpEgmz2lbn2UlMGmVJFj0mMEr8AZxDt6H61LKiGk9-SIUh0DWaiC9IE2oNW1N0z6MtqG6GJaQ4-zt4E9F~VXtzH3nYulR-P9AzmtCEJrKhCIuPc0DTgniqFYu-B3kYarConRCyOVAO851qiCn9-7T90VNGWaY9nZfqj-opO5WH6~omKVZPQ0SBOXKuC4ofGZwWJZpSyVRdNYM~EryNAyawp9hV0d8C0FwL33idPFfjTeoT5j5lluWX9wD6z4l2EA~CdVgSOkCEPPG4BSgra4KQu1lIL~2Nykzwyq2foNPYAQgF3TDxecuMlwIChF2ikBF2A__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+      },
+      {
+        "name": "RED BY HBO",
+     "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vUkVELyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjU4Nzd9fX1dfQ__&Signature=a-npp~tGhx7xLO2Y5k0gFGgUVaGgkrbb309Z5oRknxY~Gd-nzV6UtLLysTauju1pg~z6NVeGkA07y85aCW7uN85irc2dH8ox~ReA4DrjHhcqxab2O2b1peqW8-kJahK3CKHxBLg~4Vx~QhCOT6BgWaFyyb0MQN5GY0kybnoEIcitMnUv~LRmzzWfZvwKtYThaqDddzS47ZZJ0SO0uzM6H~36SOIjPjKCO7UEPfCudgtREmfcXhG6N1OWMmFieNEhwIIA4W~8hB7C7OOgUm86Z6PMeIOxCU9EB2iWtwM8jBi3bhnivKolGSAlbt44PT6GNwykYZhzDy5vrJIEowIIPw__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+      },
+      {
         "name": "ASTRO AWANI",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
-       },
+      },
+      {
         "name": "ASTRO BERNAMA",
         "uri": "https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8"
        }
     ]
   }
 ]
-
-
-
-
-
