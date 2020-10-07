@@ -1336,10 +1336,10 @@
     ]
       }, 
       {
-    "name": "PREMIUM MOVIES",
+    "name": "CHANNEL ASTRO",
     "samples": [
       {
-        "name": "HBO MY",
+        "name": "HBO",
    "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vSEJPLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1OTY0NjUxNzh9fX1dfQ__&Signature=CA38caVHtIONMzbs0ISaG6v8KS~EHQKLeYp8sRFm0N14v153Qw6iX7bcjor6wUIw6EsrUkQqOGaa7TFfwD9GlYoPZUIjjOpqWyAfdhbpLS1UTIp611tUhTz3LoFg5~7eKtPRQ87zj4uKGsmx7Pr8mbUs21xH2VCwKykrzqxgazKxbNDZT9FXl6aTx-cD2riby3ff-PdRzVoifPOjzKZdu~GQrathWSbeCs8peuJVToJwk0lKBBtmoFsRnx4fp51ldi5NDA3BiTTP5n5gqcDrw7Do5E7C6AqbP2TYBrVYLqIYlZICYFCLiQzizM4YWWhHIx8yNbNKOAOj8kHwjvzkAA__&Key-Pair-Id=APKAJFBTWETXLROKW43A="
       },
       {
