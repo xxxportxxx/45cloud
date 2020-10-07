@@ -1339,36 +1339,8 @@
     "name": "ASTRO CHANNEL",
     "samples": [ 
       {
-        "name": "ASTRO CERIA",
-        "uri": "https://delivery.macan.tv/stream/astro_ceria/playlist.m3u8?token=jm7hs&v=20200807"
-      },
-      {
-        "name": "ASTRO OASIS",
-        "uri": "https://delivery.macan.tv/stream/astro_oasis/playlist.m3u8?token=jm7hs&v=20200807"
-      },
-      {
-        "name": "ASTRO WARNA",		
-        "uri": "https://delivery.macan.tv/stream/astro_warna/playlist.m3u8?token=jm7hs&v=20200807"
-      },
-      {
-        "name": "ASTRO RIA",
-        "uri": "https://delivery.macan.tv/stream/astro_ria/playlist.m3u8?token=jm7hs&v=20200807"
-      },
-      {
-        "name": "ASTRO PRIMA",
-        "uri": "https://delivery.macan.tv/stream/astro_prima/playlist.m3u8?token=jm7hs&v=20200807"
-      },
-      {
-        "name": "ASTRO RANIA",
-        "uri": "https://delivery.macan.tv/stream/astro_rania/playlist.m3u8?token=jm7hs&v=20200807"
-      },
-      {
-        "name": "ASTRO AURA",
-        "uri": "https://delivery.macan.tv/stream/astro_aura/playlist.m3u8?token=jm7hs&v=20200807"
-      },
-      {
         "name": "ASTRO AWANI",
-        "uri": "https://delivery.macan.tv/stream/astro_awani/playlist.m3u8?token=jm7hs&v=20200807"
+        "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
       },
       {
         "name": "ASTRO BERNAMA",
