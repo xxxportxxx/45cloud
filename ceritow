@@ -4,118 +4,118 @@
     "samples": [
       {
         "name": "HBO Signature",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "CINEMAX",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/62_144.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_300.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO FAMILY",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO HITS",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HITS MOVIES",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/401_300.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "FOX MOVIES",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/413_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "FOX ACTION MOVIES",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/415_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "FOX FAMILY MOVIES",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/414_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
-        "name": "PARAMOUNT CHANNEL HD",
+        "name": "PARAMOUNT CHANNEL",
 "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
-        "name": "CINEMA WORLD HD",
+        "name": "CINEMA WORLD",
 "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
-        "name": "WARNER TV HD",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/warner-tv.png",
+        "name": "WARNER TV",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/712_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
-        "name": "453 FOX",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox.png",
+        "name": "FOX",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/704_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "FX",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fx.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/713_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "FOX LIFE",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Life.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/703_300.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
-        "name": "COMEDY CENTRAL HD",
+        "name": "COMEDY CENTRAL",
 "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/comedy-central.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
-        "name": "BLUE ANT ENTERTAINMENT HD",
+        "name": "BLUE ANT ENTERTAINMENT",
 "logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
         "drm_scheme": "widevine",
