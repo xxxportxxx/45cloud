@@ -4,7 +4,7 @@
     "samples": [
       {
        "name": "HBO",
-        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/1_144.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_120.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
