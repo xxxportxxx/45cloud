@@ -11,7 +11,7 @@
       },
       {
         "name": "HBO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
+        "logo_uri": "https://mncvision.id/userfiles/image/channel/channel_401.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
