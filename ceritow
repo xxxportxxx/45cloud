@@ -4,28 +4,28 @@
     "samples": [
       {
         "name": "HBO Signature",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
+        "logo_uri": "https://mncvision.id/userfiles/image/channel/hbo_signature.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
+        "logo_uri": "https://mncvision.id/userfiles/image/channel/hbo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO FAMILY",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
+        "logo_uri": "https://mncvision.id/userfiles/image/channel/hbo_family.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO HITS",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png",
+        "logo_uri": "https://mncvision.id/userfiles/image/channel/hbo_hits.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
