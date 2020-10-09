@@ -4,7 +4,7 @@
     "samples": [
      {
         "name": "100 UniTV",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/general/hypptv-logo.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -32,21 +32,21 @@
       },
       {
         "name": "107 NTV7",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "108 8TV",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "109 TV9",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -278,7 +278,7 @@
       },
       {
         "name": "453 FOX",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/704_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -299,7 +299,7 @@
       },
       {
         "name": "471 COMEDY CENTRAL HD",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/comedy-central.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/717_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -440,28 +440,28 @@
     "samples": [
      {
         "name": "601 BBC WORLD NEWS HD",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/512_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "602 ALJAZEERA HD",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-jazeera.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/513_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "603 SKY NEWS",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/skynews.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/514_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "611 CHANNEL NEWS ASIA",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/channel-news-asia.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/515_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -475,21 +475,21 @@
       },
       {
         "name": "631 BERNAMA",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bernama-news-channel.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "633 PARLIMEN",
-"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/parlimen-malaysia.png",
+"logo_uri": "https://rtmparlimen.rtm.gov.my/images/header.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "641 ABC AUSTRALIA",
-"logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png",
+"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/518_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
