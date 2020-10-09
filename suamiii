@@ -11,7 +11,7 @@
       },
       {
         "name": "101 TV1",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv1.png",
+		"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
@@ -32,21 +32,21 @@
       },
       {
         "name": "107 NTV7",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ntv7.png",
+		"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "108 8TV",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/8tv.png",
+		"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
       },
       {
         "name": "109 TV9",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv9.png",
+		"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
