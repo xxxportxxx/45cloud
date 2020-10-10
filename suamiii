@@ -1,6 +1,6 @@
 [
   {
-    "name": "UNITV Aneka",
+    "name": "ANEKA",
     "samples": [
      {
         "name": "100 UniTV",
@@ -103,7 +103,7 @@
     ]
   },
   {
-    "name": "UNITV Ruby",
+    "name": "RUBY",
     "samples": [
      {
         "name": "201 TVN MOVIES HD",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "name": "UNITV Varnam",
+    "name": "VARNAM",
     "samples": [
       {
         "name": "301 YUPP THIRAI HD",
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "name": "UNITV Entertainment",
+    "name": "ENTERTAINMENT",
     "samples": [
       {
         "name": "401 FOX MOVIES",
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "name": "UNITV Knowledge",
+    "name": "KNOWLEDGE",
     "samples": [
       {
         "name": "501 BBC EARTH HD",
@@ -389,7 +389,7 @@
 	]
   },
   {
-    "name": "UNITV Kids",
+    "name": "KIDS",
     "samples": [
       {
         "name": "550 DREAMWORK HD",
@@ -436,7 +436,7 @@
     ]
   },
   {
-    "name": "UNITV News",
+    "name": "NEWS",
     "samples": [
      {
         "name": "601 BBC WORLD NEWS HD",
@@ -511,7 +511,7 @@
     ]
   },
   {
-    "name": "UNITV Sports",
+    "name": "SPORTS",
     "samples": [
      {
         "name": "701 UNIFISPORTS1",
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "name": "UNITV TEST",
+    "name": "TEST",
     "samples": [
      {
         "name": "801 UNIFI VOD",
@@ -584,7 +584,7 @@
     ]
   }, 	  
   {
-    "name": "UNITV TGL SG",
+    "name": "MEWATCH SG",
     "samples": [
 	 {
         "name": "Channel 5",
