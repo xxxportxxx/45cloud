@@ -68,7 +68,7 @@
     ]
   },
   {
-           "name": "ACTION MOVIES",
+           "name": "MOVIES 1",
             "samples": [
        {   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023714X0-landscape.jpg",
@@ -220,7 +220,7 @@
     ]
   },
   {
-    "name": "FAMILY MOVIES",
+    "name": "MOVIES 2",
     "samples": [
      {
         "name": "GOOD BOYS",   
