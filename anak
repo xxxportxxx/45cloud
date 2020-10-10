@@ -1,6 +1,6 @@
  [
       {
-    "name": "MNC PLAY MOVIES",
+    "name": "MOVIES",
     "samples": [
       {
         "name": "HBO Signature",
@@ -101,7 +101,7 @@
     ]  
   },
   {
-    "name": "MNC PLAY KIDS",
+    "name": "KIDS",
     "samples": [      
       {
         "name": "Nick Jr.",
@@ -172,7 +172,7 @@
     ]
   },
   {
-    "name": "TV INDONESIA",
+    "name": "INDONESIA",
     "samples": [
       {
         "name": "Indosiar",
@@ -297,7 +297,7 @@
     ]  
   },
   {
-    "name": "MNC PLAY ENTERTAINMENT",
+    "name": "ENTERTAINMENT",
     "samples": [
       {
         "name": "FMN",
@@ -386,7 +386,7 @@
     ]  
   },
   {
-    "name": "MNC PLAY KNOWLEDGE",
+    "name": "KNOWLEDGE",
     "samples": [
       {
         "name": "BBC Earth",
@@ -463,7 +463,7 @@
     ]  
   },
   {
-    "name": "MNC PLAY SPORTS",
+    "name": "SPORTS",
     "samples": [      
         {
         "name": "Fox Sports",
@@ -504,7 +504,7 @@
     ]  
   },
   {
-    "name": "MNC PLAY ADD-ON",
+    "name": "ADD-ON",
     "samples": [  
       {
         "name": "AndTV",
