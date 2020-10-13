@@ -680,7 +680,7 @@
       {
         "name": "RTM SPORTS",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
-        "uri": "https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
+        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
         "name": "AWANI",
