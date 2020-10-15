@@ -586,79 +586,92 @@
     "name": "ADD-ON",
     "samples": [  
       {
-        "name": "AndTV",
+        "name": "& TV",
+        "logo_uri": "https://akashdth.com/assets/uploads/channels_images/1582798479-84334691.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Zee Cinema",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Zee TV",
+        "logo_uri": "https://seeklogo.com/images/Z/zee-tv-new-2017-logo-BF523E8B60-seeklogo.com.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Zing",
+        "logo_uri": "https://i0.wp.com/nguyenngoclong.com/blog/wp-content/uploads/2019/04/zing-logo.png?fit=600%2C371&ssl=1",
         "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "DAAITV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "ETWN",
+        "logo_uri": "https://logodix.com/logo/2139475.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/ETWN.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "AnhuiTV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "HunanTV",
+        "name": "Hunan TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/6/68/HunanTV_logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "JiangsuTV",
+        "logo_uri": "https://list.wiki/images/2/2d/Jiangsu_TV_Station_logo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Shanghai DragonTV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/604px-Dragon_Television_%28China%29_logo.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "XingKongTV",
+        "name": "Xing KongTV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/1200px-XingXong.svg.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Clubbing TV",
+        "logo_uri": "https://www.clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle_50pc_Black220.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/ClubbingTV/sa_dash_vmx/ClubbingTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "CinemaWorld",
+        "logo_uri": "https://d3cl79h6n1fe0x.cloudfront.net/wp-content/uploads/2016/10/28150842/1-cw.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
