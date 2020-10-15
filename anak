@@ -583,6 +583,158 @@
     ]  
   },
   {
+    "name": "MNC PLAY NEWS",
+    "samples": [      
+      {
+        "name": "ChannelNews Asia",
+        "logo_uri": "https://static.mncnow.id/images/channel/336f766d/14b6_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "AlJazeera International",
+        "logo_uri": "https://static.mncnow.id/images/channel/6fcd7f33/e917_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "BBCWorld News",
+        "logo_uri": "https://static.mncnow.id/images/channel/ab0e4ef3/1473_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "CNN International",
+        "logo_uri": "https://static.mncnow.id/images/channel/74fcf81e/df5c_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Fox News",
+        "logo_uri": "https://static.mncnow.id/images/channel/7bbcf7b9/c16a_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Sky News",
+        "logo_uri": "https://seeklogo.com/images/Z/zee-news-logo-DA42E27EC5-seeklogo.com.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SkyNews/sa_dash_vmx/SkyNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "CNBC",
+        "logo_uri": "https://static.mncnow.id/images/channel/1ea9b871/774b_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Bloomberg",
+        "logo_uri": "https://static.mncnow.id/images/channel/a7fd905a/8c3e_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Australia Plus",
+        "logo_uri": "https://static.mncnow.id/images/channel/1d72e93a/5829_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Arirang",
+        "logo_uri": "https://seeklogo.com/images/Z/zee-news-logo-DA42E27EC5-seeklogo.com.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "NHKWorld Premium",
+        "logo_uri": "https://static.mncnow.id/images/channel/92df786a/0c01_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "NHKWorld TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/1b8f13ad/2d23_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "DW",
+        "logo_uri": "https://static.mncnow.id/images/channel/b2360466/e550_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "RT English",
+        "logo_uri": "https://static.mncnow.id/images/channel/abf4c6ae/778b_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Euro News",
+        "logo_uri": "https://static.mncnow.id/images/channel/273ebc16/f973_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "FRANCE 24",
+        "logo_uri": "https://static.mncnow.id/images/channel/6c643499/398f_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Zee News",
+        "logo_uri": "https://static.mncnow.id/images/channel/4c336517/a1a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeNews/sa_dash_vmx/ZeeNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "IDX",
+        "logo_uri": "https://static.mncnow.id/images/channel/524d9e29/542c_r32.jpg",
+        "uri": "https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "MNC NEWS",
+        "logo_uri": "https://static.mncnow.id/images/channel/5f9eda28/5928_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "BERITA SATU",
+        "logo_uri": "https://static.mncnow.id/images/channel/326f22ff/88fd_r32.jpg",
+        "uri": "https://stream-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TRT World",
+        "logo_uri": "https://static.mncnow.id/images/channel/2ffcaa77/166c_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      }
+    ]  
+  },
+  {
     "name": "ADD-ON",
     "samples": [  
       {
