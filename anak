@@ -583,10 +583,10 @@
     ]  
   },
   {
-    "name": "MNC PLAY NEWS",
+    "name": "NEWS",
     "samples": [      
       {
-        "name": "ChannelNews Asia",
+        "name": "Channel News Asia",
         "logo_uri": "https://static.mncnow.id/images/channel/336f766d/14b6_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
         "drm_scheme": "widevine",
