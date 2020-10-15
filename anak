@@ -120,67 +120,78 @@
     "name": "KIDS",
     "samples": [      
       {
-        "name": "Nick Jr.",
+        "name": "Nick Jr",
+        "logo_uri": "https://static.mncnow.id/images/channel/e9e89c98/ccdd_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Miao Mi",
+        "name": "MiaoMi",
+        "logo_uri": "https://static.mncnow.id/images/channel/b1276bb8/4fc8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Boomerang",
+        "logo_uri": "https://static.mncnow.id/images/channel/adbf9dd3/8ba6_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "BabyTV",
+        "name": "Baby TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/ff3ba4c4/2f57_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BabyTV/sa_dash_vmx/BabyTV.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "CBeebies",
+        "name": "Cbeebies",
+        "logo_uri": "https://static.mncnow.id/images/channel/46fceab7/dd27_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Disney Junior",
+        "logo_uri": "https://static.mncnow.id/images/channel/f9d17eca/96f9_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Disney XD",
+        "logo_uri": "https://static.mncnow.id/images/channel/32f5aa03/c40a_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Disney Channel",
+        "logo_uri": "https://static.mncnow.id/images/channel/53d6b747/4db8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Kids TV",
+        "name": "Kids Channel",
+        "logo_uri": "https://static.mncnow.id/images/channel/2ac55b6a/96dd_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Cartoon Network",
+        "logo_uri": "https://static.mncnow.id/images/channel/90f0101e/ad25_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Nickelodeon",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/616_300.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
