@@ -481,37 +481,43 @@
     "name": "SPORTS",
     "samples": [      
         {
-        "name": "Fox Sports",
+        "name": "FOX Sports",
+        "logo_uri": "https://static.mncnow.id/images/channel/782cbbe4/5a3d_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Fox Sports2",
+        "name": "Fox Sports 2",
+        "logo_uri": "https://static.mncnow.id/images/channel/46fcd920/721f_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Fox Sports3",
+        "name": "Fox Sports 3",
+        "logo_uri": "https://static.mncnow.id/images/channel/7d978fdd/93da_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
         "name": "Fight Sports",
+        "logo_uri": "https://static.mncnow.id/images/channel/8d0892a0/6504_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "beIN Sports 1",
+        "name": "BeIN 1",
+        "logo_uri": "https://static.mncnow.id/images/channel/9014a7a3/13e2_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "beIN Sports 2",
+       "name": "BeIN 2",
+        "logo_uri": "https://static.mncnow.id/images/channel/148b1e40/11e5_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
