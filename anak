@@ -621,13 +621,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "Sky News",
-        "logo_uri": "https://i.guim.co.uk/img/media/9c8586a0d47c06120c3cb0cbdd954531d900b114/0_146_5568_3341/5568.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&s=18535d54c062953398146132cb6c2216",
-        "uri": "https://liveanevia.mncnow.id/live/eds/SkyNews/sa_dash_vmx/SkyNews.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
         "name": "CNBC",
         "logo_uri": "https://static.mncnow.id/images/channel/1ea9b871/774b_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd",
@@ -645,13 +638,6 @@
         "name": "Australia Plus",
         "logo_uri": "https://static.mncnow.id/images/channel/1d72e93a/5829_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "Arirang",
-        "logo_uri": "https://i.ytimg.com/vi/IOixtwPExKM/maxresdefault_live.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/Arirang/sa_dash_vmx/Arirang.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
