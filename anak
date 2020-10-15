@@ -272,6 +272,27 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
+        "name": "TAWAF TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/ae37c6fd/f9c3_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TV9",
+        "logo_uri": "https://static.mncnow.id/images/channel/bd008257/8156_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TVMU",
+        "logo_uri": "https://static.mncnow.id/images/channel/b8990cfe/3fd8_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
         "name": "Vision Prime",
         "logo_uri": "https://static.mncnow.id/images/channel/1888655f/a358_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
@@ -567,7 +588,28 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },      
+      },
+      {
+        "name": "BE SMART",
+        "logo_uri": "https://static.mncnow.id/images/channel/022615ec/623b_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "M SHOP",
+        "logo_uri": "https://static.mncnow.id/images/channel/b8906da8/8be4_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "M SHOP SMART",
+        "logo_uri": "https://static.mncnow.id/images/channel/a67562d5/4ac2_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
       {
         "name": "ChannelV",
         "logo_uri": "https://static.mncnow.id/images/channel/2b0cea4b/976a_r32.jpg",
@@ -740,6 +782,13 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
+        "name": "i-NEWS",
+        "logo_uri": "https://static.mncnow.id/images/channel/bdca521e/ae34_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
         "name": "MNC NEWS",
         "logo_uri": "https://static.mncnow.id/images/channel/5f9eda28/5928_r32.jpg",
         "uri": "https://anevia114.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd",
@@ -806,6 +855,21 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/ETWN.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "REFORMED 21",
+        "logo_uri": "https://static.mncnow.id/images/channel/2b3bc0b8/f09b_r32.jpeg",
+        "uri": "https://anevia115.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+
+        "name": "LIFE",
+        "logo_uri": "https://static.mncnow.id/images/channel/b4078005/ecab_r32.jpg",
+        "uri": "https://anevia115.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "AnhuiTV",
