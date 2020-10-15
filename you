@@ -6,13 +6,11 @@
         "name": "usop",
         "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV1logo-New.jpg",
         "uri": "https://www.youtube.com/watch?v=0XQajoeSLzM",
-        "referer": "https://www.youtube.com/"
       },
       {
         "name": "TV2",
         "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV2logo.jpg",
         "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8",
-        "referer": "https://myklik.rtm.gov.my/"
       },
       {
         "name": "TV3",
