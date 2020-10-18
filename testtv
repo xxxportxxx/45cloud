@@ -1,4 +1,3 @@
-
 [
   {
     "name": "TEST",
@@ -7,7 +6,6 @@
         "name": "TV1",
         "logo_uri": "https://linear-poster.astro.com.my/prod/logo/TV1_v1.png",
         "uri": "https://linear-playback.astro.com.my/linear-livewvdaf/711/default_ott.mpd",
-        "extension": "mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license",
         "drm_key_request_properties": "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MDI5OTIzMzQsImp0aSI6IjUyMGJkMWYyLTY4ODAtNDA5Ni04ZjlhLWQzMjdkZWU1ODRjYiIsInN1YiI6IjgxNDgzMjM4IiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTYwMzAwMzEzNCwic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImJ1c1VuaXRJZCI6IkFTVFJPIiwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ1cElkIjoiODE0ODMyMzhfMCIsImRldklkIjoiODE0ODMyMzguYTc2OGZkYzMtM2M5NS00YzViLWFkZmYtODcxNzA2OWM1MWJiIiwicmVnaW9uIjoiUE9TVFBBSUQiLCJjbWRjUmVnaW9uIjoiODAwMDAiLCJkZXZpY2VGZWF0dXJlcyI6WyJBQlIiLCJQRVJTT05BTC1DT01QVVRFUiIsIlVOTUFOQUdFRCIsIkRBU0giLCJXVi1EUk0iLCJTZWNvbmRTY3JlZW4iXSwiY21kY0RldmljZVR5cGUiOiJQQyIsImRldmljZVR5cGUiOiJDT01QQU5JT04iLCJ0ZW5hbnQiOiJrIiwic29sdXRpb25JZCI6ImsiLCJ0ZW5hbnRJZCI6IkFTVFJPIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiaGhJZCI6IjgxNDgzMjM4In0sImhoSGFzaCI6MTcsImNvbW11bml0eSI6Ik1hbGF5c2lhIExpdmUifSwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwiY2xpZW50X2lkIjoiYnJvd3NlciJ9.SCIkMT0-Z-KQbUOTL9MvRD8BswK8metVAabZFA4MLvI",
