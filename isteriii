@@ -35,32 +35,6 @@
     ]
   },
   {
-           "name": "LIVE MOVIES 2",
-            "samples": [
-       {
-        "name": "FOX Movies",
-"logo_uri": "https://www.transvision.co.id/img/channel/fox_moives.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
-      },
-      {
-        "name": "FOX Action",
-"logo_uri": "https://www.transvision.co.id/img/channel/fam_new.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
-      },
-      {
-        "name": "FOX Family",
-"logo_uri": "https://www.transvision.co.id/img/channel/ffm_new.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzA0NjFlYjUtMzJhZi0zZDk3LWExYzgtMDAzNWVmNDU5NWQ4"
-      }
-    ]
-  },
-  {
            "name": "MOVIES 1",
             "samples": [
        {   
