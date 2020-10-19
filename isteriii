@@ -313,8 +313,8 @@
   },
   {
     "name": "LIVE MOVIES",
-    "samples": [ 
-      {
+    "samples": [
+     {
         "name": "HBO Signature",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
