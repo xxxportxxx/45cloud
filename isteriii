@@ -312,48 +312,38 @@
     ]
   },
   {
-    "name": "ASTRO CHANNEL",
+    "name": "LIVE MOVIES",
     "samples": [ 
       {
-        "name": "ASTRO HELLO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
+        "name": "HBO Signature",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8",
       },
       {
-        "name": "ASTRO NAURA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_100.png",
-        "uri": "https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8"
+        "name": "HBO",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8",
       },
       {
-        "name": "ASTRO GAAYA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_100.png",		
-        "uri": "https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8"
+        "name": "Cinemax",
+        "logo_uri": "https://www.transvision.co.id/img/channel/cinemax_new.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8",
       },
       {
-        "name": "ASTRO RUUMA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_100.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8"
+        "name": "HBO Family",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_family.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8",
       },
       {
-        "name": "ASTRO RAAYA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_100.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
+        "name": "HBO Hits",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
       },
       {
-        "name": "ASTRO OKEY",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_100.png",
-        "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
-      },
-      {
-        "name": "RTM SPORTS",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
-        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
-      },
-      {
-        "name": "AWANI",
-        "logo_uri": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
-        "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
-       }
+        "name": "RED HBO",
+        "logo_uri": "https://www.mewatch.sg/image/11230416/16x9/947/533/c62470e9e5045f713eadb5f1e67089db/jb/red-by-hbo.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
+      }
     ]
   }
 ]
