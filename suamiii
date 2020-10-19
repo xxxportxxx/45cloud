@@ -678,11 +678,6 @@
         "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
       },
       {
-        "name": "HBO",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
-      },
-      {
         "name": "RTM SPORTS",
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
         "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
