@@ -26,18 +26,18 @@
         "name": "HBO Hits",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8",
+      },
+      {
+        "name": "RED HBO",
+        "logo_uri": "https://www.mewatch.sg/image/11230416/16x9/947/533/c62470e9e5045f713eadb5f1e67089db/jb/red-by-hbo.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
       }
     ]
   },
   {
            "name": "LIVE MOVIES 2",
             "samples": [
-       {   
-        "name": "RED HBO",
-        "logo_uri": "https://www.mewatch.sg/image/11230416/16x9/947/533/c62470e9e5045f713eadb5f1e67089db/jb/red-by-hbo.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8",
-      },
-      {
+       {
         "name": "FOX Movies",
 "logo_uri": "https://www.transvision.co.id/img/channel/fox_moives.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
