@@ -1,8 +1,8 @@
 [
-      {
-        "name": "MOVIES 1",
-        "samples": [
-       {   
+     {
+           "name": "MOVIES",
+            "samples": [
+       {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023714X0-landscape.jpg",
 	"name": "IT CHAPTER 2",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd",
