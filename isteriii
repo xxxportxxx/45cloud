@@ -316,32 +316,32 @@
     "samples": [
      {
         "name": "HBO Signature",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/15c93459-7bf0-44b6-a7ad-c9837168b0cd.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8"
       },
       {
         "name": "HBO",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/cdbc1ded-a012-4cbb-8f03-d50ce084f39e.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
       },
       {
         "name": "Cinemax",
-        "logo_uri": "https://www.transvision.co.id/img/channel/cinemax_new.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4abaedf7-2a35-4fba-b01b-01b74d3bb171.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8"
       },
       {
         "name": "HBO Family",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_family.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/84adbf27-68dd-46ed-bee8-089bafb35d18.jpg",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
       },
       {
         "name": "HBO Hits",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/047d2d66-8976-458e-8edc-7438543fe256.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8"
       },
       {
         "name": "RED HBO",
-        "logo_uri": "https://www.mewatch.sg/image/11230416/16x9/947/533/c62470e9e5045f713eadb5f1e67089db/jb/red-by-hbo.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
       }
     ]
