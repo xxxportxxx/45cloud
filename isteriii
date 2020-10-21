@@ -315,6 +315,11 @@
     "name": "LIVE MOVIES",
     "samples": [
       {
+        "name": "RED HBO",
+        "logo_uri": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",
+        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
+      },
+      {
         "name": "HBO Family",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_family.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
@@ -348,9 +353,11 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "RED HBO",
-        "logo_uri": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
+        "name": "HBO Signature",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       }
     ]
   }
