@@ -341,11 +341,11 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "HBO Malay",
+        "name": "HBO Malaysia",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
       {
-        "name": "HBO indo",
+        "name": "HBO Indonesia",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
         "drm_scheme": "widevine",
