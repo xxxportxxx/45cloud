@@ -323,21 +323,21 @@
       },
       {
         "name": "HBO Signature",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/15c93459-7bf0-44b6-a7ad-c9837168b0cd.png",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO Hits",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/047d2d66-8976-458e-8edc-7438543fe256.png",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/cdbc1ded-a012-4cbb-8f03-d50ce084f39e.png",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
       },
       {
@@ -349,7 +349,7 @@
       },
       {
         "name": "RED HBO",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png",
+        "logo_uri": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
       }
     ]
