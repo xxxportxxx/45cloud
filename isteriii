@@ -314,17 +314,17 @@
   {
     "name": "LIVE MOVIES",
     "samples": [
-     {
-        "name": "HBO Signature",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/15c93459-7bf0-44b6-a7ad-c9837168b0cd.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
+      {
+        "name": "HBO Family",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_family.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "HBO Family",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/84adbf27-68dd-46ed-bee8-089bafb35d18.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
+        "name": "HBO Signature",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/15c93459-7bf0-44b6-a7ad-c9837168b0cd.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
