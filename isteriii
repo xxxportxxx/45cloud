@@ -348,9 +348,9 @@
       {
         "name": "Cinemax",
         "logo_uri": "https://www.transvision.co.id/img/channel/cinemax_new.png",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4abaedf7-2a35-4fba-b01b-01b74d3bb171.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
     ]
   }
