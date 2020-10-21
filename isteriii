@@ -316,32 +316,40 @@
     "samples": [
      {
         "name": "HBO Signature",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/8a501206-7b54-4d56-933b-16c028a0ce20.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8"
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/15c93459-7bf0-44b6-a7ad-c9837168b0cd.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "HBO Family",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/84adbf27-68dd-46ed-bee8-089bafb35d18.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "HBO Hits",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/047d2d66-8976-458e-8edc-7438543fe256.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "HBO",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/54a98610-99f7-4d11-8cfc-48cc18ffd376.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/cdbc1ded-a012-4cbb-8f03-d50ce084f39e.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
       },
       {
         "name": "Cinemax",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/08b19b40-0daa-4461-8a1e-6c1f8efc35ee.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8"
-      },
-      {
-        "name": "HBO Family",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/5d25a138-c95e-43b4-9827-95667e452cb5.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8"
-      },
-      {
-        "name": "HBO Hits",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/2e0f62da-7b11-4057-9acf-949ae5a42db7.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8"
+        "logo_uri": "https://www.transvision.co.id/img/channel/cinemax_new.png",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4abaedf7-2a35-4fba-b01b-01b74d3bb171.png",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
         "name": "RED HBO",
-        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/d3a81fd0-b150-483f-bd95-2d81769cef18.png",
+        "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/dff23945-e618-4d6c-a746-30edad0651da.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
       }
     ]
