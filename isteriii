@@ -322,16 +322,16 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "HBO Signature",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
+        "name": "HBO Hits",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
       {
-        "name": "HBO Hits",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
+        "name": "HBO Signature",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       },
