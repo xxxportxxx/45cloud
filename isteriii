@@ -351,13 +351,6 @@
         "uri": "https://dai3fd1oh325y.cloudfront.net/images/apiupload/thumbnail/4abaedf7-2a35-4fba-b01b-01b74d3bb171.png",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "HBO Signature",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
       }
     ]
   }
