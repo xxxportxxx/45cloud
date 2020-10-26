@@ -3,7 +3,7 @@
     "name": "ANEKA",
     "samples": [
      {
-        "name": "Unifi TV",
+        "name": "Unifi",
 		"logo_uri": "https://seeklogo.com/images/U/unifi-logo-50269A3A68-seeklogo.com.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
         "drm_scheme": "widevine",
