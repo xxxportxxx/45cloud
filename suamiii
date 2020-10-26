@@ -4,7 +4,7 @@
     "samples": [
      {
         "name": "100 UniTV",
-		"logo_uri": "https://vectorlogo4u.com/wp-content/uploads/2018/10/unifi-logo-vector-520x245.png",
+		"logo_uri": "https://seeklogo.com/images/U/unifi-logo-50269A3A68-seeklogo.com.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
@@ -576,7 +576,7 @@
     "samples": [
      {
         "name": "801 UNIFI VOD",
-		"logo_uri": "https://vectorlogo4u.com/wp-content/uploads/2018/10/unifi-logo-vector-520x245.png",
+		"logo_uri": "https://seeklogo.com/images/U/unifi-logo-50269A3A68-seeklogo.com.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227738/3221227738.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
