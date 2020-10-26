@@ -630,14 +630,14 @@
       },
 	  {
         "name": "LIVE 1",
-        "logo_uri": "https://www.mewatch.sg/blob/12287756/93074b0251807ab6aeb142368ac1b180/m-live-1-data.svg",
+        "logo_uri": "https://www.mewatch.sg/image/12884344/16x9/947/533/d5df9c38930bf9e6b1a9318b5eae9c66/rc/live-1.png",
         "uri": "https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": ""		
       },
 	  {
         "name": "LIVE 2",
-        "logo_uri": "https://www.mewatch.sg/blob/12287758/e8f22d40161f2c18d8f9868c91c053a7/m-live-2-data.svg",
+        "logo_uri": "https://www.mewatch.sg/image/12884346/16x9/947/533/96a0044b872c1ba0d435aca405d49790/FT/live-2.png",
 		    "uri": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&"
