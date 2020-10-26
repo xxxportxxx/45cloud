@@ -4,7 +4,7 @@
     "samples": [
      {
         "name": "100 UniTV",
-		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/general/hypptv-logo.png",
+		"logo_uri": "https://vectorlogo4u.com/wp-content/uploads/2018/10/unifi-logo-vector-520x245.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
@@ -338,7 +338,7 @@
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
       },
 	  {
-        "name": "508 NATTIONAL GEOGRAPHIC",
+        "name": "508 NATIONAL GEOGRAPHIC",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
         "drm_scheme": "widevine",
@@ -576,7 +576,7 @@
     "samples": [
      {
         "name": "801 UNIFI VOD",
-		"logo_uri": "htttp://",
+		"logo_uri": "https://vectorlogo4u.com/wp-content/uploads/2018/10/unifi-logo-vector-520x245.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227738/3221227738.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063/?deviceId=MzZjMmQ5NzUtMDMyMS0zNWE2LThmOWEtMzcxODNhZjExNmRh"
