@@ -319,6 +319,186 @@
     ]
   },
   {
+           "name": "ADVENTURE TIME SEASON 1",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021653X0-landscape.jpg",
+	"name": "A SLUMBER PARTY PANIC",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d92f20bcbea8a6a4eefd912_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021653X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d859d89342022a27312c16c4f9d912bd5587dc647c03007431657b3dbb9c429d29cd74f707a0251542265f72f767c12571e01afcde2618eb45ad56a790b8c911&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021654X0-landscape.jpg",
+	"name": "TROUBLE IN LUMPY SPACE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79f20a3ae366782ad917d7_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021654X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9b21e9ad610b9aebcbfdac6ad75bdcee69fe30ef444d951a078d774a33c017cae11b42d44503dde03f2809b3135f6f6181d518e9de28e6bba47f442a16511837&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021655X0-landscape.jpg",
+	"name": "THE ENCHIRIDION",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79feb43ae366782ad91935_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021655X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fb626f96a42bc9d7f5ffd6cad9353e81b18bd77dd2803dbfc36e65ad86cb086aded983e95075eebb3b8684e822d689c3f84ca4bfda7d95e3c61f01be02286ddd&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021656X0-landscape.jpg",
+	"name": "THE JIGGLER",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79c05f3ae366782ad91257_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021656X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=562e2acfbe79c01680ce32701e2d942ef1a48f6ebce1cc1383822cceb6197bdba15f540379b78be708bb7e33a3e78227c4d77cbb2867291fb2dc4aba41ba2b55&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021657X0-landscape.jpg",
+	"name": "PRISONERS OF LOVE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d799c853ae366782ad90e92_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021657X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c5912a16e492f06c8ea485c88251246678083a5f80086dc278625a86ae50e623682856d5998ce31c283ff25498a1ba3f9ec18f9d3179f6fc86f2631ffde30e2&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021658X0-landscape.jpg",
+	"name": "TREE TRUNKS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a63453ae366782ad922fb_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021658X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=888b81897dc8641953d8da7dc7b7cb7e8efe9f24da1d755d38e8bb89b77195bd39fc99e7c8566fad49ddb0ff1f16c005e5c140ff017be412a073575d046cc473&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021659X0-landscape.jpg",
+	"name": "RICARDIO THE HEART GUY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a3ba63ae366782ad91f3a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021659X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0e2c2e9e44ff84ae483208814c8922618f42c0deb720e8643b4888038ab9002cd721687cc40f748f946ce74e181a91132dfcb7b8ff1d5e5b12e1f7a6e22216d8&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021660X0-landscape.jpg",
+	"name": "BUSINESS TIME",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79e3933ae366782ad91653_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021660X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=669fd20c6fd5e652b6ba1280c18218bb1ef836ab2a211a2c1cbd1663a4c9bfb431670fd34a0d42b6a794c029d4b56b7a4f955c81397996a867fa4539cb2faccf&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021661X0-landscape.jpg",
+	"name": "MY TWO FAVORITE PEOPLE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a70a83ae366782ad92445_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021661X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e9025154a2ea0616da00333c4cbe2c3222c8b97e0449fda819cf91ab07ef2fa314833f96892c5bb43beea8ebf8726cf26c485384303a4f2e5ddc6c2d75faa481&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021662X0-landscape.jpg",
+	"name": "MEMORIES OF BOOM BOOM MOUNTAIN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a70d03ae366782ad9244b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021662X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b0dede205c08abf4f39a859294500e5d0f3da60b78f1ba846e744e3ef91e492a4b06e5d984070744a71b096c1b7491112c80f19b7391f8ebf34215931cc824f7&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021663X0-landscape.jpg",
+	"name": "WIZARD",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d41d73ae366782ad96aca_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021663X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=255548af58181e4666f5f30c00d1e02181aedfc755be3ba5d96c13a59767eb529242874e1002c3f152934ed55cb2953bf07d80fe721bc56aebddb4eac902caff&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021664X0-landscape.jpg",
+	"name": "EVICTED!",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cb08b3ae366782ad95ce2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021664X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a1d79007435fea7dda1990cfe0c9bc1fb773ef8a51103f5ec83cebd69c1f488ae7ec77bf83288715ddc26e614dc62570b45ac4552ee86080633c0d36e734c852&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021665X0-landscape.jpg",
+	"name": "CITY OF THIEVES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cbe553ae366782ad95e34_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021665X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=acb9fc835ece4473f94e2c3d6d365e39fd2f4828da8da12587d583b9c3ac88345c7180d0c4572a3eeb9a7650e4915f29cda7e33896898b716cc091ffd8a97231&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021666X0-landscape.jpg",
+	"name": "THE WITCH'S GARDEN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ccd043ae366782ad95fa1_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021666X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=763bcb963f950e1ba4e2237c475b7f42f4f5e6ddd40a3b2dd03b4090b50bfbe832d327bb8811c5cd786a27426ca4882fbb8cd013186f61e274f1d52efbdf2ab6&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021667X0-landscape.jpg",
+	"name": "WHAT IS LIFE?", 
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ac4ff3ae366782ad92d3a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021667X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7920fed935d378958853ce4854e884da7af9f58300c28af027e88cfa921d3584b5cf99cf8f7e5e35daf390fef06241ae0066df0318b273899b1437ddbdd48c4b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021668X0-landscape.jpg",
+	"name": "OCEAN OF FEAR",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ad3713ae366782ad92ecd_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021668X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=01d2f3b369f5b05fdfe141a1d6c67169b099a86799e545a9499cf9d66c6f75e94cca020c21bd3ece22dc13d4c07eb1f1c03705ffebb6ad70f31627f79b7684bc&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021669X0-landscape.jpg",
+	"name": "WHEN WEDDING BELLS THAW",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ab71c3ae366782ad92bba_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021669X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=45552cf5e157b1e5b6c808e353c9807f6e6cda9184e84f2f974af1057f284ae7fe019c4b94f0cc86d5e71a12e521f22647119d053b86ba4293c282a3f3c45f4e&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021670X0-landscape.jpg",
+	"name": "FREAK CITY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cda833ae366782ad960e8_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021670X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d6c1fbdcffb4f2491ad1ba1ac7b18359c50cb8aa057123248b767d01190190ac293dba477545d5144d8bb7bee5b3f0911ae595e701fe6f12ab0ca67a4e016ad0&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021671X0-landscape.jpg",
+	"name": "THE DUKE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ce9cc3ae366782ad96262_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021671X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=11127b11cc5d93a0aa47c0cf17b7bfada9f128b24d2f9f1852869af6b01cc3de732065cb8e870da3375da9cb1c2a27df2b08d7b2868650d5d1c26c22affa80b6&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021672X0-landscape.jpg",
+	"name": "DONNY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ae12c3ae366782ad9303f_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021672X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c5affcbbbb1df26c4ed72cd300a99762a04c9cefcf03f7f56c6908f3d51f10366bccc1eacda5f03046b7eb6b1c8e3446e625fcaa79a603e2fb14de5e4c7007a&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021673X0-landscape.jpg",
+	"name": "HENCHMAN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7aee023ae366782ad93195_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021673X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=51243706e669654c4177fb487a2bd7ee67be40acd211d170275ce3095b2daa8aacdb323c74e1bf63272413a47cd308ee8f4736a25c0aa1a77d7ea178dbd95d11&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021674X0-landscape.jpg",
+	"name": "DUNGEON",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cf7323ae366782ad963a6_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021674X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a48f0066e2e939a8ccacb85f6bb656308455686f9f1c0ae5cbad801451592de85f21471f6a92fff8347ad5c47c014bc6d5275266404e81a0bc27f9641773433b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021675X0-landscape.jpg",
+	"name": "WHAT HAVE YOU DONE?",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a7df53ae366782ad9258c_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021675X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=451c968349f514a48bab6baa46ac629207684b273976f06cdf8fccb0cba3ce3405388bf6b67b674fd43c062b9740d6ce632e04a2603c6bf02427a50ca65f91d3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021676X0-landscape.jpg",
+	"name": "RAINY DAY DAYDREAM",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d05613ae366782ad96501_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021676X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=acb478baf070fa854537689be7d55ec0975b8eb2f104c880aca5d268c035164a6fface74d90e3252c7875f4aea052b3f61f03b751a903745d0ea6f025e958234&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021677X0-landscape.jpg",
+	"name": "GUT GRINDER",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d12253ae366782ad96636_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021677X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0ee9991b1f158a32c0fb5541bd562657b9bbc606e79101cc2aa0019364e0c2fd6f85754b18cb6f5472a28b7ef4b698738e864ab370e4675665c161a88fa6c2fb&drmId=prod"
+      }
+    ]
+  },
+  {
     "name": "LIVE MOVIES",
     "samples": [
       {
