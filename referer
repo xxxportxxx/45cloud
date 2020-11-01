@@ -1,0 +1,78 @@
+[
+  {
+    "name": "UNITV LOKAL (Referer Test)",
+    "samples": [
+      {
+        "name": "TV1",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV1logo-New.jpg",
+        "uri": "https://rtm1.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "TV2",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV2logo.jpg",
+        "uri": "https://rtm2.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "TV3",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "Drama Sangat",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "NTV7",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "8TV",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "TV9",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "TV Okey",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTVOKEYlogo.jpg",
+        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "RTM Sports",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.png",
+        "uri": "https://rtmsportshd.secureswiftcontent.com/Origin02/ngrp:RTM2/playlist.m3u8",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "Go Shop",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8",
+        "referer": "https://www.goshop.com.my/"
+      },
+      {
+        "name": "Bernama",
+        "logo_uri": "https://yt3.ggpht.com/a/AATXAJw3hHInlUR75X84zxwjRvTttuYXPlf7wbvcE5fIbw=s900-c-k-c0xffffffff-no-rj-mo",
+        "uri": "https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8"
+      },
+      {
+        "name": "Berita RTM",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Berita-NEW.jpg",
+        "uri": "https://rtmbes.secureswiftcontent.com/Origin03/ngrp:RTM3/playlist.m3u8",
+        "referer": "https://myklik.rtm.gov.my/"
+      }
+    ]
+  }
+]
