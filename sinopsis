@@ -1,0 +1,27 @@
+[
+  {
+    "name": "MNCNow",
+    "samples": [
+      {
+        "name": "Meet Me After Sunset",
+        "logo_uri": "https://static.mncnow.id/images/vod/ca5cf48a/7480.jpg",
+        "vod_year": "Genre : Drama\nRelease : 2018\nDuration : 103 Minutes\nStarring : Agatha Chelsea, Billy Davidson, Maxime Bouttier",
+        "vod_desc":"Bagas selalu memberikan dukungan kepada Gadis agar tidak menampakkan diri di siang hari karena penyakit xeroderma pigmentosum. Berbanding terbalik dengan Bagas, Vino adalah orang yang selalu meyakinkan bahwa siang itu lebih menyenangkan.",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/meet-me-after-sunset-apl-anv6/_/sa_dash_vmx/meet-me-after-sunset-apl-anv6.mpd",
+        "extension": "mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Surat Cinta untuk Kartini",
+        "logo_uri": "https://static.mncnow.id/images/vod/21e23c00/c3ec.jpeg",
+        "vod_year": "Genre : Drama\nRelease : 2016\nDuration : 118 Minutes\nStarring : Lukman Sardi, Chicko Jerikho, Ayu Dyah Pasha",
+        "vod_desc":"Pertemuan Kartini dengan Sarwadi, seorang pengantar surat membuat mereka berdua saling menyukai. Namun kisah Kartini dengan keluarganya yang beragam apa mungkin dapat menggangu hubungan mereka ?",
+        "uri": "https://liveanevia.mncnow.id/vod/eds/surat-cinta-untuk-kartini-apl-anv6/_/sa_dash_vmx/surat-cinta-untuk-kartini-apl-anv6.mpd",
+        "extension": "mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      }
+    ]
+  }
+]
