@@ -315,6 +315,67 @@
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
+       }
+    ]
+  },
+  {
+           "name": "HARRY PORRTER",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/011051X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE SORCERER'S STONE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9062e2cbea8a6a4eef9ae8_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418527301",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=011051X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a8651af3099b5cb603ab9e3cd01c8dccc26986a90dfa90bf3f6f777964712152ae496c458b790275f8d5b1381570067fdac513b55abfce4c71699d2bf4013819&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/010798X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE CHAMBER OF SECRETS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9059a6cbea8a6a4eef9a03_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418534639",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=010798X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7144172448fd836fd50835df58010c70071b9983dfb5f946901eb1f0ad8470778249b89ce24a1c8a0fc2365c79e4607794bc21ccf4e7cf9ae9e63b82f1af7039&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012210X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE PRISONER OF AZKABAN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dc19061cbea8a6a4ef447c3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901199216748961269",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012210X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5d98ac7b7e1cf179211ef62861b70d0ab0980dcb905364b7679bd908c7df38b1d50bafe4bebd9f90985e96f76787c0d449876820c5e3a9e357783c82ba784537&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016106X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE GOBLET OF FIRE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d904e95cbea8a6a4eef98eb_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901199216748966007",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016106X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b561794d796b1239a33a97de5a7b945a250a0c325b0aed617458bd3342dd55ccbfd3b6c86d72f822d2c60dd9dbf73ef810386d429ef8e219694f081012d18efb&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020137X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE ORDER OF THE PHOENIX",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d905ff3cbea8a6a4eef9a9d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6905702814559301366",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=020137X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bf12c065852e4a6254f70355d3bea40f8409154e15b2daf6b9d185a14fbf7ce94e790753503f07d5ed0d1f29a6ad313eae9855d330a6cd7616e0df07963cbe93&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/010686X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9056b7cbea8a6a4eef99b8_hbovodhd/dash0/MYS_index.mpd?c3.ri=6923717214496836271",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=010686X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0c3b6bf25fd72bb10af00b2d1c1dd06cf8ef0bdb3e3b21278ef3026c977331141aaf42a83bbc08a1a3251c266cab981400e3c93a69e1bfb21c71fd2b0b90b5&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012904X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE DEATHLY HALLOWS - PART 1",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9046b4cbea8a6a4eef9826_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418565159",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012904X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=91e8993f56918f022c00372aaed884a47eeb3aa597ffa7cd0a5c96363549d46de57d3eaf0dac584843f2589c7ae36126f103b5e8fe837ecf50a0383b06b66534&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/014122X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE DEATHLY HALLOWS - PART 2",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d90582bcbea8a6a4eef99dc_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418571128",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=014122X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ca2949d7b21a2ab7e065522a99b44b73bc53664103d5f5fb4a34c6f52e8b670b0eb18308919f7a208630b489547cde029005ea4a2216a30d5c40d28d45c76e9e&drmId=prod"
       }
     ]
   },
@@ -329,8 +390,8 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021653X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d859d89342022a27312c16c4f9d912bd5587dc647c03007431657b3dbb9c429d29cd74f707a0251542265f72f767c12571e01afcde2618eb45ad56a790b8c911&drmId=prod"
       },
       { 
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021654X0-landscape.jpg",
-	"name": "TROUBLE IN LUMPY SPACE",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020137X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE ORDER OF THE PHOENIX",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79f20a3ae366782ad917d7_hbovodhd/dash0/MYS_index.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021654X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9b21e9ad610b9aebcbfdac6ad75bdcee69fe30ef444d951a078d774a33c017cae11b42d44503dde03f2809b3135f6f6181d518e9de28e6bba47f442a16511837&drmId=prod"
