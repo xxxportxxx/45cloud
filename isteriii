@@ -319,6 +319,39 @@
     ]
   },
   {
+           "name": "SPIDER-MAN",
+            "samples": [
+       {
+        "name": "SPIDER-MAN",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012336X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed07eec6d048943f754a2a1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6923717214497018616",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012336X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d49cb83977e1c4509205d5edc2a43441aadff3558ac6cfddf8c5654f8e58ebd394d148f9c91f250a2f44f90b5aab9e0ea4f49aac4e18ac6dd1c33c581ccb7468&drmId=prod"
+      },
+      {
+        "name": "SPIDER-MAN 2",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016270X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eaa58c56d048943f751009c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6921746889857167402",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016270X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f1244e88a9af70fc7dc6b3f9b9d91cc224cdb9dbbf8b12a0ec6cbe715d1a625960938b36e7ce5f783e87df838b4005581e75b885f36ce492ecb1c7e9d66ff636&drmId=prod"
+      },
+      {
+        "name": "SPIDER-MAN 3",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/019036X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecf442f6d048943f7548498_hbovodhd/dash0/MYS_index.mpd?c3.ri=6905702814559499388",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=019036X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=09508b303f1e083a29ceed2d29ec2954154595de7bef3f55eff699f70580fe7b00f3f0e5481aa6be1b02cbb4f642e61bdfd653055c0eee2b03b09df20c174459&drmId=prod"
+       },
+      {
+        "name": "SPIDER-MAN: INTO THE SPIDER-VERSE",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023602X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb155176d048943f751aac1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6893599390636437050",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023602X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ea72a882a99796dbb70e7af592e098106aab4bfe465706f77ae3ad6fd374648fe20fbffae810dccc0576ab8266cddfe9a28955d20d4a7af114c6832524e66077&drmId=prod"
+      }
+    ]
+  },
+  {
            "name": "HARRY PORRTER",
             "samples": [
        {
