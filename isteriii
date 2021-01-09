@@ -343,6 +343,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=019036X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=09508b303f1e083a29ceed2d29ec2954154595de7bef3f55eff699f70580fe7b00f3f0e5481aa6be1b02cbb4f642e61bdfd653055c0eee2b03b09df20c174459&drmId=prod"
        },
       {
+        "name": "SPIDER-MAN FAR FROM HOME",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027852X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fbf52ab6d048943f76afebe_hbovodhd/dash0/MYS_index.mpd?c3.ri=6908802865658101089",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027852X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b13e23a0db4f93833c50c9bb860314a0354b182541cb1f57dca2ed9a8351037389ca650827e66b70ac688c593a1429e89450a0066274984a1e03991ae6cebb22&drmId=prod"
+      },
+      {
         "name": "SPIDER-MAN: INTO THE SPIDER-VERSE",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023602X0-landscape.jpg",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb155176d048943f751aac1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6893599390636437050",
