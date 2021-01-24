@@ -2,270 +2,882 @@
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
   <channel id="TV1">
     <display-name lang="en">TV1</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="TV2">
     <display-name lang="en">TV2</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="TV3">
     <display-name lang="en">TV3</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Ria HD">
+    <display-name lang="en">Astro Ria HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Prima HD">
+    <display-name lang="en">Astro Prima HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Oasis HD">
+    <display-name lang="en">Astro Oasis HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Warna HD">
+    <display-name lang="en">Astro Warna HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Citra HD">
+    <display-name lang="en">Astro Citra HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Naura HD">
+    <display-name lang="en">Naura HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Go Shop 111">
+    <display-name lang="en">Go Shop 111</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Rania HD">
+    <display-name lang="en">Astro Rania HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Aura HD">
+    <display-name lang="en">Astro Aura HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Al-Hijrah">
+    <display-name lang="en">Al-Hijrah</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ABO Movies Tayangan Hebat HD">
+    <display-name lang="en">ABO Movies Tayangan Hebat HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Colors Hindi HD">
+    <display-name lang="en">Colors Hindi HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Go Shop 118">
+    <display-name lang="en">Go Shop 118</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Go Shop GAAYA">
+    <display-name lang="en">Go Shop GAAYA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Ria">
+    <display-name lang="en">Astro Ria</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Prima">
+    <display-name lang="en">Astro Prima</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Oasis">
+    <display-name lang="en">Astro Oasis</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Warna">
+    <display-name lang="en">Astro Warna</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Citra">
+    <display-name lang="en">Astro Citra</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Arabic Radio &amp; TV Variety">
+    <display-name lang="en">Arabic Radio &amp; TV Variety</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NJOI TV">
+    <display-name lang="en">NJOI TV</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV Okey">
+    <display-name lang="en">TV Okey</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="NTV7">
     <display-name lang="en">NTV7</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="8TV">
     <display-name lang="en">8TV</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="TV9">
     <display-name lang="en">TV9</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Salam HD">
-    <display-name lang="en">Salam HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Vaanavil">
+    <display-name lang="en">Astro Vaanavil</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="TV AlHijrah HD">
-    <display-name lang="en">TV AlHijrah HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Vellithirai">
+    <display-name lang="en">Astro Vellithirai</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="HyppSensasi HD">
-    <display-name lang="en">HyppSensasi HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Makkal TV">
+    <display-name lang="en">Makkal TV</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="HyppInspirasi HD">
-    <display-name lang="en">HyppInspirasi HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="SUN TV">
+    <display-name lang="en">SUN TV</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Dunia Sinema HD">
-    <display-name lang="en">Dunia Sinema HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Sun Music HD">
+    <display-name lang="en">Sun Music HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Pesona HD">
-    <display-name lang="en">Pesona HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Chutti TV">
+    <display-name lang="en">Chutti TV</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="LAKU mall ">
-    <display-name lang="en">LAKU mall </display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Adithya">
+    <display-name lang="en">Adithya</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="tvN Movies HD">
-    <display-name lang="en">tvN Movies HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Star Vijay">
+    <display-name lang="en">Star Vijay</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="tvN HD">
-    <display-name lang="en">tvN HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Vinmeen HD">
+    <display-name lang="en">Astro Vinmeen HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="SCM Legend HD">
-    <display-name lang="en">SCM Legend HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
-  </channel>
-  <channel id="SCM HD">
-    <display-name lang="en">SCM HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
-  </channel>
-  <channel id="STAR Chinese Channel HD">
-    <display-name lang="en">STAR Chinese Channel HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
-  </channel>
-  <channel id="Now Jelli HD">
-    <display-name lang="en">Now Jelli HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
-  </channel>
-  <channel id="SETI">
-    <display-name lang="en">SETI</display-name>
-    <url>http://www.unifi_en.com.my</url>
-  </channel>
-  <channel id=" Yupp Thirai HD">
-    <display-name lang="en"> Yupp Thirai HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Star Vijay HD">
+    <display-name lang="en">Star Vijay HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="Colors Tamil HD">
     <display-name lang="en">Colors Tamil HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Polimer">
-    <display-name lang="en">Polimer</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="SUN TV HD">
+    <display-name lang="en">SUN TV HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Jaya Max">
-    <display-name lang="en">Jaya Max</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Zee Tamil HD">
+    <display-name lang="en">Zee Tamil HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Sony Max">
-    <display-name lang="en">Sony Max</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="ABO Movies Thangathirai HD">
+    <display-name lang="en">ABO Movies Thangathirai HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Colors Cineplex">
-    <display-name lang="en">Colors Cineplex</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="BollyOne HD">
+    <display-name lang="en">BollyOne HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Colors">
-    <display-name lang="en">Colors</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="iQIYI HD">
+    <display-name lang="en">iQIYI HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Sony SAB">
-    <display-name lang="en">Sony SAB</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Go Shop 303">
+    <display-name lang="en">Go Shop 303</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Sony SET">
-    <display-name lang="en">Sony SET</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Xiao Tai Yang HD">
+    <display-name lang="en">Astro Xiao Tai Yang HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Paramount HD">
-    <display-name lang="en">Paramount HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="TVB Classic">
+    <display-name lang="en">TVB Classic</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="CinemaWorld HD">
-    <display-name lang="en">CinemaWorld HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro AEC HD">
+    <display-name lang="en">Astro AEC HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Warner TV HD">
-    <display-name lang="en">Warner TV HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Shuang Xing HD">
+    <display-name lang="en">Astro Shuang Xing HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="FOX">
-    <display-name lang="en">FOX</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Quan Jia HD">
+    <display-name lang="en">Astro Quan Jia HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="FX">
-    <display-name lang="en">FX</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Celestial Movies HD">
+    <display-name lang="en">Celestial Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="FOX Life">
-    <display-name lang="en">FOX Life</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="TVB Jade">
+    <display-name lang="en">TVB Jade</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Comedy Central HD">
-    <display-name lang="en">Comedy Central HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro On Demand HD 311">
+    <display-name lang="en">Astro On Demand HD 311</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Blue Ant Entertainment">
-    <display-name lang="en">Blue Ant Entertainment</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Star Chinese Channel HD">
+    <display-name lang="en">Star Chinese Channel HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Blue Ant Extreme">
-    <display-name lang="en">Blue Ant Extreme</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="CTI Asia">
+    <display-name lang="en">CTI Asia</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="BBC Earth HD">
-    <display-name lang="en">BBC Earth HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="TVB Entertainment News">
+    <display-name lang="en">TVB Entertainment News</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Love Nature HD">
-    <display-name lang="en">Love Nature HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="TVB News">
+    <display-name lang="en">TVB News</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="National Geographic">
-    <display-name lang="en">National Geographic</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="TVB Xing He HD">
+    <display-name lang="en">TVB Xing He HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Nat Geo Wild">
-    <display-name lang="en">Nat Geo Wild</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="TVBS Asia HD">
+    <display-name lang="en">TVBS Asia HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Nat Geo People HD">
-    <display-name lang="en">Nat Geo People HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Celestial Classic Movies">
+    <display-name lang="en">Celestial Classic Movies</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="BBC Lifestyle HD">
-    <display-name lang="en">BBC Lifestyle HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="TVBS News">
+    <display-name lang="en">TVBS News</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Luxe.TV HD">
-    <display-name lang="en">Luxe.TV HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Phoenix Chinese Channel HD">
+    <display-name lang="en">Phoenix Chinese Channel HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="MTV Asia">
-    <display-name lang="en">MTV Asia</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Phoenix Info News HD">
+    <display-name lang="en">Phoenix Info News HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Dreamworks HD">
-    <display-name lang="en">Dreamworks HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Hua Hee Dai HD">
+    <display-name lang="en">Astro Hua Hee Dai HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Nick Jr.">
-    <display-name lang="en">Nick Jr.</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="CCTV4  HD">
+    <display-name lang="en">CCTV4  HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="CBeebies HD">
-    <display-name lang="en">CBeebies HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Xiao Tai Yang">
+    <display-name lang="en">Astro Xiao Tai Yang</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Nickelodeon">
-    <display-name lang="en">Nickelodeon</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro AEC">
+    <display-name lang="en">Astro AEC</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Boomerang HD">
-    <display-name lang="en">Boomerang HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Astro Shuang Xing">
+    <display-name lang="en">Astro Shuang Xing</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Celestial Movies">
+    <display-name lang="en">Celestial Movies</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro On Demand">
+    <display-name lang="en">Astro On Demand</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro On Demand 352">
+    <display-name lang="en">Astro On Demand 352</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro On Demand 353">
+    <display-name lang="en">Astro On Demand 353</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro On Demand 354">
+    <display-name lang="en">Astro On Demand 354</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro On Demand 355">
+    <display-name lang="en">Astro On Demand 355</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVB Xing He">
+    <display-name lang="en">TVB Xing He</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVBS Asia">
+    <display-name lang="en">TVBS Asia</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Hua Hee Dai">
+    <display-name lang="en">Astro Hua Hee Dai</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CCTV4">
+    <display-name lang="en">CCTV4</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KBS World">
+    <display-name lang="en">KBS World</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KBS World HD">
+    <display-name lang="en">KBS World HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ONE HD">
+    <display-name lang="en">ONE HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Oh!K HD">
+    <display-name lang="en">Oh!K HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="tvN HD">
+    <display-name lang="en">tvN HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NHK World">
+    <display-name lang="en">NHK World</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITS Movies HD">
+    <display-name lang="en">HITS Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BOO HD">
+    <display-name lang="en">BOO HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="en">HBO HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CINEMAX HD">
+    <display-name lang="en">CINEMAX HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX Movies HD">
+    <display-name lang="en">FOX Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX Family Movies HD">
+    <display-name lang="en">FOX Family Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX Action Movies HD">
+    <display-name lang="en">FOX Action Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="tvN Movies HD">
+    <display-name lang="en">tvN Movies HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="en">HBO</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="en">CINEMAX</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX Movies">
+    <display-name lang="en">FOX Movies</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Awani">
+    <display-name lang="en">Astro Awani</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BERNAMA">
+    <display-name lang="en">BERNAMA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="en">CGTN</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CNN HD">
+    <display-name lang="en">CNN HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="BBC World News HD">
     <display-name lang="en">BBC World News HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Channel NewsAsia">
-    <display-name lang="en">Channel NewsAsia</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Al Jazeera English HD">
+    <display-name lang="en">Al Jazeera English HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Euronews">
-    <display-name lang="en">Euronews</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Sky News HD">
+    <display-name lang="en">Sky News HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="Parlimen Malaysia">
-    <display-name lang="en">Parlimen Malaysia</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="CNA HD">
+    <display-name lang="en">CNA HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CNBC Asia">
+    <display-name lang="en">CNBC Asia</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Bloomberg Television">
+    <display-name lang="en">Bloomberg Television</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="ABC Australia">
     <display-name lang="en">ABC Australia</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="DW">
-    <display-name lang="en">DW</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="CNN">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="NHK WORLD-JAPAN">
-    <display-name lang="en">NHK WORLD-JAPAN</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="BBC World News">
+    <display-name lang="en">BBC World News</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="France 24">
-    <display-name lang="en">France 24</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Al Jazeera English">
+    <display-name lang="en">Al Jazeera English</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="unifi Sports 1">
-    <display-name lang="en">unifi Sports 1</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Nat Geo Wild HD">
+    <display-name lang="en">Nat Geo Wild HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="unifi Sports 2">
-    <display-name lang="en">unifi Sports 2</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="National Geographic HD">
+    <display-name lang="en">National Geographic HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="unifi Sports 3">
-    <display-name lang="en">unifi Sports 3</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Discovery Channel HD">
+    <display-name lang="en">Discovery Channel HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="unifi Sports 4">
-    <display-name lang="en">unifi Sports 4</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Discovery Asia HD">
+    <display-name lang="en">Discovery Asia HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
-  <channel id="unifi Sports 5">
-    <display-name lang="en">unifi Sports 5</display-name>
-    <url>http://www.unifi_en.com.my</url>
+  <channel id="Discovery Science HD">
+    <display-name lang="en">Discovery Science HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="History HD">
+    <display-name lang="en">History HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="en">Animal Planet HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="en">Nat Geo Wild</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="National Geographic Channel">
+    <display-name lang="en">National Geographic Channel</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="en">Discovery Channel</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="en">Discovery Science</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="History">
+    <display-name lang="en">History</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="en">Animal Planet</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Tutor TV UPSR">
+    <display-name lang="en">Astro Tutor TV UPSR</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Tutor TV PT3">
+    <display-name lang="en">Astro Tutor TV PT3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Tutor TV SPM">
+    <display-name lang="en">Astro Tutor TV SPM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro TVIQ">
+    <display-name lang="en">Astro TVIQ</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Ceria HD">
+    <display-name lang="en">Astro Ceria HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Disney XD HD">
+    <display-name lang="en">Disney XD HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="en">Disney Junior</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Disney Channel HD">
+    <display-name lang="en">Disney Channel HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Cartoon Network HD">
+    <display-name lang="en">Cartoon Network HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="en">Nickelodeon HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Baby TV HD">
+    <display-name lang="en">Baby TV HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Ceria">
+    <display-name lang="en">Astro Ceria</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="en">Disney Channel</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="en">Cartoon Network</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="en">Nickelodeon</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AXN HD">
+    <display-name lang="en">AXN HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Hello HD">
+    <display-name lang="en">Hello HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOXlife HD">
+    <display-name lang="en">FOXlife HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KIX HD">
+    <display-name lang="en">KIX HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITS HD">
+    <display-name lang="en">HITS HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TLC HD">
+    <display-name lang="en">TLC HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Food Network HD">
+    <display-name lang="en">Food Network HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Asian Food Network HD">
+    <display-name lang="en">Asian Food Network HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Nat Geo People HD">
+    <display-name lang="en">Nat Geo People HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Warner TV HD">
+    <display-name lang="en">Warner TV HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="en">FX HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Crime &amp; Investigation HD">
+    <display-name lang="en">Crime &amp; Investigation HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="en">HGTV HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DMAX HD">
+    <display-name lang="en">DMAX HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Comedy Central Asia HD">
+    <display-name lang="en">Comedy Central Asia HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="en">MTV</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Animax">
+    <display-name lang="en">Animax</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="en">AXN</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOXlife">
+    <display-name lang="en">FOXlife</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Asian Food Network">
+    <display-name lang="en">Asian Food Network</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Crime &amp; Investigation">
+    <display-name lang="en">Crime &amp; Investigation</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="en">DMAX</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro UHD">
+    <display-name lang="en">Astro UHD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="eGG Network HD">
+    <display-name lang="en">eGG Network HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Arena">
+    <display-name lang="en">Astro Arena</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Arena HD">
+    <display-name lang="en">Astro Arena HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Special Event Sports HD 06">
+    <display-name lang="en">Special Event Sports HD 06</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport HD">
+    <display-name lang="en">Astro SuperSport HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 2 HD">
+    <display-name lang="en">Astro SuperSport 2 HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 3 HD">
+    <display-name lang="en">Astro SuperSport 3 HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 4 HD">
+    <display-name lang="en">Astro SuperSport 4 HD</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="FOX Sports HD">
     <display-name lang="en">FOX Sports HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="FOX Sports 2 HD">
     <display-name lang="en">FOX Sports 2 HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
   </channel>
   <channel id="FOX Sports 3 HD">
     <display-name lang="en">FOX Sports 3 HD</display-name>
-    <url>http://www.unifi_en.com.my</url>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beIN Sports HD">
+    <display-name lang="en">beIN Sports HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="beIN Sports MAX HD">
+    <display-name lang="en">beIN Sports MAX HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Eurosport HD">
+    <display-name lang="en">Eurosport HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="WWE Network HD">
+    <display-name lang="en">WWE Network HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Golf Channel HD">
+    <display-name lang="en">Golf Channel HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="RugbyPass TV HD">
+    <display-name lang="en">RugbyPass TV HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro Cricket HD">
+    <display-name lang="en">Astro Cricket HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport">
+    <display-name lang="en">Astro SuperSport</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 2">
+    <display-name lang="en">Astro SuperSport 2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 3">
+    <display-name lang="en">Astro SuperSport 3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Astro SuperSport 4">
+    <display-name lang="en">Astro SuperSport 4</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX Sports">
+    <display-name lang="en">FOX Sports</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX Sports 2">
+    <display-name lang="en">FOX Sports 2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX Sports 3">
+    <display-name lang="en">FOX Sports 3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Eurosport">
+    <display-name lang="en">Eurosport</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="WWE Network">
+    <display-name lang="en">WWE Network</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITZ FM">
+    <display-name lang="en">HITZ FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MY FM">
+    <display-name lang="en">MY FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="LITE FM">
+    <display-name lang="en">LITE FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MIX FM">
+    <display-name lang="en">MIX FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ERA FM">
+    <display-name lang="en">ERA FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SINAR FM">
+    <display-name lang="en">SINAR FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MELODY FM">
+    <display-name lang="en">MELODY FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="THR RAAGA">
+    <display-name lang="en">THR RAAGA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CLASSIC ROCK">
+    <display-name lang="en">CLASSIC ROCK</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GOLD">
+    <display-name lang="en">GOLD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OPUS">
+    <display-name lang="en">OPUS</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="THR GEGAR">
+    <display-name lang="en">THR GEGAR</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="INDIA BEAT">
+    <display-name lang="en">INDIA BEAT</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="JAZZ">
+    <display-name lang="en">JAZZ</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="OSAI">
+    <display-name lang="en">OSAI</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BAYU">
+    <display-name lang="en">BAYU</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KENYALANG">
+    <display-name lang="en">KENYALANG</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NAS FM">
+    <display-name lang="en">NAS FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="V FM">
+    <display-name lang="en">V FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="WAI FM">
+    <display-name lang="en">WAI FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TRAXX FM">
+    <display-name lang="en">TRAXX FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MINNAL FM">
+    <display-name lang="en">MINNAL FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AI FM">
+    <display-name lang="en">AI FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASYIK FM">
+    <display-name lang="en">ASYIK FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ZAYAN">
+    <display-name lang="en">ZAYAN</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="GO XUAN">
+    <display-name lang="en">GO XUAN</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Radio ARENA">
+    <display-name lang="en">Radio ARENA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="K-Plus HD">
+    <display-name lang="en">K-Plus HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="Aniplus">
+    <display-name lang="en">Aniplus</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DW English">
+    <display-name lang="en">DW English</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="France24">
+    <display-name lang="en">France24</display-name>
+    <url>http://www.astro.com.my</url>
   </channel>
 </tv>
