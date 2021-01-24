@@ -430,13 +430,6 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021653X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d859d89342022a27312c16c4f9d912bd5587dc647c03007431657b3dbb9c429d29cd74f707a0251542265f72f767c12571e01afcde2618eb45ad56a790b8c911&drmId=prod"
       },
       { 
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020137X0-landscape.jpg",
-	"name": "HARRY POTTER AND THE ORDER OF THE PHOENIX",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79f20a3ae366782ad917d7_hbovodhd/dash0/MYS_index.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021654X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9b21e9ad610b9aebcbfdac6ad75bdcee69fe30ef444d951a078d774a33c017cae11b42d44503dde03f2809b3135f6f6181d518e9de28e6bba47f442a16511837&drmId=prod"
-      },
-      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021655X0-landscape.jpg",
 	"name": "THE ENCHIRIDION",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79feb43ae366782ad91935_hbovodhd/dash0/MYS_index.mpd",
@@ -602,48 +595,11 @@
   {
     "name": "LIVE MOVIES",
     "samples": [
-      {
-        "name": "RED HBO",
-        "logo_uri": "https://assetsmysky.blob.core.windows.net/assetsmysky/production/plans-and-bundles/1443770018_screen-red-sd-new.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8"
-      },
-      {
+    
+     {
         "name": "HBO Hits",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "HBO Family",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_family.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_dash_vmx/HBOFamily.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "HBO Signature",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_sig.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBOSignature/sa_dash_vmx/HBOSignature.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
-      },
-      {
-        "name": "HBO Malaysia",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
-        "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
-      },
-      {
-        "name": "HBO Indonesia",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/HBO/sa_dash_vmx/HBO.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "Cinemax",
-        "logo_uri": "https://www.transvision.co.id/img/channel/cinemax_new.png",
-        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_dash_vmx/CinemaxHD.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       }
