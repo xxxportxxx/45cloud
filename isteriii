@@ -52,6 +52,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=015176X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e703cf4410ba8a80b508d1a315cbd67ce5b00f27abfd5935eed77226da1b38cc6c80395a73c926e82b34fcbb8ebc49fb8e475a094346f5ddc6031dad8d1aed9b&drmId=prod"
       },
       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016865X0-landscape.jpg",
+	"name": "PACIFIC RIM",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f96bd276d048943f7673ef8_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567254971436217",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016865X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e1b11d246a9b73f7b07666b9e71ce9e3f95c9af41004ac0d84a238c7a6e0469dfce7f136f36e7b96329cca82d69debf579a853c17ea3117e85172660e3250ef4&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023365X0-landscape.jpg",
 	"name": "GRETA",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e58f7223a736626cec8fbab_hbovodhd/dash0/MYS_index.mpd",
