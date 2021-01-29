@@ -37,7 +37,14 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027310X1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ad4d1a2c7755e7096f645a9340b552f93127e31f8152b1e657724a42a4d7fee8ca8ca2eb7da4585b5f597a10eda3f6b76da986233b4d5afe35b2f2c98130bac5&drmId=prod"
       },
-      { 
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/015176X0-landscape.jpg",
+	"name": "THE DARK KNIGHT RISES",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9ac2526d048943f7679d56_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787941789274",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=015176X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e703cf4410ba8a80b508d1a315cbd67ce5b00f27abfd5935eed77226da1b38cc6c80395a73c926e82b34fcbb8ebc49fb8e475a094346f5ddc6031dad8d1aed9b&drmId=prod"
+      },
+      {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023365X0-landscape.jpg",
 	"name": "GRETA",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e58f7223a736626cec8fbab_hbovodhd/dash0/MYS_index.mpd",
