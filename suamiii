@@ -662,7 +662,7 @@
       {
         "name": "AWANI",
         "logo_uri": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
-        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/awani22.m3u8"
+        "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
       },
       {
         "name": "TVS",
