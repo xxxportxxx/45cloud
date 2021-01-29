@@ -720,7 +720,7 @@
       },
       {
         "name": "HBO MY",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
       }
     ]
