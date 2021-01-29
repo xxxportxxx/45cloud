@@ -10,6 +10,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023714X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=48362fe68742e4c2914f3c8ef62e4f2841d215973fb5ac4c17d54b32bce870288a8134c582a1c330fe16aff492641267a76bb462454e54c34b4b7e4abdc12302&drmId=prod"
       },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029212X0-landscape.jpg",
+	"name": "ROALD DAHL'S THE WITCHES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ff5c9126d048943f76ffec5_hbovodhd/dash0/MYS_index.mpd?c3.ri=6893886491449378199",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029212X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=153451c98adde24c62d9eb614db7b729b88e5e50296b72887fac0155c2baef598937c7883620386effa2e186ae200923109bf7aa0af941440e75f38379035a64&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023365X0-landscape.jpg",
 	"name": "GRETA",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e58f7223a736626cec8fbab_hbovodhd/dash0/MYS_index.mpd",
