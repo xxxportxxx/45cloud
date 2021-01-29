@@ -413,7 +413,7 @@
        {
         "name": "RUSH HOUR 2",   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009216X0-landscape.jpg",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac474a6d048943f7693dc1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768350070",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f5644516d048943f7614e30_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787942016832",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009216X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8e1e1375d5a166429a210c9eaf6aa84366407ad8df68faf721284e618f16a3df62c6c9b8afa5f95b1c23dbcca1bd6d20f53e147dde09e3985a9f582f59fcfab3&drmId=prod"
       },
