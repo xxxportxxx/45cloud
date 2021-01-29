@@ -17,6 +17,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029212X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=153451c98adde24c62d9eb614db7b729b88e5e50296b72887fac0155c2baef598937c7883620386effa2e186ae200923109bf7aa0af941440e75f38379035a64&drmId=prod"
       },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029380X0-landscape.jpg",
+	"name": "LOCK DOWN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ffc0b976d048943f7709212_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199116469",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029380X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bea6776c18d8eee096d97fd14aa9e6ec49a5d5f29f9a6d08c9f8eb0f64658c481adfdff90e9014c3a9ebe6bf1e99f31e3637d70038d267b77be78f767126ca71&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023892X0-landscape.jpg",
 	"name": "SONIC THE HEDGEHOG",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f9ba5f86d048943f767b233_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567254971362107",
