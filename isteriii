@@ -415,7 +415,7 @@
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009216X0-landscape.jpg",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f5644516d048943f7614e30_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787942016832",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009216X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8e1e1375d5a166429a210c9eaf6aa84366407ad8df68faf721284e618f16a3df62c6c9b8afa5f95b1c23dbcca1bd6d20f53e147dde09e3985a9f582f59fcfab3&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009216X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8ff5bef54607fa78430987ebcfd45876cc4a1dd21674ec0b7e9fbbf0ec8e62c85b9dd65410aa8b5d72468552b63600f555b4a01d372312f54c1b161e83b78747&drmId=prod"
       },
       {
         "name": "RUSH HOUR 3",   
