@@ -66,13 +66,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023365X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5fb57114aae79a7f3df6a90fcee165cae41da4320f8d66cf67613629e14662c18a06e868696f6ad373d77c0a4caab3dab9342aeacd88e136e7a770796e1d94d6&drmId=prod"
       },
       { 
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023715X0-landscape.jpg",
-	"name": "PLAYING WITH FIRE",
-        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f48dcd56d048943f7601331_hbovodhd/dash0/MYS_index.mpd",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023365X0-landscape.jpg",
+	"name": "CAPTAIN AMERICA: THE FIRST AVENGER",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3f4106cbea8a6a4e003b44_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199352650",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023715X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d82ca2fc60969e50130ccae9ca8f60d54bf042cd5464f202c864870a9cd0c4f65f10ca1023c1fb7fe2a8003ff341e3a3612658647ca8ecd5017134374c00c905&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=013687X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1ce6c5738673f660e0ec7c3f4b5fbc4d0e3ca39afe1a3449183f767b50a9f3d8ca46bf87b1d95269cbb87c8c8bd9b21905836c5f4f9a2adaead7546a3c28d1b7&drmId=prod"
       },
-      {  
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023472X0-landscape.jpg",
 	"name": "THE DARE",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e5cbc343a736626cec95714_hbovodhd/dash0/MYS_index.mpd",
