@@ -66,7 +66,7 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023365X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5fb57114aae79a7f3df6a90fcee165cae41da4320f8d66cf67613629e14662c18a06e868696f6ad373d77c0a4caab3dab9342aeacd88e136e7a770796e1d94d6&drmId=prod"
       },
       { 
-	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023365X0-landscape.jpg",
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/013687X0-landscape.jpg",
 	"name": "CAPTAIN AMERICA: THE FIRST AVENGER",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3f4106cbea8a6a4e003b44_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199352650",
         "drm_scheme": "widevine",
