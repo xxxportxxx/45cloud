@@ -24,6 +24,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023892X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=25cd626fe00a666e7a4a8855af24a4a45b958dd0299df05e93d51d302c79870e7ca9b1ef43dbcf5344b93548f939115db9b0a10eac120ad801d741cc54dc8f28&drmId=prod"
       },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/017066X0-landscape.jpg",
+	"name": "DESPICABLE ME 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb745d46d048943f76a41a3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895012384182463277",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=017066X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=afca821676e69647aeeee620f755ac7d0f749b26edc9cc26debc1334d20d270da53c0b5826cc4a3d7e4fce669b3ffdeac4a8a39b49df55e224f907cd2e125db0&drmId=prod"
+      },
+      {  
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027310X1-landscape.jpg",
 	"name": "SISTERS IN ARMS",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fdc2d386d048943f76da636_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199034249",
