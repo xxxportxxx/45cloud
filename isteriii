@@ -408,6 +408,25 @@
     ]
   },
   {
+           "name": "RUSH HOUR",
+            "samples": [
+       {
+        "name": "RUSH HOUR 2",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009216X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac474a6d048943f7693dc1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768350070",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009216X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8e1e1375d5a166429a210c9eaf6aa84366407ad8df68faf721284e618f16a3df62c6c9b8afa5f95b1c23dbcca1bd6d20f53e147dde09e3985a9f582f59fcfab3&drmId=prod"
+      },
+      {
+        "name": "RUSH HOUR 3",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009395X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f91507e6d048943f766bf28_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895012400197601031",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009395X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c283dcc05c2c51f545046863b866f6b6a71acbd58cba9dfc602d8f4f23aba3d83b31c5f27c57161dd47b254bc15d0c2923b3b452a83643f054bc28840c16e78&drmId=prod"
+      }
+    ]
+  },
+  {
            "name": "HARRY PORRTER",
             "samples": [
        {
