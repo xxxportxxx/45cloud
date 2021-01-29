@@ -476,7 +476,7 @@
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021249X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac474a6d048943f7693dc1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768350070",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012336X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d49cb83977e1c4509205d5edc2a43441aadff3558ac6cfddf8c5654f8e58ebd394d148f9c91f250a2f44f90b5aab9e0ea4f49aac4e18ac6dd1c33c581ccb7468&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021249X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a778869588cfb53da59d063943b5269860ca1a2c8e980986c4660cb53b4d9b0958b4632e9b6cd73d6cc8739924fb36f0e1817df74c6bfc69d36baa13e6eb7141&drmId=prod"
       },
       {
         "name": "ALVIN AND THE CHIPMUNKS: THE SQUEAKQUEL",   
@@ -490,7 +490,7 @@
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021252X0-landscape.jpg",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac51b46d048943f7693ebd_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787941933572",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021249X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a778869588cfb53da59d063943b5269860ca1a2c8e980986c4660cb53b4d9b0958b4632e9b6cd73d6cc8739924fb36f0e1817df74c6bfc69d36baa13e6eb7141&drmId=prod"
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021252X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c03c2d041f87ced64adc11a1598f0dda7b3862268ffead24bc2cac20ef38542071238b1538cf9b61471c8a3fa6f7be6d32f456c7c5a89a8475d556a1ee6862fe&drmId=prod"
       },
       {
         "name": "ALVIN AND THE CHIPMUNKS: THE ROAD CHIP",   
