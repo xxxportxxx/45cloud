@@ -17,6 +17,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029212X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=153451c98adde24c62d9eb614db7b729b88e5e50296b72887fac0155c2baef598937c7883620386effa2e186ae200923109bf7aa0af941440e75f38379035a64&drmId=prod"
       },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027310X1-landscape.jpg",
+	"name": "SISTERS IN ARMS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fdc2d386d048943f76da636_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199034249",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027310X1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ad4d1a2c7755e7096f645a9340b552f93127e31f8152b1e657724a42a4d7fee8ca8ca2eb7da4585b5f597a10eda3f6b76da986233b4d5afe35b2f2c98130bac5&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023365X0-landscape.jpg",
 	"name": "GRETA",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e58f7223a736626cec8fbab_hbovodhd/dash0/MYS_index.mpd",
