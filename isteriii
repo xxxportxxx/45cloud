@@ -17,6 +17,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029212X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=153451c98adde24c62d9eb614db7b729b88e5e50296b72887fac0155c2baef598937c7883620386effa2e186ae200923109bf7aa0af941440e75f38379035a64&drmId=prod"
       },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023892X0-landscape.jpg",
+	"name": "SONIC THE HEDGEHOG",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f9ba5f86d048943f767b233_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567254971362107",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023892X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=25cd626fe00a666e7a4a8855af24a4a45b958dd0299df05e93d51d302c79870e7ca9b1ef43dbcf5344b93548f939115db9b0a10eac120ad801d741cc54dc8f28&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027310X1-landscape.jpg",
 	"name": "SISTERS IN ARMS",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fdc2d386d048943f76da636_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199034249",
