@@ -78,8 +78,15 @@
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ec394e76d048943f7536869_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787942123046",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=017150X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=60944af235a8853d5b9d0231439eded1f4edf8ed70a09d9bb71848922261c7a1c1c5167bd6925f936789292b3fcfb70764e077f3ecb17b5b233c46b3cb23d0a3&drmId=prod"
-      },
+     },
       { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016705X0-landscape.jpg",
+	"name": "G.I. JOE: RETALIATION",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1006596d048943f75aac53_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787942150265",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016705X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=dd3ca0b944f98fd5aa8645c7e0a31391af65767158de2cf1bf917ac99c7bf4f8e47fb2426199a07687d1c8f3e4e66e10e4da1ead3e921af64852fa4ba0a7199d&drmId=prod"
+      },
+      {  
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023472X0-landscape.jpg",
 	"name": "THE DARE",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e5cbc343a736626cec95714_hbovodhd/dash0/MYS_index.mpd",
