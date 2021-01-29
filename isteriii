@@ -469,6 +469,39 @@
     ]
   },
   {
+           "name": "ALVIN AND THE CHIPMUNKS",
+            "samples": [
+       {
+        "name": "ALVIN AND THE CHIPMUNKS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021249X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac474a6d048943f7693dc1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768350070",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012336X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d49cb83977e1c4509205d5edc2a43441aadff3558ac6cfddf8c5654f8e58ebd394d148f9c91f250a2f44f90b5aab9e0ea4f49aac4e18ac6dd1c33c581ccb7468&drmId=prod"
+      },
+      {
+        "name": "ALVIN AND THE CHIPMUNKS: THE SQUEAKQUEL",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021250X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac63596d048943f7694065_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895012384182616108",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021250X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bfb133208f3c99f1656f0df3635df57cc015de14b270f5dcf2b172b0cc7d85a7ecc64a70d2987eb82686e997441e0f7c3756cb5e162cba8a90e0c87e031a2b49&drmId=prod"
+      },
+      {
+        "name": "ALVIN AND THE CHIPMUNKS: CHIPWRECKED",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021252X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac51b46d048943f7693ebd_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787941933572",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021249X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a778869588cfb53da59d063943b5269860ca1a2c8e980986c4660cb53b4d9b0958b4632e9b6cd73d6cc8739924fb36f0e1817df74c6bfc69d36baa13e6eb7141&drmId=prod"
+      },
+      {
+        "name": "ALVIN AND THE CHIPMUNKS: THE ROAD CHIP",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021251X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac637c6d048943f769406a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768340614",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021251X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cacf0803c55af475865783a502fc4c44452b59f38deccde0ebba252c5059611cb04002f28cc1507b52c5fca7881c28fcaeeddac106c3ef5a279afabd4f8cd3f5&drmId=prod"
+       }
+    ]
+  },
+  {
            "name": "ADVENTURE TIME SEASON 1",
             "samples": [
        {
