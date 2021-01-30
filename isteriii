@@ -708,6 +708,193 @@
     ]
   },
   {
+           "name": "ADVENTURE TIME SEASON 2",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021678X0-landscape.jpg",
+	"name": "LOYALTY TO THE KING",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d92f231cbea8a6a4eefd918_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021678X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ce42384758403796ae79c15ad23f0114fd920e38cf21ba35119da7f342c8527f47781e7d86c3615934f7a54d3a3adcfce01edb407bdb3a1986f75de7f051864c&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021679X0-landscape.jpg",
+	"name": "BLOOD UNDER THE SKIN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a8bbd3ae366782ad926ec_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021679X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a2680d5bc0360603f25252a3bd48e83678991c91b1e6fe3a98d17ffceeb5513178ff1257351439f3edddba2da26ed441e3546a558fbd0a78d59d0bf39b08b5db&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021680X0-landscape.jpg",
+	"name": "IT CAME FROM THE NIGHTOSPHERE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a9b6e3ae366782ad928ae_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021680X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=472155803bce1dbf2f7f5288ebb2f8907fffd9084cf2b37004154dec1ff35a303e50d33d949f3d255f0f7a39b80cae1041eb973a20b8049e6a6d14cad50de950&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021681X0-landscape.jpg",
+	"name": "THE EYES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d12463ae366782ad9663b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021681X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9e01c8a91cbbad3b9b0cbf2be983fae2d93bfe4f0746e6fd10d17858075f590e303ed4863c733a870f63ebfa78374289cb89347e64920df8e878efecf578d6cc&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021682X0-landscape.jpg",
+	"name": "STORY TELLING",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7c784c3ae366782ad95782_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021682X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=55eed835d7f88ee66671e0e115b3bcdae73155d5218315176255c9d70aa6850c7b187bf18bcdc16c8984f6c182ff6a0ff973f2ef586f8edc940e7ecf9d3692b7&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021683X0-landscape.jpg",
+	"name": "SLOW LOVE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7c85983ae366782ad958c7_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021683X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=097ed4e56c3d87c25595033dd992563af8369ffe2d934a3d5da76d4bf5846bf1375d531c2277cf70f1b9f47ff7fb708d8a035371731d26cc1c052dc9e470fbfc&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021684X0-landscape.jpg",
+	"name": "A POWER ANIMAL",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7afec63ae366782ad93364_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021684X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3772214a30bd0ce34b84e6826a628766fbe6d97123de0257bf9836fec2d3273b064c87744540ed04ea4b8b6e72c65561d76a16f41f6e4816a04ae0cc388d380f&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021685X0-landscape.jpg",
+	"name": "CRYSTALS HAVE POWER",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7c93fb3ae366782ad95a25_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021685X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0270d7df40aead94314e12bb55f403f564fa91d9f3806b45f426454e5f5b94c99ef2ce9461c0d99eef54bd94d87b00a1cda97632d1331bc10b1f5e25b4c01ea4&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021686X0-landscape.jpg",
+	"name": "HER PARENTS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/601392756d048943f772c3ab_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863883418",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021686X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=21971fafe88b8ec4f4db57918e4ea567473fa980f44546158473f2e2f494ccacc11f02be35580a28c629bf63e6cd47d019b2d57391a09a508afff16d1dfb3289&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021687X0-landscape.jpg",
+	"name": "TO CUT A WOMAN'S HAIR",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139b7e6d048943f772c484_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569853979",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021687X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8d23842b05275b40ef92e289f63299a7204fbfba229289b76282468888fae2c144f9d5635493c2201d7389b3555edf26f505d8f682e248c051d0b0715e6cc00c&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021688X0-landscape.jpg",
+	"name": "THE CHAMBER OF FROZEN BLADES",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139e4d6d048943f772c4d0_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569855772",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021688X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5734a2e57aeb0e160dec3a69ec0e1f98401e612be826df266108197196635b22741c2277925642c20a8d58d9880c4420ca0e226e4a346c8a229698566ff20ee3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021689X0-landscape.jpg",
+	"name": "THE OTHER TARTS!",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139bbd6d048943f772c48c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863887885",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021689X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6b12149cdfbad97535805f53dbe43ed326327093afd4000d8a5621be094c0531993be512b3ae8192700ed4a95c27e1790a0d1637959f3fde2a2c58c92a416d37&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021690X0-landscape.jpg",
+	"name": "THE PODS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139bfb6d048943f772c494_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863889089",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021690X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7b53619b4d1981741d5cbe0e8f6d5d7c2bfa5ea786d0656f97f13e858d0e3a3c11e836e5614a18179238d721f4b40d1775c54dca3da8b21ac9c8e63f2416b48e&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021691X0-landscape.jpg",
+	"name": "THE SILENT KING",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60138fcf6d048943f772c365_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863892145",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021691X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=530e55a5539ee5c567681bc576f74d1caffc57134712b485fadea320530b179cfb1bb1efd04bec2eaf278689b265f0dfa5587eb00ca0d666acea4fcf4675f1cf&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021692X0-landscape.jpg",
+	"name": "THE REAL YOU", 
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601382716d048943f772c21f_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569862958",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021692X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=94192f31e389225a951cc2953d299c0d348fc3b3657d411349d51129191ee63e22400e7bcbe76a6a56c5216e79b88c91215cf62598664c331479dde796dc16fa&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021693X0-landscape.jpg",
+	"name": "GUARDIANS OF SUNSHINE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60137f716d048943f772c1d1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863895000",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021693X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=19b442d95709012201c26be6a2ee91fc1940078c3d4e3b64b10c0a1acbefb50b254b272ed08b6b8ba003d2379eb7f94e9abb170bd6905f42cfd3940113b227ad&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021694X0-landscape.jpg",
+	"name": "DEATH IN BLOOM",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601382a66d048943f772c226_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863895987",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021694X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=13a5fb2d4b50411364e62cf013f94ff4cc7e7eff87f17a40a98e393008ef4fee6092e9615b24e31159c0752c843024586e6f9c17bf5398c7e8894daea3dae1c7&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021695X0-landscape.jpg",
+	"name": "SUSAN STRONG",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601392b36d048943f772c3b3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863897226",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021695X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8be6f8a73f43d03632ad280bc9b7d9d67b671e6a1f2f296bee7a458af7ba405a11d3c8a8c67975f301b19a226362c43d0a791de933fc5bed1b72c9cc3779ddd0&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021696X0-landscape.jpg",
+	"name": "MYSTERY TRAIN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601390166d048943f772c36d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863898316",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021696X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0b9f55275160e7256657a6e66dbaa3cd3be59f19cc7713cea8aeb5278b2aad57c964783a9d742c9a0f46fe8f32f249baab196e3b43bc61c04ebe3629396b92e3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021697X0-landscape.jpg",
+	"name": "GO WITH ME",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/6013904b6d048943f772c374_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569868584",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021697X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5ef80528e5589215e2803e94cb191d28b900323f776e14cdb0b9da82379165f6acf4600e22a7e221239c297af2634bc95fcdfdfc827b34ba3678ccbac9c9bbaf&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021698X0-landscape.jpg",
+	"name": "BELLY OF THE BEAST",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6013a03d6d048943f772c500_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863900885",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021698X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=eb601c6e02ed2f22cb43f473e658247249a9d34dda94ceb403e425f7ef2cdfba9037e17f705112e3ead9d08cd649c9957ef8bdf694ee01879a83eb4609500dbe&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021699X0-landscape.jpg",
+	"name": "THE LIMIT",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/6013b16d6d048943f772c697_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569871077",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021699X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=72a3551011620731c61ff094a35e01cb4c56ae971df1ea56738796c2e4224cc3afbd5e97fcea6489f7004db09735c93139f83868096983f879763fb8af5376d8&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021700X0-landscape.jpg",
+	"name": "VIDEO MAKERS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601382de6d048943f772c22d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863903273",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021700X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=092c941a322bc62d4c43831bbc4d35a3abf45b104fd36f2bbba5ceaeb714599d57b9d616f37e18e88454e885217ee36c3b31622932dca66711b1671c9a8fd75f&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021701X0-landscape.jpg",
+	"name": "HEAT SIGNATURE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601383156d048943f772c234_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569873452",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021701X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=502b275d200b706b5d24a58a15e68cd5a4e5efc45c9fbdc446094fddfd15d26d7dd8096832b4f6e8c55c3f1e23b3f576d24e7c6c5571b4ad782cc1d7e9c87a63&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021702X0-landscape.jpg",
+	"name": "MORTAL FOLLY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60139c356d048943f772c49b_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863905579",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021702X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d8ffac09b692fadfe62c127730c13f77d277391799105690a6c505076cd043a659a1a0e28bbeeb05139df7b6fc9de78fcbef2b68db5c8f5cf45f87926574ace7&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021703X0-landscape.jpg",
+	"name": "MORTAL RECOIL",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60139c726d048943f772c4a3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569875681",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021703X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=33b5b163f0b1f6fafeb21d79dd50fcaaa19c1b5b7de63a4d94502e2bf5f2bd4c822f1d6a799dfa25bab41e314fa81e02d52bca41be63ece02352f7cba02f29b2&drmId=prod"
+      }
+    ]
+  },
+  {
     "name": "LIVE MOVIES",
     "samples": [
     
