@@ -1061,21 +1061,9 @@
     ]
   },
   {
-    "name": "TAMIL",
-    "samples": [
-    
-     {
-        "name": "MASTER",
-        "logo_uri": "https://i.ytimg.com/vi/bKY5qOtq4MQ/maxresdefault.jpg",
-        "uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/master.m3u8"
-    }
-    ]
-  },
-  {
-    "name": "LIVE MOVIES",
-    "samples": [
-    
-     {
+           "name": "LIVE HBO",
+            "samples": [
+       {
         "name": "HBO Hits",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
         "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
