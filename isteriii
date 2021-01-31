@@ -1061,6 +1061,17 @@
     ]
   },
   {
+    "name": "TAMIL",
+    "samples": [
+    
+     {
+        "name": "MASTER",
+        "logo_uri": "https://i.ytimg.com/vi/bKY5qOtq4MQ/maxresdefault.jpg",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/NewVersion/tamil6/MASTER%20(2021).mp4"
+    }
+    ]
+  },
+  {
     "name": "LIVE MOVIES",
     "samples": [
     
