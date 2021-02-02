@@ -10,15 +10,15 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZDhiNWQ2ODgtODk1ZC0zZDhhLThkOTEtYjQ3YjE5NjAwMDFi"
       },
       {
-        "name": "TV1",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
-	"uri": "https://linear-playback.astro.com.my/linear-livewvdaf/711/default_ott.mpd",
+        "name": "Unifi",
+		"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
+        "uri": "https://linear-playback.astro.com.my/linear-livewvdaf/711/default_ott.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license",
         "drm_key_request_properties": "0X19",
-	"name": "KeyRequest",
-        "drm_multi_session": "0X0"
+	"name": "KeyRequest"
       }
     ]
   }
 ]
+
