@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2021",
+    "samples": [
+      {
+        "name": "TV1",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
+	"uri": "https://linear-playback.astro.com.my/linear-livewvdaf/711/default_ott.mpd"
+        "drm_scheme": "[O] Drm scheme if protected. Values: widevine, playready, clearkey",
+        "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license",
+        "drm_key_request_properties": "0X19",
+	""name": "KeyRequest",
+        "drm_multi_session": "0X0"
+      }
+    ]
+  }
+]
