@@ -1,7 +1,14 @@
 [
   {
-    "name": "2021",
+    "name": "ANEKA",
     "samples": [
+     {
+        "name": "Unifi",
+		"logo_uri": "https://seeklogo.com/images/U/unifi-logo-50269A3A68-seeklogo.com.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZDhiNWQ2ODgtODk1ZC0zZDhhLThkOTEtYjQ3YjE5NjAwMDFi"
+      },
       {
         "name": "TV1",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_300.png",
@@ -9,7 +16,7 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license",
         "drm_key_request_properties": "0X19",
-	""name": "KeyRequest",
+	"name": "KeyRequest",
         "drm_multi_session": "0X0"
       }
     ]
