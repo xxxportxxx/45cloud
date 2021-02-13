@@ -606,6 +606,12 @@
         "uri": "http://1.9.62.170/88888888/16/20200527/268700802/268700802.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.240.167,20210213073251,SP0043058322,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&tenantId=6003&from=5&hms_devid=1798&mount=1000002&it=H4sIAAAAAAAAAy2MTQsCIRQA_41HeX5FHTwVQRcJtrrGU18i2Eq6LfTva2OPAzMzNQx0OlhjgBSBMACkFUX0AmHnTdBCk95q1unlqlUsYCl5TK7GJbsN-7sADlxKwcWGXZbdsWCy8m-699NTW-GXDdTmHMjG_uAzdo4pNUo45Tryc8HPtZVV-QIOtQsOmQAAAA",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NjY0NWFlODctYjFmZC0zZWNlLWI0MWEtMmZiYjk3ZmNhMjQ5"
+      {
+        "name": "24-TAMIL",
+        "logo_uri": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/zn5qe-TFFK2PHGDWE-Full-Image_GalleryCover-en-US-1604723785783._UY500_UX667_RI_V7061b4fb10d3458c55b10e19f16e8a4a_TTW_.jpg",
+        "uri": "http://centerrrs.hypp.tv/88888888/16/20201118/268725750/268725750.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.149,20210213170352,SP0046018078,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOTavCMBRE_02WITf2I11kpQiCVMG-t5VrchuLaaNJFfz3Wi24nZkznDGioc1KL5TKiJSoqlxmUhglqLSAkBdtYWRVsUS3OmjJDHrfDa4OdsL-D8sjCC64lMABWDPdrT26eVnf-xPFH3ag-OgMaZta_sDE0blIDscuDHzv8fkX_Txh1MxqUMAiL0WeFaUCNk5pg-nybtgZ0zL0V4xkt8F9AN2iT8SuaC7oqMae9HD3_svton3bvAB4_Vzk9AAAAA&tenantId=6003",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjY0NWFlODctYjFmZC0zZWNlLWI0MWEtMmZiYjk3ZmNhMjQ5"
       }
     ]
   },
