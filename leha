@@ -587,6 +587,13 @@
     "name": "CATCH UP",
     "samples": [
 	 {
+        "name": "CICAKMAN 2",
+        "logo_uri": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXWinWrOB-ObA3s5VuTJNw3NV9bLaTQiEMXIB7-ZkHoQPVaumIzvfKrAgJyKTnfuUYQw4AbhvfUsbQYq5CQounENHE4.jpg",
+        "uri": "http://centerrrs.hypp.tv/88888888/16/20200130/268679901/268679901.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.149,20210213165211,SP0038872591,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOwY7CIBRF_4YlASpgF6ycmJiYamKdrXmFV2xKi0I18e-1Y5PZ3nvPzZkSWNz9GKF5sWJoQTpclaoslW5lwaSUwjWyaUnGexWNIBZC6EZfRTdjv6fNhTPKqBCcckXq-W4bwC_L6jE0mP6xE6ZnZ9G43NInZAreJ_QwdXGkxwCvcwrLhGC9qHHFC6lZoZXSazLNaQ25_zTkCnkThxskdPvo_wDTQshIbmB78FjBgGZ8hPDlDsl9bN7s16Yi9AAAAA&tenantId=6003",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjY0NWFlODctYjFmZC0zZWNlLWI0MWEtMmZiYjk3ZmNhMjQ5"
+      },	
+      {
         "name": "CICAKMAN 3",
         "logo_uri": "https://occ-0-2705-448.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZwCQWOJPq7lXKDAbe2Gi-OyAWXIN8TZ1hzQp9B7cE0zlhR9S36S1jYOjBqdHqpHUn2QIWzKAHse3MYNj8CT127OvsWo.jpg?r=214",
         "uri": "http://1.9.15.104/88888888/16/20200305/268687198/268687198.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.33,20210213082128,SP0038985448,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&tenantId=6003&from=28&hms_devid=1602&it=H4sIAAAAAAAAAy2MQQvCIBhA_43Hj-nccgdPRdBFglXX-NQvEWySrkH_vhY7PnjvzQUdnQ56Z5XobKscd60kJxWXwnrVyaGngZNnlV4m65Y5TClOwWS_Zrdxf-cNNCAEB96zy7o7Jgxa_E3zfloqG_yykcoSHWlfH7BgBQyhUMA55gnOCT_XkjblCwYUiq6ZAAAA",
