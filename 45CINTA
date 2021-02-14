@@ -1,6 +1,6 @@
 [
   {
-    "name": "ANEKA",
+    "name": "MALAYSIA ANEKA",
     "samples": [
      {
         "name": "Unifi",
@@ -103,7 +103,7 @@
     ]
   },
   {
-    "name": "RUBY",
+    "name": "MALYSIA RUBY",
     "samples": [
      {
         "name": "TVN MOVIES HD",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "name": "VARNAM",
+    "name": "MALAYSIA VARNAM",
     "samples": [
       {
         "name": "301 YUPP THIRAI HD",
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "name": "ENTERTAINMENT",
+    "name": "MALAYSIA ENTERTAINMENT",
     "samples": [
       {
         "name": "FOX MOVIES",
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "name": "KNOWLEDGE",
+    "name": "MALAYSIA KNOWLEDGE",
     "samples": [
       {
         "name": "BBC EARTH HD",
@@ -389,7 +389,7 @@
 	]
   },
   {
-    "name": "KIDS",
+    "name": "MALAYSIA KIDS",
     "samples": [
       {
         "name": "DREAMWORK HD",
@@ -436,7 +436,7 @@
     ]
   },
   {
-    "name": "NEWS",
+    "name": "MALAYSIA NEWS",
     "samples": [
      {
         "name": "BBC WORLD NEWS HD",
@@ -511,7 +511,7 @@
     ]
   },
   {
-    "name": "SPORTS",
+    "name": "MALAYSIA SPORTS",
     "samples": [
      {
         "name": "UNIFI SPORTS 1",
@@ -617,7 +617,7 @@
     ]
   },
   {
-    "name": "MEWATCH",
+    "name": "SINGAPURA MEWATCH",
     "samples": [
 	 {
         "name": "Channel 5",
@@ -678,7 +678,7 @@
     ]
   },
   {
-    "name": "ASTRO CHANNEL",
+    "name": "MALAYSIA CHANNEL",
     "samples": [ 
       {
         "name": "HBO Hits",
@@ -736,7 +736,7 @@
   },
   
       {
-    "name": "VISIONPLUS MOVIES",
+    "name": "INDONESIA MOVIES",
     "samples": [
       {
         "name": "HBO Hits",
@@ -825,7 +825,7 @@
     ]  
   },
   {
-    "name": "VISIONPLUS KIDS",
+    "name": "INDONESIA KIDS",
     "samples": [      
       {
         "name": "Nick Jr",
@@ -907,7 +907,7 @@
     ]
   },
   {
-    "name": "VISIONPLUS INDONESIA",
+    "name": "INDONESIA LOCAL",
     "samples": [
       {
         "name": "Indosiar",
@@ -1115,7 +1115,7 @@
     ]  
   },
   {
-    "name": "VISIONPLUS ENTERTAINMENT",
+    "name": "INDONESIA ENTERTAINMENT",
     "samples": [
       {
         "name": "FMN",
@@ -1328,7 +1328,7 @@
     ]  
   },
   {
-    "name": "VISIONPLUS SPORTS",
+    "name": "INDONESIA SPORTS",
     "samples": [      
         {
         "name": "FOX Sports",
@@ -1375,7 +1375,7 @@
     ]  
   },
   {
-    "name": "VISIONPLUS NEWS",
+    "name": "INDONESIA NEWS",
     "samples": [      
       {
         "name": "Channel News Asia",
@@ -1520,7 +1520,7 @@
     ]  
   },
   {
-    "name": "ADD-ON",
+    "name": "INDONESIA ADD-ON",
     "samples": [  
       {
         "name": "& TV",
