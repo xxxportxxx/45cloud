@@ -730,7 +730,12 @@
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_100.png",
         "uri": "http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8"
       },
-     {
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
+        "uri": "http://190.2.155.140:8278/streams/d/dramasangat_pye/playlist.m3u8"
+      },
+      {
         "name": "ASTRO BOO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
         "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
