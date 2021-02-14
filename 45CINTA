@@ -693,22 +693,17 @@
       {
         "name": "ASTRO WARNA",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8"
+        "uri": "http://190.2.155.140:8278/streams/d/warna_pye/playlist.m3u8"
       },
       {
         "name": "ASTRO CITRA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_100.png",
         "uri": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8"
        },
       {
         "name": "ASTRO BOO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_100.png",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
         "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
-      },
-      {
-        "name": "ASTRO CERIA",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
       },
       {
         "name": "AWANI",
@@ -744,6 +739,11 @@
         "name": "ASTRO OKEY",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_100.png",
         "uri": "https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8"
+      },
+      {
+        "name": "ASTRO ARENA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/arena_pye/playlist.m3u8"
       },
       {
         "name": "RTM SPORTS",
