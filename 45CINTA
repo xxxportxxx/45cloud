@@ -160,7 +160,7 @@
     "name": "MALAYSIA VARNAM",
     "samples": [
       {
-        "name": "301 YUPP THIRAI HD",
+        "name": "YUPP THIRAI HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
         "drm_scheme": "widevine",
