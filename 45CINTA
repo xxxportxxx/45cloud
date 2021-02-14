@@ -570,21 +570,9 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NjY0NWFlODctYjFmZC0zZWNlLWI0MWEtMmZiYjk3ZmNhMjQ5"
       }
     ]
-  },
+  },  
   {
-    "name": "UNIFI TEST",
-    "samples": [
-     {
-        "name": "801 UNIFI VOD",
-	"logo_uri": "https://seeklogo.com/images/U/unifi-logo-50269A3A68-seeklogo.com.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227738/3221227738.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjY0NWFlODctYjFmZC0zZWNlLWI0MWEtMmZiYjk3ZmNhMjQ5"
-      }
-    ]
-  }, 	  
-  {
-    "name": "CATCH UP",
+    "name": "MALAYSIA CATCH UP",
     "samples": [
 	 {
         "name": "CICAKMAN 2",
