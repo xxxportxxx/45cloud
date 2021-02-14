@@ -741,6 +741,11 @@
         "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
       },
       {
+        "name": "HELLO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
+      },
+      {
         "name": "TVS",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_100.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8"
