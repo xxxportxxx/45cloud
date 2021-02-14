@@ -863,20 +863,6 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "Disney Junior",
-        "logo_uri": "https://static.mncnow.id/images/channel/f9d17eca/96f9_r32.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_dash_vmx/DisneyJunior.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
-        "name": "Disney XD",
-        "logo_uri": "https://static.mncnow.id/images/channel/32f5aa03/c40a_r32.jpg",
-        "uri": "https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_dash_vmx/DisneyXD.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-      },
-      {
         "name": "Disney Channel",
         "logo_uri": "https://static.mncnow.id/images/channel/53d6b747/4db8_r32.jpg",
         "uri": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
