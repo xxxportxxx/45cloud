@@ -3,6 +3,20 @@
            "name": "MOVIES",
             "samples": [
        {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023943X0-landscape.jpg",
+	"name": "DOLITTLE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feefbc06d048943f76f5f3a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903176612870712281",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023943X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1504a65447d8a5d380be690f313f1b1483df96f6864c88ec2d5ca0beb1297b3d2a310022b3fe571054324903c9224df6c7bafb0e0071a943d017750215ea1664&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/026829X0-landscape.jpg",
+	"name": "BIRDS OF PREY AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916968878962135765",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=026829X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=934689a40389b5b4aadc9d0440afca39f00ccf9a0df38082f218654d7251c3d1a5388042f5661c64f372376761a0430c64739a0ddffef488e9e92c37e51c65c3&drmId=prod"
+      },
+      {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023714X0-landscape.jpg",
 	"name": "IT CHAPTER 2",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd",
