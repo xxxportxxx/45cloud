@@ -676,9 +676,39 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "ASTRO HELLO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
+        "name": "ASTRO RIA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO PRIMA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO OASIS",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO WARNA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Warna/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO CITRA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8"
+       },
+      {
+        "name": "ASTRO BOO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO CERIA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/131_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
       },
       {
         "name": "AWANI",
