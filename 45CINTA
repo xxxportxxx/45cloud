@@ -2214,6 +2214,25 @@
     ]
   },
   {
+           "name": "MADAGASCAR",
+            "samples": [
+       {
+        "name": "MADAGASCAR",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023333X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dc58e31cbea8a6a4ef4acd7_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903458128637596868",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009619X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=73d9889f6e36bcce869363f5d81af72827636f7f0a9622d15e9e2d9d546227861de8bcb672a4bed9d579189e56144b62d26dadcd779ca6b7c1e2428b679f9659&drmId=prod"
+      },
+      {
+        "name": "MADAGASCAR: ESCAPE 2 AFRICA",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009619X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de9aba5cbea8a6a4ef81ade_hbovodhd/dash0/MYS_index.mpd?c3.ri=6914154174359590331",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021250X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bfb133208f3c99f1656f0df3635df57cc015de14b270f5dcf2b172b0cc7d85a7ecc64a70d2987eb82686e997441e0f7c3756cb5e162cba8a90e0c87e031a2b49&drmId=prod"
+      }
+    ]
+  },
+  {
            "name": "ADVENTURE TIME SEASON 1",
             "samples": [
        {
