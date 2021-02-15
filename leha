@@ -594,7 +594,14 @@
         "uri": "http://1.9.62.170/88888888/16/20200527/268700802/268700802.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.240.167,20210213073251,SP0043058322,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&tenantId=6003&from=5&hms_devid=1798&mount=1000002&it=H4sIAAAAAAAAAy2MTQsCIRQA_41HeX5FHTwVQRcJtrrGU18i2Eq6LfTva2OPAzMzNQx0OlhjgBSBMACkFUX0AmHnTdBCk95q1unlqlUsYCl5TK7GJbsN-7sADlxKwcWGXZbdsWCy8m-699NTW-GXDdTmHMjG_uAzdo4pNUo45Tryc8HPtZVV-QIOtQsOmQAAAA",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NjY0NWFlODctYjFmZC0zZWNlLWI0MWEtMmZiYjk3ZmNhMjQ5"
-      },	
+      },
+      {  
+	"logo_uri": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDBEjUWwA9nmwq21U0e23v402dHo4CUst9gQ&usqp=CAU",
+	"name": "ALI SETAN",
+        "uri": "http://centerrrs.hypp.tv/88888888/16/20210205/268733692/268733692.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.241.210,20210215053648,SP0000066593,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOy27DIBRE_4YlAuLnglWqSJUqt1KcbqsBbogVbFJwIvXvY7fudmbO6MwJll5ftDJ1Y3ZGFqU0RQtnKtQCpmiK1rZQxDJ9d1ErZhHCMPkuuhX7PO6_pOCCKyW5ali_3h0C_Lbs7qOhpMt_7EjpMVjSLp_5A5nD-0Qe8xAn_hHwc0phmzDqNzVZyV0tykotLoLNa9ojX5eGXZD3cbwhkXuL_hfQZ4RM7AZ7hacOI-npHsIf957cYvMEpd0rCPQAAAA&tenantId=6003",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NjY0NWFlODctYjFmZC0zZWNlLWI0MWEtMmZiYjk3ZmNhMjQ5"
+      },
       {
         "name": "24-TAMIL",
         "logo_uri": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/zn5qe-TFFK2PHGDWE-Full-Image_GalleryCover-en-US-1604723785783._UY500_UX667_RI_V7061b4fb10d3458c55b10e19f16e8a4a_TTW_.jpg",
@@ -2211,6 +2218,25 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021251X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cacf0803c55af475865783a502fc4c44452b59f38deccde0ebba252c5059611cb04002f28cc1507b52c5fca7881c28fcaeeddac106c3ef5a279afabd4f8cd3f5&drmId=prod"
        }
+    ]
+  },
+  {
+           "name": "MADAGASCAR",
+            "samples": [
+       {
+        "name": "MADAGASCAR",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023333X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc58e31cbea8a6a4ef4acd7_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903458128637636560",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023333X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9a8b2b39b92fbb1fdf39d670f1ec3fd83d7f431c9dab7adce111ded87ffe18d83c96284003ebb4b8701dc2d7629d9ddbc737ad5e0382639c2da6e95c64bb085b&drmId=prod"
+      },
+      {
+        "name": "MADAGASCAR: ESCAPE 2 AFRICA",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009619X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de9aba5cbea8a6a4ef81ade_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903458128637640934",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009619X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f144da38bfad811a6b8d0515e0cbaf55f7a4ba0df89b9b3e9f47056692ff54faa9e52214b1f3651384485437222508b197502f0646052d6c863fcf4b27d46f2a&drmId=prod"
+      }
     ]
   },
   {
