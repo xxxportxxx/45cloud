@@ -676,14 +676,74 @@
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
       },
       {
-        "name": "ASTRO HELLO",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
-        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
+        "name": "ASTRO RIA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8"
       },
+      {
+        "name": "ASTRO PRIMA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO OASIS",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO WARNA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/warna_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO CITRA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8"
+       },
       {
         "name": "AWANI",
         "logo_uri": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
+      },
+      {
+        "name": "ASTRO ARENA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/arena_pye/playlist.m3u8"
+     },
+      {
+        "name": "ASTRO ASSP 1",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO ASSP 2",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport2_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO ASSP 3",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO ASSP 4",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
+      },
+      {
+        "name": "ASTRO BOO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
+      },
+      {
+        "name": "HELLO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
       },
       {
         "name": "TVS",
@@ -1192,7 +1252,7 @@
     ]  
   },
   {
-    "name": "VISIONPLUS KNOWLEDGE",
+    "name": "INDONESIA KNOWLEDGE",
     "samples": [
       {
         "name": "BBC Earth",
