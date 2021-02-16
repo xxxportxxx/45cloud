@@ -467,7 +467,7 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
-        "name": "612 EURONEWS",
+        "name": "EURONEWS",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/euronews.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
         "drm_scheme": "widevine",
