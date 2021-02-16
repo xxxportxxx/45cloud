@@ -570,60 +570,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
-  },  
-  {
-    "name": "MALAYSIA CATCH UP",
-    "samples": [
-	 {
-        "name": "CICAKMAN 2",
-        "logo_uri": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXWinWrOB-ObA3s5VuTJNw3NV9bLaTQiEMXIB7-ZkHoQPVaumIzvfKrAgJyKTnfuUYQw4AbhvfUsbQYq5CQounENHE4.jpg",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20200130/268679901/268679901.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.149,20210213165211,SP0038872591,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOwY7CIBRF_4YlASpgF6ycmJiYamKdrXmFV2xKi0I18e-1Y5PZ3nvPzZkSWNz9GKF5sWJoQTpclaoslW5lwaSUwjWyaUnGexWNIBZC6EZfRTdjv6fNhTPKqBCcckXq-W4bwC_L6jE0mP6xE6ZnZ9G43NInZAreJ_QwdXGkxwCvcwrLhGC9qHHFC6lZoZXSazLNaQ25_zTkCnkThxskdPvo_wDTQshIbmB78FjBgGZ8hPDlDsl9bN7s16Yi9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
-      },	
-      {
-        "name": "CICAKMAN 3",
-        "logo_uri": "https://occ-0-2705-448.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZwCQWOJPq7lXKDAbe2Gi-OyAWXIN8TZ1hzQp9B7cE0zlhR9S36S1jYOjBqdHqpHUn2QIWzKAHse3MYNj8CT127OvsWo.jpg?r=214",
-        "uri": "http://1.9.15.104/88888888/16/20200305/268687198/268687198.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.33,20210213082128,SP0038985448,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&tenantId=6003&from=28&hms_devid=1602&it=H4sIAAAAAAAAAy2MQQvCIBhA_43Hj-nccgdPRdBFglXX-NQvEWySrkH_vhY7PnjvzQUdnQ56Z5XobKscd60kJxWXwnrVyaGngZNnlV4m65Y5TClOwWS_Zrdxf-cNNCAEB96zy7o7Jgxa_E3zfloqG_yykcoSHWlfH7BgBQyhUMA55gnOCT_XkjblCwYUiq6ZAAAA",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
-      },	
-      {
-        "name": "GENG PENGEMBARAAN BERMULA",
-        "logo_uri": "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRXw6GEAnL0jU5VGuQ8UVMkXAAkZcngU1Iy552PIRjqBUpDwRNjvyTrdaY8AaeL9yAwv1_mJcvqiFo23b3gqyCr6Z0aI.jpg?r=189",
-        "uri": "http://1.9.62.170/88888888/16/20200527/268700802/268700802.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.240.167,20210213073251,SP0043058322,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&tenantId=6003&from=5&hms_devid=1798&mount=1000002&it=H4sIAAAAAAAAAy2MTQsCIRQA_41HeX5FHTwVQRcJtrrGU18i2Eq6LfTva2OPAzMzNQx0OlhjgBSBMACkFUX0AmHnTdBCk95q1unlqlUsYCl5TK7GJbsN-7sADlxKwcWGXZbdsWCy8m-699NTW-GXDdTmHMjG_uAzdo4pNUo45Tryc8HPtZVV-QIOtQsOmQAAAA",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
-      },
-      {  
-	"logo_uri": "http://1.bp.blogspot.com/-k_TVYDJ-d0s/TmLiaCURqFI/AAAAAAAACUc/9tv0m8Pg1E0/s1600/hantu+bonceng+01.jpg",
-	"name": "HANTU BONCENG",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20200627/268706077/268706077.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.241.210,20210215053426,SP0043553624,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBiD32bHZZvA4LCTxsTEoIno1fxsP5M4mG5I4tsLirem7dd0CKBxt1FGFHmWybTOEp3UvCk4k40oZpEWNUgS8Vl6JYgG59relt7M2OW0vnJGGRWCU5GTap7bOrBLs3x1NQaV_rEThrHVqExs6AiRgrUBLQyt7-nRwfsc3FIhWC3XeMZXkqVJLlZMkmF2K4j3KSE3iGvfPSCg2Xv7BVQDLiJ5gL6DxRI6VP3LuR93CGZ68wHS4alO9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
-       },
-      { 
-	"logo_uri": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVlUnPYbiACdra_PxqP9O6q-Ilg3KCRBArHzPr1v7rO94nCD4BFtY-SHvQvcwnfBz8V1Lf-MObmSpl1z31PtB7hZ1_I.jpg",
-	"name": "HANTU KAPCAI",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20191219/268673872/268673872.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.241.210,20210215053515,SP0038311368,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOTYvCMBiE_02OIUnth4eclIWFpQp2vS5j8jZbTBtNasF_v626eJ2ZZ3jGCEOfWy1JiVYiR7syq0ysT7YqZJkVsMagLMASXeugFTPwvhtcHeyCHQ-bHym44EpJrirWLHcfHu61rG_9ieIbO1CcOkPappZPSBzORXIYuzDwvcf9O_rXhFHzr1bIrBR5nqlK5Wxc0gbpPDfsF2kT-gsi2a_gHoBu4ROxC8wZjmr0pIeb909uF-1s8wdLDYIL9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
-      },
-      {
-	"logo_uri": "https://m.media-amazon.com/images/M/MV5BZjFmNzdkZjYtZGQwMy00YjU4LTliOGEtNGFmMTA5OTI1ZTYzXkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_.jpg",
-	"name": "ALI SETAN",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20210205/268733692/268733692.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.241.210,20210215053648,SP0000066593,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOy27DIBRE_4YlAuLnglWqSJUqt1KcbqsBbogVbFJwIvXvY7fudmbO6MwJll5ftDJ1Y3ZGFqU0RQtnKtQCpmiK1rZQxDJ9d1ErZhHCMPkuuhX7PO6_pOCCKyW5ali_3h0C_Lbs7qOhpMt_7EjpMVjSLp_5A5nD-0Qe8xAn_hHwc0phmzDqNzVZyV0tykotLoLNa9ojX5eGXZD3cbwhkXuL_hfQZ4RM7AZ7hacOI-npHsIf957cYvMEpd0rCPQAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
-      },
-      {
-        "name": "24-TAMIL",
-        "logo_uri": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/zn5qe-TFFK2PHGDWE-Full-Image_GalleryCover-en-US-1604723785783._UY500_UX667_RI_V7061b4fb10d3458c55b10e19f16e8a4a_TTW_.jpg",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20201118/268725750/268725750.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.149,20210213170352,SP0046018078,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOTavCMBRE_02WITf2I11kpQiCVMG-t5VrchuLaaNJFfz3Wi24nZkznDGioc1KL5TKiJSoqlxmUhglqLSAkBdtYWRVsUS3OmjJDHrfDa4OdsL-D8sjCC64lMABWDPdrT26eVnf-xPFH3ag-OgMaZta_sDE0blIDscuDHzv8fkX_Txh1MxqUMAiL0WeFaUCNk5pg-nybtgZ0zL0V4xkt8F9AN2iT8SuaC7oqMae9HD3_svton3bvAB4_Vzk9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
-      }
-    ]
   },
   {
     "name": "SINGAPURA MEWATCH",
