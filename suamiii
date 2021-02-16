@@ -7,98 +7,98 @@
 	"logo_uri": "https://seeklogo.com/images/U/unifi-logo-50269A3A68-seeklogo.com.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "TV1",
 	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "TV2",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "TV3",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "NTV7",
 	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "8TV",
 	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "TV9",
 	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "SALAM HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/salam.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "TV ALHIJRAH",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "HYPP SENSASI HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "HYYP INSPIRASI HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "DUNIA SINEMA HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "PESONA HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "LAKU MALL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/laku-mall.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
   },
@@ -110,49 +110,49 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvN-Movies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
      },
      {
         "name": "SETI",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/seti.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
 	  {
         "name": "TVN HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "STAR CHINESE MOVIES HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "STAR CHINESE LEGEND HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "STAR CHINESE CHANNEL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/STAR-Chinese-Channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "NOW JELLI HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/now-jelli.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
   },
@@ -164,70 +164,70 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "COLORS TAMIL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-tamil.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "POLIMER",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Polimer.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "JAYA MAX",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "SONY MAX",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "UTV MOVIES HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "COLORS CINEPLEX",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "COLORS",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ZEE-TV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "SONY SAB",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {        
 	"name": "SONY SET",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
   },
@@ -239,84 +239,84 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FOX ACTION MOVIES",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FOX FAMILY MOVIES",
 		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "PARAMOUNT CHANNEL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "CINEMA WORLD HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "WARNER TV HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/warner-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FOX",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FX",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fx.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FOX LIFE",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Life.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "COMEDY CENTRAL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/comedy-central.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "BLUE ANT ENTERTAINMENT HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "BLUE ANT EXTREME",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-extreme.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
   },
@@ -328,63 +328,63 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "LOVE NATURE",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
 	  {
         "name": "NATIONAL GEOGRAPHIC",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "NAT GEO WILD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo-wild.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "NAT GEO PEOPLE HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nat-geo-people.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "BBC LIFESTYLE HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-lifestyle.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "TRAVEL CHANNEL HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "LUXE.TV HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/luxe-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "MTV ASIA HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
 	]
   },
@@ -396,42 +396,42 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "NICK JR.",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "CBEEBIES HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {           
 	"name": "NICKELODEON",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "BOOMERANG HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "BABY TV",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
   },
@@ -443,70 +443,70 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "ALJAZEERA HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-jazeera.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "SKY NEWS",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/skynews.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "CHANNEL NEWS ASIA",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/channel-news-asia.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
-        "name": "612 EURONEWS",
+        "name": "EURONEWS",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/euronews.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "BERNAMA",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bernama-news-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "PARLIMEN",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/parlimen-malaysia.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "ABC AUSTRALIA",
 	"logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "DW",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DW.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "NHK WORLD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nhk-world-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
   },
@@ -518,110 +518,56 @@
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "UNIFI SPORTS 2",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "UNIFI SPORTS 3",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "UNIFI SPORTS 4",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "UNIFI SPORTS 5",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FOX SPORTS HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-sports.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FOX SPORTS 2 HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       },
       {
         "name": "FOX SPORTS 3 HD",
 	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
         "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
-      }
-    ]
-  },  
-  {
-    "name": "MALAYSIA CATCH UP",
-    "samples": [
-	 {
-        "name": "CICAKMAN 2",
-        "logo_uri": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABXWinWrOB-ObA3s5VuTJNw3NV9bLaTQiEMXIB7-ZkHoQPVaumIzvfKrAgJyKTnfuUYQw4AbhvfUsbQYq5CQounENHE4.jpg",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20200130/268679901/268679901.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.149,20210213165211,SP0038872591,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOwY7CIBRF_4YlASpgF6ycmJiYamKdrXmFV2xKi0I18e-1Y5PZ3nvPzZkSWNz9GKF5sWJoQTpclaoslW5lwaSUwjWyaUnGexWNIBZC6EZfRTdjv6fNhTPKqBCcckXq-W4bwC_L6jE0mP6xE6ZnZ9G43NInZAreJ_QwdXGkxwCvcwrLhGC9qHHFC6lZoZXSazLNaQ25_zTkCnkThxskdPvo_wDTQshIbmB78FjBgGZ8hPDlDsl9bN7s16Yi9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
-      },	
-      {
-        "name": "CICAKMAN 3",
-        "logo_uri": "https://occ-0-2705-448.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABZwCQWOJPq7lXKDAbe2Gi-OyAWXIN8TZ1hzQp9B7cE0zlhR9S36S1jYOjBqdHqpHUn2QIWzKAHse3MYNj8CT127OvsWo.jpg?r=214",
-        "uri": "http://1.9.15.104/88888888/16/20200305/268687198/268687198.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.33,20210213082128,SP0038985448,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&tenantId=6003&from=28&hms_devid=1602&it=H4sIAAAAAAAAAy2MQQvCIBhA_43Hj-nccgdPRdBFglXX-NQvEWySrkH_vhY7PnjvzQUdnQ56Z5XobKscd60kJxWXwnrVyaGngZNnlV4m65Y5TClOwWS_Zrdxf-cNNCAEB96zy7o7Jgxa_E3zfloqG_yykcoSHWlfH7BgBQyhUMA55gnOCT_XkjblCwYUiq6ZAAAA",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
-      },	
-      {
-        "name": "GENG PENGEMBARAAN BERMULA",
-        "logo_uri": "https://occ-0-1068-92.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABRXw6GEAnL0jU5VGuQ8UVMkXAAkZcngU1Iy552PIRjqBUpDwRNjvyTrdaY8AaeL9yAwv1_mJcvqiFo23b3gqyCr6Z0aI.jpg?r=189",
-        "uri": "http://1.9.62.170/88888888/16/20200527/268700802/268700802.mpd?rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.240.167,20210213073251,SP0043058322,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&tenantId=6003&from=5&hms_devid=1798&mount=1000002&it=H4sIAAAAAAAAAy2MTQsCIRQA_41HeX5FHTwVQRcJtrrGU18i2Eq6LfTva2OPAzMzNQx0OlhjgBSBMACkFUX0AmHnTdBCk95q1unlqlUsYCl5TK7GJbsN-7sADlxKwcWGXZbdsWCy8m-699NTW-GXDdTmHMjG_uAzdo4pNUo45Tryc8HPtZVV-QIOtQsOmQAAAA",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
-      },
-      {  
-	"logo_uri": "http://1.bp.blogspot.com/-k_TVYDJ-d0s/TmLiaCURqFI/AAAAAAAACUc/9tv0m8Pg1E0/s1600/hantu+bonceng+01.jpg",
-	"name": "HANTU BONCENG",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20200627/268706077/268706077.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.241.210,20210215053426,SP0043553624,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOwQ6CMBiD32bHZZvA4LCTxsTEoIno1fxsP5M4mG5I4tsLirem7dd0CKBxt1FGFHmWybTOEp3UvCk4k40oZpEWNUgS8Vl6JYgG59relt7M2OW0vnJGGRWCU5GTap7bOrBLs3x1NQaV_rEThrHVqExs6AiRgrUBLQyt7-nRwfsc3FIhWC3XeMZXkqVJLlZMkmF2K4j3KSE3iGvfPSCg2Xv7BVQDLiJ5gL6DxRI6VP3LuR93CGZ68wHS4alO9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
-       },
-      { 
-	"logo_uri": "https://occ-0-64-58.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABVlUnPYbiACdra_PxqP9O6q-Ilg3KCRBArHzPr1v7rO94nCD4BFtY-SHvQvcwnfBz8V1Lf-MObmSpl1z31PtB7hZ1_I.jpg",
-	"name": "HANTU KAPCAI",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20191219/268673872/268673872.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.241.210,20210215053515,SP0038311368,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOTYvCMBiE_02OIUnth4eclIWFpQp2vS5j8jZbTBtNasF_v626eJ2ZZ3jGCEOfWy1JiVYiR7syq0ysT7YqZJkVsMagLMASXeugFTPwvhtcHeyCHQ-bHym44EpJrirWLHcfHu61rG_9ieIbO1CcOkPappZPSBzORXIYuzDwvcf9O_rXhFHzr1bIrBR5nqlK5Wxc0gbpPDfsF2kT-gsi2a_gHoBu4ROxC8wZjmr0pIeb909uF-1s8wdLDYIL9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
-      },
-      {
-	"logo_uri": "https://m.media-amazon.com/images/M/MV5BZjFmNzdkZjYtZGQwMy00YjU4LTliOGEtNGFmMTA5OTI1ZTYzXkEyXkFqcGdeQXVyNzQwOTU0NTk@._V1_.jpg",
-	"name": "ALI SETAN",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20210205/268733692/268733692.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.241.210,20210215053648,SP0000066593,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOy27DIBRE_4YlAuLnglWqSJUqt1KcbqsBbogVbFJwIvXvY7fudmbO6MwJll5ftDJ1Y3ZGFqU0RQtnKtQCpmiK1rZQxDJ9d1ErZhHCMPkuuhX7PO6_pOCCKyW5ali_3h0C_Lbs7qOhpMt_7EjpMVjSLp_5A5nD-0Qe8xAn_hHwc0phmzDqNzVZyV0tykotLoLNa9ojX5eGXZD3cbwhkXuL_hfQZ4RM7AZ7hacOI-npHsIf957cYvMEpd0rCPQAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
-      },
-      {
-        "name": "24-TAMIL",
-        "logo_uri": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/zn5qe-TFFK2PHGDWE-Full-Image_GalleryCover-en-US-1604723785783._UY500_UX667_RI_V7061b4fb10d3458c55b10e19f16e8a4a_TTW_.jpg",
-        "uri": "http://centerrrs.hypp.tv/88888888/16/20201118/268725750/268725750.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,42.153.41.149,20210213170352,SP0046018078,1502109523143355851405361,-1,1,0,,,1,HESA0002,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOTavCMBRE_02WITf2I11kpQiCVMG-t5VrchuLaaNJFfz3Wi24nZkznDGioc1KL5TKiJSoqlxmUhglqLSAkBdtYWRVsUS3OmjJDHrfDa4OdsL-D8sjCC64lMABWDPdrT26eVnf-xPFH3ag-OgMaZta_sDE0blIDscuDHzv8fkX_Txh1MxqUMAiL0WeFaUCNk5pg-nybtgZ0zL0V4xkt8F9AN2iT8SuaC7oqMae9HD3_svton3bvAB4_Vzk9AAAAA&tenantId=6003",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YjU2OTAxMDEtYmJmNi0zNmZiLThiNDQtOGI3OTVjOTgwYTk1"
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
       }
     ]
   },
