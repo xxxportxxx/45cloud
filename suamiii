@@ -2182,7 +2182,131 @@
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac637c6d048943f769406a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768340614",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021251X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cacf0803c55af475865783a502fc4c44452b59f38deccde0ebba252c5059611cb04002f28cc1507b52c5fca7881c28fcaeeddac106c3ef5a279afabd4f8cd3f5&drmId=prod"
-       }
+       
+    ]
+  },
+  {
+           "name": "ACTION & ADVENTURE",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028548X0-landscape.jpg",
+	"name": "JUSTICE LEAGUE DARK: APOKOLIPS WAR",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ff3dfd56d048943f76fd1e2_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916406354988741805",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028548X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3f7d984511633b7e89205fe65f5bf2f7674c193a12d32d51851d7df4d5b4ae7923351f12afb7f02b70ab0dfc6171757701e0f9a247e3b1d856b11d65208fa749&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028547X0-landscape.jpg",
+	"name": "MORTAL KOMBAT LEGENDS: SCORPION'S REVENGE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc868a16d048943f76bd461_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916406354988747021",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028547X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8530d15464248e56bad2fa3e2b9c8be0fec096a06ed2d46a9c06ac8951e749d0d9e9346127a66332e76fe4577b61cf28906465d1fdfe5d9b8fb2deade873cac5&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023938X0-landscape.jpg",
+	"name": "SUPERMAN: RED SON",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1fab296d048943f75c28d4_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916687818773209968",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023938X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fd21695b424a846c0dccf409e1cfb98396c60d7d97a7e023bd161571bc5dcc97f77b94ee54df5deac143d526e547a73247ced032b2c1b527127cbd67a873eb30&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023892X0-landscape.jpg",
+	"name": "SONIC THE HEDGEHOG",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f9ba5f86d048943f767b233_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916406354988761097",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023892X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e3d8c2ceaa22c0d74cfdf7dd079118202115b57511e9a89cd8688c10b8d8f7292f7bdcfbc3ef56629a57eaa7745bc3b23af0c07631c7ba32ca63897a51d5bb7d&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/026829X0-landscape.jpg",
+	"name": "BIRDS OF PREY AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916969325846857723",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=026829X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9c3eb6bb0c9608ee0b4d3b902ac50765a02a45b135bebd444e9318dc1d4740e1c5d8845a324d2a820be38621310bacdfa5966c958e9fc9d75e8551c7645acd7d&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023891X0-landscape.jpg",
+	"name": "THE RHYTHM SECTION",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f9abbad6d048943f7679cb5_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901488201948476894",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023891X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8ddbc5d51dc69c9b51bcb8869c1b325e4479347cdb07aec07ff055391ebd44f0e69ae2bcf211871e8e990f44ddf8b2f10bf1052873177b12f4ebcef70670a923&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023943X0-landscape.jpg",
+	"name": "DOLITTLE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feefbc06d048943f76f5f3a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916969325846865372",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023943X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=4b1ff9538ab7292e218cd6d396f3c9665c4984a1fb49faaca0829bd8e2e67f7ea284985d416cde86f3f256cae226e0d7ee0c70f479974d465179c39f2f77f6b3&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023944X0-landscape.jpg",
+	"name": "1917",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb751be6d048943f76a42bd_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379777089",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023944X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=07a007498d82dfb9c6aeebfbe8eeaaebb6f254f23985ad39707b81ac143b1215d253d2d0eb03526f49777250408fc680c0fc12ea1806c6c6621c92e0073f05f8&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023772X0-landscape.jpg",
+	"name": "BULLETPROOF 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f7572e76d048943f7642d80_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350963930",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023772X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0f8a4cf2dc0ed453d84ce511c3b037ae5251b06b62dc399cdc22677f66e7c1c02dc19fb857059f6c2c3ab071469144d03204a72070bbc52eaaeacea4abdafd87&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002746-landscape.jpg",
+	"name": "S.W.A.T.",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feefd746d048943f76f5f64_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350966874",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002746&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e112d71ca955fefd5ef056e2f1c4a7a227742da4532bceb099e9ce39642d46b12d3bc501c46bf8a7d17b0180201a00714e3299aab9219f0ab5ed12a739a547c1&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027631X0-landscape.jpg",
+	"name": "THE COURIER",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9bad2a6d048943f767b2df_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350972212",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027631X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8f9cd8f9a79f6ace987215e486093afa8e3914790758157a9daecdc9acefe5559cfa61b5a97b9c3be531a18e2d0f70941db4a320fc48a499460451c5b4bb89c2&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023716X0-landscape.jpg",
+	"name": "CREED II",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f22b0dc6d048943f75c7296_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350980080",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023716X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c864454b4dfbb81c0fbb2dca4f7a4783457275ae3879a756743dc11f10351f4555dff14f862cdfa896475392f06c89b192038b69788e533b9d6b7de8ed70f9ce&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028259X0-landscape.jpg",
+	"name": "MIDWAY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5febdb286d048943f76f15dd_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379800294",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028259X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c20b0eb9f3ed142c54f19df3657deb0930e89abed9f61f1ae1e4823c841e35214d47774bf2157203c299d305874451866581e027df62f36c9c3ab7f44f46292&drmId=prod"
+     },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002730-landscape.jpg",
+	"name": "THE DIVINE MOVE 2: THE WRATHFUL",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1fcfc16d048943f75c2c53_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916969325846902730",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002730&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=945f23e1c074f38cbddc0879d18a47134f1e5c1e075ce3e70b0fdea1e683a7c86a1f3f2d4ae516320024e39666f7fbd1aca679471f65f706a1e4953b3e43ba1d&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
+	"name": "GEMINI MAN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb128ef6d048943f751a681_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379810325",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023544X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cfdfb79cc763616d615627df2830b73cf69c9dc11108c821ef3459e72e640ef3f3650f321c064203ca5967100a717cbe11a39f7695235d316150ceac531d97cb&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027310X1-landscape.jpg",
+	"name": "SISTERS IN ARMS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fdc2d386d048943f76da636_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379816337",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027310X1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b2503b6a88576d3df2d30a8ecf06b101c807ba6df658a695e906310f6f047815ba0f2f1d99be770cb774811d99fa80c51e561cd9e7d677ec92fcb5a9cbf73fe9&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023881X0-landscape.jpg",
+	"name": "WONDER WOMAN: BLOODLINES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f2265eb6d048943f75c6b6a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901488201948535166",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023881X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=91c703e6e093a1a564a2b73bef8b912feb040f341467346e85cbe76fad270d3c9109d85695c310ba9f4ad7f82a39ef28ea7c4b157afd41ccd1539a60b4af5ea5&drmId=prod"
+      }
     ]
   },
   {
