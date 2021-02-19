@@ -1,0 +1,2859 @@
+[
+  {
+    "name": "MALAYSIA ANEKA",
+    "samples": [
+     {
+        "name": "Unifi",
+	"logo_uri": "https://seeklogo.com/images/U/unifi-logo-50269A3A68-seeklogo.com.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227609/3221227609.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "TV1",
+	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "TV2",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "TV3",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "NTV7",
+	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_100.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "8TV",
+	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_100.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "TV9",
+	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_100.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "SALAM HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/salam.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227558/3221227558.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "TV ALHIJRAH",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-hijrah.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227507/3221227507.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "HYPP SENSASI HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "HYYP INSPIRASI HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "DUNIA SINEMA HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "PESONA HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "LAKU MALL HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/laku-mall.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+    ]
+  },
+  {
+    "name": "MALYSIA RUBY",
+    "samples": [
+     {
+        "name": "TVN MOVIES HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvN-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227553/3221227553.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+     },
+     {
+        "name": "SETI",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/seti.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+	  {
+        "name": "TVN HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "STAR CHINESE MOVIES HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "STAR CHINESE LEGEND HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "STAR CHINESE CHANNEL HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/STAR-Chinese-Channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "NOW JELLI HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/now-jelli.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+    ]
+  },
+  {
+    "name": "MALAYSIA VARNAM",
+    "samples": [
+      {
+        "name": "YUPP THIRAI HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "COLORS TAMIL HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-tamil.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "POLIMER",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Polimer.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "JAYA MAX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "SONY MAX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "UTV MOVIES HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "COLORS CINEPLEX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "COLORS",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ZEE-TV.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "SONY SAB",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {        
+	"name": "SONY SET",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+    ]
+  },
+  {
+    "name": "MALAYSIA ENTERTAINMENT",
+    "samples": [
+      {
+        "name": "FOX MOVIES",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Movies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227572/3221227572.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FOX ACTION MOVIES",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Action.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227638/3221227638.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FOX FAMILY MOVIES",
+		"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Family.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227644/3221227644.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "PARAMOUNT CHANNEL HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/paramount-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227565/3221227565.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "CINEMA WORLD HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cinema-world.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "WARNER TV HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/warner-tv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227620/3221227620.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FOX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227578/3221227578.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FX",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fx.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227571/3221227571.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FOX LIFE",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Fox-Life.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227525/3221227525.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "COMEDY CENTRAL HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/comedy-central.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227581/3221227581.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "BLUE ANT ENTERTAINMENT HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-entertainment.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227637/3221227637.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "BLUE ANT EXTREME",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/rtl-cbs-extreme.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227656/3221227656.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+    ]
+  },
+  {
+    "name": "MALAYSIA KNOWLEDGE",
+    "samples": [
+      {
+        "name": "BBC EARTH HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "LOVE NATURE",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+	  {
+        "name": "NATIONAL GEOGRAPHIC",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "NAT GEO WILD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo-wild.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "NAT GEO PEOPLE HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nat-geo-people.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "BBC LIFESTYLE HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-lifestyle.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "TRAVEL CHANNEL HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "LUXE.TV HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/luxe-tv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "MTV ASIA HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+	]
+  },
+  {
+    "name": "MALAYSIA KIDS",
+    "samples": [
+      {
+        "name": "DREAMWORK HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "NICK JR.",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "CBEEBIES HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {           
+	"name": "NICKELODEON",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "BOOMERANG HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "BABY TV",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+    ]
+  },
+  {
+    "name": "MALAYSIA NEWS",
+    "samples": [
+     {
+        "name": "BBC WORLD NEWS HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-world-news.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "ALJAZEERA HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/al-jazeera.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "SKY NEWS",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/skynews.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "CHANNEL NEWS ASIA",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/channel-news-asia.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "EURONEWS",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/euronews.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "BERNAMA",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bernama-news-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "PARLIMEN",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/parlimen-malaysia.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "ABC AUSTRALIA",
+	"logo_uri": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ABC_Australia_logo.svg/400px-ABC_Australia_logo.svg.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "DW",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/DW.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "NHK WORLD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nhk-world-tv.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+    ]
+  },
+  {
+    "name": "MALAYSIA SPORTS",
+    "samples": [
+     {
+        "name": "UNIFI SPORTS 1",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-1.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227675/3221227675.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "UNIFI SPORTS 2",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227722/3221227722.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "UNIFI SPORTS 3",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-3.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227682/3221227682.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "UNIFI SPORTS 4",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-4.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227685/3221227685.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "UNIFI SPORTS 5",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/unifi-sports-5.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227705/3221227705.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FOX SPORTS HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-sports.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227608/3221227608.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FOX SPORTS 2 HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227726/3221227726.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      },
+      {
+        "name": "FOX SPORTS 3 HD",
+	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/fox-Sports-3.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227634/3221227634.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=NGYxYzM3NDktMDkxOS0zNzgyLWIyMmYtNjYwNzViNjc2MGRk"
+      }
+    ]
+  },
+  {
+    "name": "SINGAPURA MEWATCH",
+    "samples": [
+	 {
+        "name": "Channel 5",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956277%27&EntityType=%27Item%27&EntityId=%2797098%27&Width=150&Height=150&ImageUrl=%27956277.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp02.akamaized.net/out/v1/5081e069e08140c9b95f89a1659cf4dd/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g1X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiMTA5MzgxNTAiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=XxVtXGzoZGI5pzb1eOacEclqzxQ%3D&"
+      },	
+      {
+        "name": "Channel 8",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956273%27&EntityType=%27Item%27&EntityId=%2797104%27&Width=150&Height=150&ImageUrl=%27956273.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp02.akamaized.net/out/v1/4f6561ad194b49ae93f4e1b075afdf41/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2g4X2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiOTgyNjk5MSIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=VmkG%2FnkMNDuNoZKk%2F1cG3xTZG5w%3D&"
+      },	  
+	  {
+        "name": "Channel U",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%272261554%27&EntityType=%27Item%27&EntityId=%2797129%27&Width=150&Height=150&ImageUrl=%272261554.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY2hVX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDE1NiIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=GJ%2FUWeTXAOfpju0oZkr0UtvrZ8k%3D&"
+      },
+	  {
+        "name": "Suria",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956267%27&EntityType=%27Item%27&EntityId=%2797084%27&Width=150&Height=150&ImageUrl=%27956267.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp04.akamaized.net/out/v1/31fe9e6473ce4c03aa79f83fcb53b2ff/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfc3VyaWFfZGFzaF93ZWJfZHJtIiwiZmlsZXMiOiI1NzU0MDY1IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=K5QHleHoJp4T8XdlfjAOjm2eSaA%3D&"
+      },
+	  {
+        "name": "Vasantham",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956271%27&EntityType=%27Item%27&EntityId=%2797096%27&Width=150&Height=150&ImageUrl=%27956271.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp03.akamaized.net/out/v1/ff7074666bce40c9887ba518d3fc7a85/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfdmFzYW50aGFtX2Rhc2hfd2ViX2RybSIsImZpbGVzIjoiNTc1NDEwNyIsInVkaWQiOiIiLCJhZGRpdGlvbmFsX2Nhc19zeXN0ZW0iOjB9&signature=kW0wEsrEe7pTVkx1lThO0W7iINQ%3D&"
+      },
+	  {
+        "name": "CNA",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%27956283%27&EntityType=%27Item%27&EntityId=%2797072%27&Width=150&Height=150&ImageUrl=%27956283.png%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJmdGFfY25hU19kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IjU3NTQxNDgiLCJ1ZGlkIjoiIiwiYWRkaXRpb25hbF9jYXNfc3lzdGVtIjowfQ%3D%3D&signature=AwRVi%2FH%2BlkS0uH3gDvZFjXDH3bM%3D&"
+      },
+	  {
+        "name": "LIVE 1",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%272540525%27&EntityType=%27LinearSchedule%27&EntityId=%276db03774-5e76-4a0e-9cc1-5a9274b91603%27&Width=1080&Height=608&ImageUrl=%272540525.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+        "uri": "https://tglmp04.akamaized.net/out/v1/1e43950975424e1486a65db984e37910/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": ""		
+      },
+	  {
+        "name": "LIVE 2",
+        "logo_uri": "https://static.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27jpg%27&Quality=85&ImageId=%272540521%27&EntityType=%27LinearSchedule%27&EntityId=%277837d3cd-e103-47d9-b710-b0f2eecfa453%27&Width=1080&Height=608&ImageUrl=%272540521.jpg%27&device=%27web_browser%27&subscriptions=%27Anonymous%27&segmentationTags=%27all%27&ResizeAction=%27fill%27&HorizontalAlignment=%27center%27&VerticalAlignment=%27top%27",
+		    "uri": "https://tglmp02.akamaized.net/out/v1/3170252e3fb0453085f2f4b0f8401a6b/manifest.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJPVFQiLCJ1c2VyX3Rva2VuIjowLCJhY2NvdW50X2lkIjoiMjA4MjMxMSIsImNvbnRlbnRfaWQiOiJhZGhvY19UTGl2ZTAyX2Rhc2hfd2ViIiwiZmlsZXMiOiIyODA4NDQ5IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MH0%3D&signature=RW3PNMNY89cAbise3cO0RNxzC84%3D&"
+      }
+    ]
+  },
+  {
+    "name": "MALAYSIA CHANNEL",
+    "samples": [ 
+      {
+        "name": "HBO Hits",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ASTRO RIA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO PRIMA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO OASIS",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO WARNA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/warna_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO CITRA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8"
+       },
+      {
+        "name": "ASTRO CERIA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/631_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
+      },
+      {
+        "name": "AWANI",
+        "logo_uri": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
+        "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
+      },
+      {
+        "name": "ASTRO ARENA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/arena_pye/playlist.m3u8"
+     },
+      {
+        "name": "ASTRO ASSP 1",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO ASSP 2",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport2_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO ASSP 3",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8"
+      },
+      {
+        "name": "ASTRO ASSP 4",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_100.png",
+        "uri": "http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8"
+      },
+      {
+        "name": "DRAMA SANGAT",
+        "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
+      },
+      {
+        "name": "ASTRO BOO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
+      },
+      {
+        "name": "HELLO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
+      },
+      {
+        "name": "TVS",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/122_100.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_TVS_04.m3u8"
+      },
+      {
+        "name": "ASTRO NAURA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/109_100.png",
+        "uri": "https://agsplayback01.astro.com.my/CH2/master_NAURAGOSHOP4_03.m3u8"
+      },
+      {
+        "name": "ASTRO GAAYA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_100.png",		
+        "uri": "https://agsplayback01.astro.com.my/CH3/master_GOSHOP3_04.m3u8"
+      },
+      {
+        "name": "ASTRO RUUMA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/118_100.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP_04.m3u8"
+      },
+      {
+        "name": "ASTRO RAAYA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/120_100.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
+      },
+      {
+        "name": "ASTRO OKEY",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_100.png",
+        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
+      },
+      {
+        "name": "RTM SPORTS",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
+        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
+      }
+    ]
+  },
+  
+      {
+    "name": "INDONESIA MOVIES",
+    "samples": [
+      {
+        "name": "HBO Hits",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HBOHits/sa_dash_vmx/HBOHits.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Hits Movies",
+        "logo_uri": "https://static.mncnow.id/images/channel/85c27603/211b_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fox Movies",
+        "logo_uri": "https://static.mncnow.id/images/channel/0884953c/00f2_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fox Family",
+        "logo_uri": "https://static.mncnow.id/images/channel/b5c4aab3/cd79_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fox Action",
+        "logo_uri": "https://static.mncnow.id/images/channel/ee2e9d8a/ab27_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Star Chinese",
+        "logo_uri": "https://static.mncnow.id/images/channel/0a73bcb5/001b_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCM/sa_dash_vmx/SCM.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Thrill",
+        "logo_uri": "https://static.mncnow.id/images/channel/eb20a8cc/0560_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Celestial Movie",
+        "logo_uri": "https://static.mncnow.id/images/channel/194e8f64/cd64_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Celestial Classic",
+        "logo_uri": "https://static.mncnow.id/images/channel/15947df7/9e90_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+       "name": "Zee BIOSKOP",
+        "logo_uri": "https://static.mncnow.id/images/channel/fe0dd5b9/6c09_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SCM Legend",
+        "logo_uri": "https://static.mncnow.id/images/channel/93f14ec7/e945_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_dash_vmx/SCMlegend.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "tvN Movies",
+        "logo_uri": "https://static.mncnow.id/images/channel/b48d9737/d482_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]  
+  },
+  {
+    "name": "INDONESIA KIDS",
+    "samples": [      
+      {
+        "name": "Nick Jr",
+        "logo_uri": "https://static.mncnow.id/images/channel/e9e89c98/ccdd_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NickJr/sa_dash_vmx/NickJr.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MiaoMi",
+        "logo_uri": "https://static.mncnow.id/images/channel/b1276bb8/4fc8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_dash_vmx/MiaoMi.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Boomerang",
+        "logo_uri": "https://static.mncnow.id/images/channel/adbf9dd3/8ba6_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Baby TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/ff3ba4c4/2f57_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BabyTV/sa_dash_vmx/BabyTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Cbeebies",
+        "logo_uri": "https://static.mncnow.id/images/channel/46fceab7/dd27_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Disney Channel",
+        "logo_uri": "https://static.mncnow.id/images/channel/53d6b747/4db8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_dash_vmx/DisneyChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Kids Channel",
+        "logo_uri": "https://static.mncnow.id/images/channel/2ac55b6a/96dd_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Cartoon Network",
+        "logo_uri": "https://static.mncnow.id/images/channel/90f0101e/ad25_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_dash_vmx/CartoonNetwork.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Nickelodeon",
+        "logo_uri": "https://static.mncnow.id/images/channel/e9e89c98/ccdd_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]
+  },
+  {
+    "name": "INDONESIA LOCAL",
+    "samples": [
+      {
+        "name": "Indosiar",
+        "logo_uri": "https://static.mncnow.id/images/channel/1b160abe/692a_r32.jpeg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Indosiar/sa_dash_vmx/Indosiar.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "RCTI",
+        "logo_uri": "https://static.mncnow.id/images/channel/a1ad4e34/4c80_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/RCTI/sa_dash_vmx/RCTI.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Global TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/46535a59/4377_r32.jpeg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/GlobalTV/sa_dash_vmx/GlobalTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MNC TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/4638bf6e/ba92_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCTV/sa_dash_vmx/MNCTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MNC Entertainment",
+        "logo_uri": "https://static.mncnow.id/images/channel/32a32b35/15c7_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Trans TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/562d2bb9/2856_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TransTV/sa_dash_vmx/TransTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "SCTV",
+        "logo_uri": "https://static.mncnow.id/images/channel/3ce31c86/081e_r32.jpeg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SCTV/sa_dash_vmx/SCTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Life Style",
+        "logo_uri": "https://static.mncnow.id/images/channel/b55085fd/1291_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MNC Muslim",
+        "logo_uri": "https://static.mncnow.id/images/channel/fed357e9/38dc_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Al-Quran",
+        "logo_uri": "https://static.mncnow.id/images/channel/f4cd0850/09a3_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "TAWAF TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/ae37c6fd/f9c3_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TV9",
+        "logo_uri": "https://static.mncnow.id/images/channel/bd008257/8156_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TVMU",
+        "logo_uri": "https://static.mncnow.id/images/channel/b8990cfe/3fd8_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Vision Prime",
+        "logo_uri": "https://static.mncnow.id/images/channel/1888655f/a358_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "OK TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/e3c04ddf/04e7_r32.jpeg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_dash_vmx/MNCChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "MNC Sports",
+        "logo_uri": "https://static.mncnow.id/images/channel/84189654/9280_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MNCSports/sa_dash_vmx/MNCSports.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Soccer Channel",
+        "logo_uri": "https://static.mncnow.id/images/channel/9abc87ac/038d_r32.jpeg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_dash_vmx/SoccerChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Trans 7",
+        "logo_uri": "https://static.mncnow.id/images/channel/03d5baeb/a38a_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Trans7/sa_dash_vmx/Trans7.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Music Channel",
+        "logo_uri": "https://static.mncnow.id/images/channel/9022d60d/9a4c_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "RTV",
+        "logo_uri": "https://static.mncnow.id/images/channel/66d568b9/76cd_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ANTV",
+        "logo_uri": "https://static.mncnow.id/images/channel/3b46b39b/7020_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "KOMPAS TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/e71dc3ed/0d3a_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "JAK TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/3a4e8c24/d343_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "METRO TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/901727d0/976b_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/MetroTV/sa_dash_vmx/MetroTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "JTV",
+        "logo_uri": "https://static.mncnow.id/images/channel/a3f7fa85/7a56_r32.jpg",
+        "uri": "https://stream-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Net TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/65d104a5/6132_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NetTV/sa_dash_vmx/NetTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "TV ONE",
+        "logo_uri": "https://static.mncnow.id/images/channel/2c987c0a/5a8a_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "BALI TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/50501ffe/93b5_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TVRI",
+        "logo_uri": "https://static.mncnow.id/images/channel/ef77d6b0/ee80_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TVRI/sa_dash_vmx/TVRI.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]  
+  },
+  {
+    "name": "INDONESIA ENTERTAINMENT",
+    "samples": [
+      {
+        "name": "FMN",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fox Crime",
+        "logo_uri": "https://www.transvision.co.id/img/channel/fox_crime.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_dash_vmx/FoxCrime.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fox Channel",
+        "logo_uri": "https://www.transvision.co.id/img/channel/fox.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxChannel/sa_dash_vmx/FoxChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },      
+      {
+        "name": "AXN",
+        "logo_uri": "https://www.transvision.co.id/img/channel/axn_black.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "FOX LIFE",
+        "logo_uri": "https://www.transvision.co.id/img/channel/fox_life.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/STARWorld/sa_dash_vmx/STARWorld.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },      
+      {
+        "name": "Animax",
+        "logo_uri": "https://www.transvision.co.id/img/channel/animax.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+       "name": "tvN",
+        "logo_uri": "https://www.transvision.co.id/img/channel/n.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "FX",
+        "logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/713_100.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FX/sa_dash_vmx/FX.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "HITS",
+        "logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/706_100.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },      
+      {
+       "name": "KIX",
+        "logo_uri": "https://www.transvision.co.id/img/channel/kix.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Warner TV",
+        "logo_uri": "https://www.transvision.co.id/img/channel/warner.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Sony One",
+        "logo_uri": "https://www.transvision.co.id/img/channel/one.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Lifetime",
+        "logo_uri": "https://www.transvision.co.id/img/channel/lifetime.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },      
+      {
+        "name": "WakuWaku Japan",
+        "logo_uri": "https://www.transvision.co.id/img/channel/waku_waku.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_dash_vmx/WakuWakuJapan.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]  
+  },
+  {
+    "name": "INDONESIA KNOWLEDGE",
+    "samples": [
+      {
+        "name": "BBC Earth",
+        "logo_uri": "https://static.mncnow.id/images/channel/aff30af5/2654_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_dash_vmx/BBCEarth.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Discovery",
+        "logo_uri": "https://static.mncnow.id/images/channel/af64e4f1/7113_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Discovery/sa_dash_vmx/Discovery.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+       "name": "NatGeo Channel",
+        "logo_uri": "https://static.mncnow.id/images/channel/c41b5e54/ba16_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },      
+      {
+        "name": "Animal Planet",
+        "logo_uri": "https://static.mncnow.id/images/channel/4f22e986/b578_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_dash_vmx/AnimalPlanet.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "NatGeo Wild",
+        "logo_uri": "https://static.mncnow.id/images/channel/df0a34c4/f063_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "History",
+        "logo_uri": "https://static.mncnow.id/images/channel/8a59b0c4/1800_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Crime Investigation",
+        "logo_uri": "https://static.mncnow.id/images/channel/34922872/3470_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },      
+      {
+        "name": "AFN",
+        "logo_uri": "https://static.mncnow.id/images/channel/5620c27b/9bec_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AFC/sa_dash_vmx/AFC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "HGTV",
+        "logo_uri": "https://static.mncnow.id/images/channel/7a19b3d5/55d5_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HGTV/sa_dash_vmx/HGTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "NatGeo People",
+        "logo_uri": "https://static.mncnow.id/images/channel/45ca14a3/dd4f_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_dash_vmx/NatGeoPeople.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "TLC",
+        "logo_uri": "https://static.mncnow.id/images/channel/5ce26cd9/ab8c_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TLC/sa_dash_vmx/TLC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "BE SMART",
+        "logo_uri": "https://static.mncnow.id/images/channel/022615ec/623b_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/BeSmart/sa_dash_vmx/BeSmart.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "M SHOP",
+        "logo_uri": "https://static.mncnow.id/images/channel/b8906da8/8be4_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/MNCShop/sa_dash_vmx/MNCShop.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "M SHOP SMART",
+        "logo_uri": "https://static.mncnow.id/images/channel/a67562d5/4ac2_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/MNCShopSmart/sa_dash_vmx/MNCShopSmart.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "ChannelV",
+        "logo_uri": "https://static.mncnow.id/images/channel/2b0cea4b/976a_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ChannelV/sa_dash_vmx/ChannelV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]  
+  },
+  {
+    "name": "INDONESIA SPORTS",
+    "samples": [      
+        {
+        "name": "FOX Sports",
+        "logo_uri": "https://static.mncnow.id/images/channel/782cbbe4/5a3d_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FOXSports/sa_dash_vmx/FOXSports.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fox Sports 2",
+        "logo_uri": "https://static.mncnow.id/images/channel/46fcd920/721f_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_dash_vmx/FoxSports2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fox Sports 3",
+        "logo_uri": "https://static.mncnow.id/images/channel/7d978fdd/93da_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_dash_vmx/FoxSports3.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Fight Sports",
+        "logo_uri": "https://static.mncnow.id/images/channel/8d0892a0/6504_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "BeIN 1",
+        "logo_uri": "https://static.mncnow.id/images/channel/9014a7a3/13e2_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN1/sa_dash_vmx/BeIN1.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+       "name": "BeIN 2",
+        "logo_uri": "https://static.mncnow.id/images/channel/148b1e40/11e5_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BeIN2/sa_dash_vmx/BeIN2.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]  
+  },
+  {
+    "name": "INDONESIA NEWS",
+    "samples": [      
+      {
+        "name": "Channel News Asia",
+        "logo_uri": "https://static.mncnow.id/images/channel/336f766d/14b6_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "AlJazeera International",
+        "logo_uri": "https://static.mncnow.id/images/channel/6fcd7f33/e917_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "BBCWorld News",
+        "logo_uri": "https://static.mncnow.id/images/channel/ab0e4ef3/1473_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "CNN International",
+        "logo_uri": "https://static.mncnow.id/images/channel/74fcf81e/df5c_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CNNInternational/sa_dash_vmx/CNNInternational.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Fox News",
+        "logo_uri": "https://static.mncnow.id/images/channel/7bbcf7b9/c16a_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "CNBC",
+        "logo_uri": "https://static.mncnow.id/images/channel/1ea9b871/774b_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CNBC/sa_dash_vmx/CNBC.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Bloomberg",
+        "logo_uri": "https://static.mncnow.id/images/channel/a7fd905a/8c3e_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Australia Plus",
+        "logo_uri": "https://static.mncnow.id/images/channel/1d72e93a/5829_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "NHKWorld Premium",
+        "logo_uri": "https://static.mncnow.id/images/channel/92df786a/0c01_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "NHKWorld TV",
+        "logo_uri": "https://static.mncnow.id/images/channel/1b8f13ad/2d23_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "DW",
+        "logo_uri": "https://static.mncnow.id/images/channel/b2360466/e550_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/DW/sa_dash_vmx/DW.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "RT English",
+        "logo_uri": "https://static.mncnow.id/images/channel/abf4c6ae/778b_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Euro News",
+        "logo_uri": "https://static.mncnow.id/images/channel/273ebc16/f973_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "FRANCE 24",
+        "logo_uri": "https://static.mncnow.id/images/channel/6c643499/398f_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/France24/sa_dash_vmx/France24.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "Zee News",
+        "logo_uri": "https://static.mncnow.id/images/channel/4c336517/a1a8_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeNews/sa_dash_vmx/ZeeNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "IDX",
+        "logo_uri": "https://static.mncnow.id/images/channel/524d9e29/542c_r32.jpg",
+        "uri": "https://stream-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "i-NEWS",
+        "logo_uri": "https://static.mncnow.id/images/channel/bdca521e/ae34_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/iNewsTV/sa_dash_vmx/iNewsTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "MNC NEWS",
+        "logo_uri": "https://static.mncnow.id/images/channel/5f9eda28/5928_r32.jpg",
+        "uri": "https://anevia114.mncnow.id/live/eds/MNCNews/sa_dash_vmx/MNCNews.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "BERITA SATU",
+        "logo_uri": "https://static.mncnow.id/images/channel/326f22ff/88fd_r32.jpg",
+        "uri": "https://stream-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "TRT World",
+        "logo_uri": "https://static.mncnow.id/images/channel/2ffcaa77/166c_r32.jpg",
+        "uri": "https://liveanevia.mncnow.id/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      }
+    ]  
+  },
+  {
+    "name": "INDONESIA ADD-ON",
+    "samples": [  
+      {
+        "name": "& TV",
+        "logo_uri": "https://akashdth.com/assets/uploads/channels_images/1582798479-84334691.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AndTV/sa_dash_vmx/AndTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Zee Cinema",
+        "logo_uri": "https://www.rdcablenet.com/wp-content/uploads/2019/01/ZEE-CINEMA-HD.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeCinema/sa_dash_vmx/ZeeCinema.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Zee TV",
+        "logo_uri": "https://i.pinimg.com/originals/c6/88/f6/c688f65cd773c4914597716082d60c61.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ZeeTV/sa_dash_vmx/ZeeTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Zing",
+        "logo_uri": "https://i0.wp.com/nguyenngoclong.com/blog/wp-content/uploads/2019/04/zing-logo.png?fit=600%2C371&ssl=1",
+        "uri": "https://liveanevia.mncnow.id/live/eds/Zing/sa_dash_vmx/Zing.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "DAAITV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/id/e/e3/DAAI_TV_Jakarta.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "ETWN",
+        "logo_uri": "https://logodix.com/logo/2139475.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/EWTN/sa_dash_vmx/ETWN.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "REFORMED 21",
+        "logo_uri": "https://static.mncnow.id/images/channel/2b3bc0b8/f09b_r32.jpeg",
+        "uri": "https://anevia115.mncnow.id/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+
+        "name": "LIFE",
+        "logo_uri": "https://static.mncnow.id/images/channel/b4078005/ecab_r32.jpg",
+        "uri": "https://anevia115.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1"
+      },
+      {
+        "name": "AnhuiTV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/3/39/Anhui_Television.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/AnhuiTV/sa_dash_vmx/AnhuiTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Hunan TV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/en/6/68/HunanTV_logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/HunanTV/sa_dash_vmx/HunanTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "JiangsuTV",
+        "logo_uri": "https://list.wiki/images/2/2d/Jiangsu_TV_Station_logo.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/JiangsuTV/sa_dash_vmx/JiangsuTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Shanghai DragonTV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/604px-Dragon_Television_%28China%29_logo.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ShanghaiDragonTV/sa_dash_vmx/ShanghaiDragonTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Xing KongTV",
+        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/200px-XingXong.svg.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "Clubbing TV",
+        "logo_uri": "https://www.clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircle_50pc_Black220.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/ClubbingTV/sa_dash_vmx/ClubbingTV.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      },
+      {
+        "name": "CinemaWorld",
+        "logo_uri": "https://d3cl79h6n1fe0x.cloudfront.net/wp-content/uploads/2016/10/28150842/1-cw.png",
+        "uri": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+      }
+    ]
+  },
+  {
+           "name": "MOVIES",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023943X0-landscape.jpg",
+	"name": "DOLITTLE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feefbc06d048943f76f5f3a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903176612870712281",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023943X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1504a65447d8a5d380be690f313f1b1483df96f6864c88ec2d5ca0beb1297b3d2a310022b3fe571054324903c9224df6c7bafb0e0071a943d017750215ea1664&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/026829X0-landscape.jpg",
+	"name": "BIRDS OF PREY AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916968878962135765",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=026829X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=934689a40389b5b4aadc9d0440afca39f00ccf9a0df38082f218654d7251c3d1a5388042f5661c64f372376761a0430c64739a0ddffef488e9e92c37e51c65c3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023714X0-landscape.jpg",
+	"name": "IT CHAPTER 2",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5fd6c6d048943f7583351_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023714X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=48362fe68742e4c2914f3c8ef62e4f2841d215973fb5ac4c17d54b32bce870288a8134c582a1c330fe16aff492641267a76bb462454e54c34b4b7e4abdc12302&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029212X0-landscape.jpg",
+	"name": "ROALD DAHL'S THE WITCHES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ff5c9126d048943f76ffec5_hbovodhd/dash0/MYS_index.mpd?c3.ri=6893886491449378199",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029212X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=153451c98adde24c62d9eb614db7b729b88e5e50296b72887fac0155c2baef598937c7883620386effa2e186ae200923109bf7aa0af941440e75f38379035a64&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029380X0-landscape.jpg",
+	"name": "LOCK DOWN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ffc0b976d048943f7709212_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199116469",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029380X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bea6776c18d8eee096d97fd14aa9e6ec49a5d5f29f9a6d08c9f8eb0f64658c481adfdff90e9014c3a9ebe6bf1e99f31e3637d70038d267b77be78f767126ca71&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023892X0-landscape.jpg",
+	"name": "SONIC THE HEDGEHOG",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f9ba5f86d048943f767b233_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567254971362107",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023892X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=25cd626fe00a666e7a4a8855af24a4a45b958dd0299df05e93d51d302c79870e7ca9b1ef43dbcf5344b93548f939115db9b0a10eac120ad801d741cc54dc8f28&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/017066X0-landscape.jpg",
+	"name": "DESPICABLE ME 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb745d46d048943f76a41a3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895012384182463277",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=017066X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=afca821676e69647aeeee620f755ac7d0f749b26edc9cc26debc1334d20d270da53c0b5826cc4a3d7e4fce669b3ffdeac4a8a39b49df55e224f907cd2e125db0&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027310X1-landscape.jpg",
+	"name": "SISTERS IN ARMS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fdc2d386d048943f76da636_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199034249",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027310X1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ad4d1a2c7755e7096f645a9340b552f93127e31f8152b1e657724a42a4d7fee8ca8ca2eb7da4585b5f597a10eda3f6b76da986233b4d5afe35b2f2c98130bac5&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/015176X0-landscape.jpg",
+	"name": "THE DARK KNIGHT RISES",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9ac2526d048943f7679d56_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787941789274",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=015176X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e703cf4410ba8a80b508d1a315cbd67ce5b00f27abfd5935eed77226da1b38cc6c80395a73c926e82b34fcbb8ebc49fb8e475a094346f5ddc6031dad8d1aed9b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016865X0-landscape.jpg",
+	"name": "PACIFIC RIM",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f96bd276d048943f7673ef8_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567254971436217",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016865X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e1b11d246a9b73f7b07666b9e71ce9e3f95c9af41004ac0d84a238c7a6e0469dfce7f136f36e7b96329cca82d69debf579a853c17ea3117e85172660e3250ef4&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023365X0-landscape.jpg",
+	"name": "GRETA",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e58f7223a736626cec8fbab_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023365X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5fb57114aae79a7f3df6a90fcee165cae41da4320f8d66cf67613629e14662c18a06e868696f6ad373d77c0a4caab3dab9342aeacd88e136e7a770796e1d94d6&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/013687X0-landscape.jpg",
+	"name": "CAPTAIN AMERICA: THE FIRST AVENGER",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5e3f4106cbea8a6a4e003b44_hbovodhd/dash0/MYS_index.mpd?c3.ri=6910212039199352650",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=013687X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1ce6c5738673f660e0ec7c3f4b5fbc4d0e3ca39afe1a3449183f767b50a9f3d8ca46bf87b1d95269cbb87c8c8bd9b21905836c5f4f9a2adaead7546a3c28d1b7&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/017150X0-landscape.jpg",
+	"name": "PAIN & GAIN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ec394e76d048943f7536869_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787942123046",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=017150X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=60944af235a8853d5b9d0231439eded1f4edf8ed70a09d9bb71848922261c7a1c1c5167bd6925f936789292b3fcfb70764e077f3ecb17b5b233c46b3cb23d0a3&drmId=prod"
+     },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016705X0-landscape.jpg",
+	"name": "G.I. JOE: RETALIATION",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1006596d048943f75aac53_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787942150265",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016705X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=dd3ca0b944f98fd5aa8645c7e0a31391af65767158de2cf1bf917ac99c7bf4f8e47fb2426199a07687d1c8f3e4e66e10e4da1ead3e921af64852fa4ba0a7199d&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023472X0-landscape.jpg",
+	"name": "THE DARE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e5cbc343a736626cec95714_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023472X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3be4bcdd0e8b355bf3fc53944e8ecccc0013049f2c25b566a2a47680015ff2975dc6d49f21c467d6eb632838faa642df3a4209b4a46744436bd0b465aa6b9763&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023234X0-landscape.jpg",
+	"name": "HAPPY DEATH DAY 2U",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5da00b89cbea8a6a4ef1179d_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023234X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6ef78dfedbbad1762efee04cc16896ba52bc44a7c1989e1ad5e11830c54a19f834fd23e5eb96366fd68a5405541032cd63b170da519cfb13612b631ff57f96d0&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
+	"name": "GEMINI MAN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb128ef6d048943f751a681_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023544X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=046ccdfe80411bf0ba2364e98c830b5ec877ef95cbe0f108fbc90b6409c91865662551754a359dfb480b3d330e9a78160ab2242fb430e1ce610370f041478b36&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023711X0-landscape.jpg",
+	"name": "JOKER",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1e65956d048943f75c09e2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023711X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=df2cd4d72534aa363e68d5aa3a8411dd71097be6fefaab380d452f6981e1022def85868fdc775667203861990d2c5e048e783b5e72176abc703101a714bb643c&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023543X0-landscape.jpg",
+	"name": "DORA AND THE LOST CITY GOLD",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e877bbd3a736626cecda148_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023543X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=de4a5496897bedcdabf8941dc8ecd1771cbf9ed5f8cb9534b90619fe3f0d6a6d5acdcff2453a7529f82444c22972cb7c7a46ac0c9cc06e7cf14c530052acd3c3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023510X0-landscape.jpg",
+	"name": "THE ART OF SELF",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecf78ec6d048943f75489a0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023510X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=decb1234099c52c258cb851392bb7c3e4e889255d77e45e3d5d62beae3cb5ef3b743a937c8df63714c204ccc77d3b03b852880dea8ee0bb5018f24e70b7560d2&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023508X0-landscape.jpg",
+	"name": "FAST FURIOUS HOBBS & SHAW",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7864b63a736626cecbf699_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023508X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=4809ce64186359d8131438a1edcdb6a924242aa2cf2473d737f0427d5ce603cbed372d9a8d645e1e9e9c67fc12d43422127c7f8f6e6e3ef603b4eeec4f7e252d&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023670H1-landscape.jpg",
+	"name": "ABOMINABLE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1e811e6d048943f75c0c80_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023670H1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d3db7a20c748db556c821abd62df1ccec0fda63cf3d3299f3ac2d980ec15e364de25b44279132bb127c23bee2ff6e5b5d0698fd6ed6605939dbc4f8c31a22ef8&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023420X0-landscape.jpg",
+	"name": "CRAWL",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8aafe33a736626cecdef24_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023420X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b14563ee96f0813cb5663d3b7116991b9dae8c3f193281ddb70ead847d5e5123e29d02dedd6d45e60e55e597540a55e928757193339c57cc7c192afedd815d04&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023796X0-landscape.jpg",
+	"name": "HUSTLERS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1fa9636d048943f75c28a2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023796X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8299aa141147f48ba2841fa7d8b81c72b468f93bcce63cc9225801025347882d9cbed5f06923c8a9c86fb47ffbef52a8770118add2ef5e94c74549da8651d5c8&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023471X0-landscape.jpg",
+	"name": "ANNABELLE COMES HOME",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ea3b3776d048943f7505cb4_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023471X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=40a1778f427b427fbc7027ca6cae11031502287a4aeadab1494c3a32631115cb14a6db610d3cb62f7418815b24005e03dc7320d8d2d594d1194c7db8ed89c8cc&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023507X0-landscape.jpg",
+	"name": "DHOOM ANNIHILATION", 
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8629f03a736626cecd8128_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023507X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=c0353cb08e22355be59a211ca83667b0f49a037fb1b25abed849098bfb68d8de61890f19ec153d88e9b423a678ae916e03601efe4637a46f1ba276f283ddc092&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023667X0-landscape.jpg",
+	"name": "JARHEAD LAW OF RETURN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda38526d048943f7558f43_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023667X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b01c780cd8cf146f4e30b1e6bf6d049277010405657d64fc4a5ef772e4d4dbfc0e31efc67a6430cc1d0b38e0fa62e36b75bc22ca36b57475161624365a8f7c2a&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023512X0-landscape.jpg",
+	"name": "INSIDEMAN MOST WANTED",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb8028f6d048943f7524e46_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023512X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7ac0bc7ea1d54c27ae2e62825203a0cc8a5eedb2117eb8fe3802c97538755bdb099b14902fec9305b38dcb4c2ad8f238e88512187e04ac010f8b46d7111774fa&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023417X0-landscape.jpg",
+	"name": "THE SECRET LIFE OF PETS 2",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e7d625d3a736626cecc6fd2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023417X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=b23712818828375e0835e18599effa47a8391b3d9918a3762582298bb6b8aace291815eb46021f818fa4263e4e1430dbd0481783e7de5961932ad964e911d371&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX001572-landscape.jpg",
+	"name": "FIST OF FURY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd2763ecbea8a6a4ef5e66a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX001572&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=769bdee593db4ad6d4fe26e07c1caf714a929b44f1795a2b562195a9e1c3d13dd62a317a43ef05c0b78b767f299a3ee6b522f69f9f281e43e73a83218dcb584c&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023425X0-landscape.jpg",
+	"name": "RAMBO LAST BLOOD",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb7f8196d048943f7524d45_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023425X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=85f16c5f7a4daed5c07e97a4807f267f2ee8d91a577526dca8249baee14b426df3dfe340061c83a4d079b517d2efb993a6bf5042e6498468d1f4a2938358aeb1&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023710X0-landscape.jpg",
+	"name": "TEEN TITAN GO VS TEEN TITAN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecfaf426d048943f7548ed7_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023710X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=8afbea1c8ebc5540be3fbcba1f3dbd977d02523058e4099a3f53da48e3ed33bd28d0f9e1d29c032a4079c20b6be972b72abf487586dca8516e120283395f802c&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023623X0-landscape.jpg",
+	"name": "ANNA",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eec91536d048943f7574e2d_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023623X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=3fb038678e546fda3f8e5fdc847fe5c0c1748cedc22d47599060b17a2510ec7af4c4432fc8bc0837875dd409d770d26a850351e5ef426dbd3493174ca374cc71&drmId=prod"
+      }
+    ]
+  },
+  {
+    "name": "MOVIES 2",
+    "samples": [
+     {
+        "name": "GOOD BOYS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023513X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ef5d6896d048943f7582fa1_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023513X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7a17ef814ad670939d665e6a1631b3a0d180e8140c30c889d2f17bce2619d3bbf4554098b6d24b950b1393589482fde12595ca121613011a93682878069fccf0&drmId=prod"
+     },
+     {
+        "name": "OFFICIAL SECRET",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023689X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed0ff886d048943f754aef0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023689X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=f7c59b78dd253dbf09bf6db2e1727a4ee12f59812b16efc70f34ed215dfc221ed32452be6ebf02c88b790a6d2852281b580438a16b0e3acb39955667faefe069&drmId=prod"
+      },
+      {
+        "name": "TRIAL BY FIRE",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023669X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eda43ff6d048943f7559065_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023669X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=475de1f0df76b4e7e1e4b17dd5ec18c739bea12633a11fbe85a665e6ab056f877d1d76212e1f0a4b7f09d0742b0ddb6d80c1f48ff43340bf31a921372f9b5d8c&drmId=prod"
+      },
+      {
+        "name": "ANGEL HAS FALLEN",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023468X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed105e96d048943f754af8e_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023468X0&territory=MYS&operatorId=SIN&userId=daa2f3bf-aab5-d9ac-e5a9-4fe7f5496c07&tkn=7afc8202a4559141cbf0ba21e599f9cd7ba50818bedb0eead873186c03c06c2b68bcbd37842516c2d742c8d40fc7aa365e3d7171a25c273b57e767a097007cb6&drmId=prod"
+      },
+      {
+        "name": "TAKEN 2",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/022798X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dea4839cbea8a6a4ef829dc_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=022798X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=de8eb48a6e3bc194a5a05692f4f3233e9bc2ae7a85036d7fe78b6ccfc510cc70b92fa799e13feeb910b3391025c7164bf1808853ba293d3df4405ef0ccc71301&drmId=prod"
+      },
+      {
+        "name": "WANTED",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/originald/009351X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd514eccbea8a6a4ef62646_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009351X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f6aad42127da5f58050def4211afb7f4f1ff98e239ef77f85264e7e7ffb62a78c02da2d198c77d3421e50380e0cdcf086fdc2861b973888d6881b1022e74f905&drmId=prod"
+      },
+      {
+        "name": "GUILT BY DESIGN",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002699-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e877bf13a736626cecda14f_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002699&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=2b662241e04a311262a2fd3597d75956037fea5da7fee24f4358e59ff588bd5a754becf4620dba5ba96fbf3ac6c4613102ea7cb54b03b2d4980ba2439161682e&drmId=prod"
+     },
+     {
+        "name": "VORTEX",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002729-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eab193c6d048943f751130b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002729&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b3d047ef5d66a2adccd391e2409d9ebe26da60167b767d68b96dbf4e54b3ee6e7556056e746cb53dbfbe4f8b1a010a5fb03f8924f0a1d6f45da488fd2e76b11c&drmId=prod"
+      },
+      {
+        "name": "BUMBLEBEE",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/022847X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7e50503ae366782ad98498_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=022847X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=db71f533ff4ba4eac9f8fff02e7193ed921689a1619f6efc1756324659fa91d9ebeae16d17168fcb410c1ad7f2a182645f58ed92c8de1d24add47eba8f3e9bb1&drmId=prod"
+      },
+      {
+        "name": "A SCORE TO SETTLE",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023466X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecfae046d048943f7548eb5_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023466X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=4edaafa63322ed91e5d6103b49b7336fdde4cc237bd9ca08c69465176cb4fbae1571dce1778997736f8aecf47969aeac67ed6aa00bb3531be8188e1924910889&drmId=prod"
+      },
+      {
+        "name": "BATMAN: HUSH",	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023768X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f03c8896d048943f75982b0_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023768X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3cebf0660195fbd33377517ddd4515c3077adce2a9c3ad0bb8512ef0031916df38bc5702f328db1836796f7d551e58a919b5bb229b368bb3b50499a037ead708&drmId=prod"
+      },
+      {
+        "name": "COLD BLOOD LEGACY",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023364X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e3c2944cbea8a6a4effefc4_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023364X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=742cb20602596c7c3d36ef0e5d456f0a2d07767a9909dc73123e625eb30537f96f458c4305fd7e9ef45ea56ee1e461c8b53d0de6c0c9160ae2e624cb07bf36bc&drmId=prod"
+      },
+      {
+        "name": "ESCAPE PLAN: THE EXTRACTORS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023462X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e58fcc73a736626cec8fc3b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023462X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e6f96b415a041be471d1ed37253a8f6cad53486ea33f0801e9f1a3e49b1bdcdf34cd2d112751ea6bfbba9f0cfdf484d5a2622e4d1cbffbe8250d327ba3d59ee1&drmId=prod"
+      },
+      {
+        "name": "GODZILLA: KING OF THE MONSTERS",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023470X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e8ccaaa3a736626cece2246_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023470X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b2ba137db35f6a67b2f549d06891176e5ce3e1475fea4ce03402c6296eec8911dff6ae4a3cd06b3ed29bcb6dd94e95a2b67797032e7b78384a52b4c86e6a07d0&drmId=prod"
+      },
+      {
+        "name": "JOHN WICK CHAPTER 3: PARABELLUM",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023555X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5eb159966d048943f751ab30_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023555X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5ec995e5dab56e4b2ae8b11234bddd91ecc8f133ba98e3a37f4d34cad4abb1d6fdbc618cdd5a04a2d474bb3ecf00003be089efe33c7799e2706a0fe9fc024d29&drmId=prod"
+      },
+      {
+        "name": "BATMAN VS TEENAGE MUTAN NINJA TURTLES",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023620X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e862a683a736626cecd8137_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023620X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3c0036c74e2ebd5dd063f63dbf56cbe2f3114315a439c15b30cd48f363ca6c04d3c442372bae3ae52051a1e19fea69dad57bc20f13b413d5f5882e1f5e91ac89&drmId=prod"
+      },
+      {
+        "name": "POKEMON DETECTIVE PIKACHU",   "logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023469X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e4f57dd3a736626cec811eb_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023469X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=03d6b69300d9e45b2e9c1b02beea012a4a081dbb53c891fc4f4313762bf27539a78052e772e551da01a54e70ee0821c48d94d72653fc7e558bad190253b50ceb&drmId=prod"
+      },
+      {
+        "name": "GIRL COPS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002593-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e55c6ca3a736626cec8ae0c_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002593&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ab15dec74edcf5ebc3b1b44d5650cf3d4c76fab000fbe5501aab67e27a457c8de7b94d6ef38d8dab684d0f983f35b95259b97d19806bf334f4074bec8730d601&drmId=prod"
+      },
+      {
+        "name": "VALENTINE : THE DARK AVENGER",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002723-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e79a31c3a736626cecc14ca_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002723&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0a0320ccbe952a814d1c65570fb56350aac1bae99d856a357b7c50ced97b37db35e626b4a48e714f3f13291635cf0f912af253238b377636ec82415d7c53d4aa&drmId=prod"
+      },
+      {
+        "name": "HELLBOY (2019)",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023324X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5e3c28c3cbea8a6a4effefb3_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023324X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=47b6ae27f9d43b7a7b1493493cbd411d7340f92d10905ffa2dda64f49229789de8e2864edff6bbd91dc1c81d3fe80b005a4a31c0a14ca6135b4455eb1de13aa4&drmId=prod"
+      },
+      {
+        "name": "REMEMBER ME",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023775X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f2275e06d048943f75c6cf9_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023775X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=828e9eb7c662d49e6382c95e8fd8a38faa214d13b0fade0aa70df69c0ce5bca548a1a942223d3bb671c74d3be83ad8c0073e540322d31e431477620b549a6e88&drmId=prod"
+      },
+      {
+        "name": "CRITTERS ATTACK",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/720p/023709X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5efec20f6d048943f759083b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023709X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3673bb4e9ec1fb31b355b7879d03dd7985ad510637344783fcc4c3f544dadb8047ad90684794fbd78eccccb09f69ead3316fa3f24c20ce1865b89b714b8e24b1&drmId=prod"
+      },
+      {
+        "name": "SHAZAM",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023363X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dd3adaecbea8a6a4ef6040e_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023363X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=34a1609d6474442f478065e367730a777a9a562d577e20662e448cc7dcab953abb889c4acb3b9356604cb7a3b1b72e9dedfa6f0528de819f475b551a18c4a78e&drmId=prod"
+       }
+    ]
+  },
+  {
+           "name": "SPIDER-MAN",
+            "samples": [
+       {
+        "name": "SPIDER-MAN",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012336X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ed07eec6d048943f754a2a1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6923717214497018616",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012336X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d49cb83977e1c4509205d5edc2a43441aadff3558ac6cfddf8c5654f8e58ebd394d148f9c91f250a2f44f90b5aab9e0ea4f49aac4e18ac6dd1c33c581ccb7468&drmId=prod"
+      },
+      {
+        "name": "SPIDER-MAN 2",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016270X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eaa58c56d048943f751009c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6921746889857167402",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016270X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f1244e88a9af70fc7dc6b3f9b9d91cc224cdb9dbbf8b12a0ec6cbe715d1a625960938b36e7ce5f783e87df838b4005581e75b885f36ce492ecb1c7e9d66ff636&drmId=prod"
+      },
+      {
+        "name": "SPIDER-MAN 3",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/019036X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ecf442f6d048943f7548498_hbovodhd/dash0/MYS_index.mpd?c3.ri=6905702814559499388",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=019036X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=09508b303f1e083a29ceed2d29ec2954154595de7bef3f55eff699f70580fe7b00f3f0e5481aa6be1b02cbb4f642e61bdfd653055c0eee2b03b09df20c174459&drmId=prod"
+       },
+      {
+        "name": "SPIDER-MAN FAR FROM HOME",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027852X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fbf52ab6d048943f76afebe_hbovodhd/dash0/MYS_index.mpd?c3.ri=6908802865658101089",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027852X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b13e23a0db4f93833c50c9bb860314a0354b182541cb1f57dca2ed9a8351037389ca650827e66b70ac688c593a1429e89450a0066274984a1e03991ae6cebb22&drmId=prod"
+      },
+      {
+        "name": "SPIDER-MAN: INTO THE SPIDER-VERSE",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023602X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb155176d048943f751aac1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6893599390636437050",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023602X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ea72a882a99796dbb70e7af592e098106aab4bfe465706f77ae3ad6fd374648fe20fbffae810dccc0576ab8266cddfe9a28955d20d4a7af114c6832524e66077&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "RUSH HOUR",
+            "samples": [
+       {
+        "name": "RUSH HOUR 2",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009216X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f5644516d048943f7614e30_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787942016832",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009216X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8ff5bef54607fa78430987ebcfd45876cc4a1dd21674ec0b7e9fbbf0ec8e62c85b9dd65410aa8b5d72468552b63600f555b4a01d372312f54c1b161e83b78747&drmId=prod"
+      },
+      {
+        "name": "RUSH HOUR 3",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009395X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f91507e6d048943f766bf28_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895012400197601031",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009395X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c283dcc05c2c51f545046863b866f6b6a71acbd58cba9dfc602d8f4f23aba3d83b31c5f27c57161dd47b254bc15d0c2923b3b452a83643f054bc28840c16e78&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "HARRY PORRTER",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/011051X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE SORCERER'S STONE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9062e2cbea8a6a4eef9ae8_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418527301",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=011051X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a8651af3099b5cb603ab9e3cd01c8dccc26986a90dfa90bf3f6f777964712152ae496c458b790275f8d5b1381570067fdac513b55abfce4c71699d2bf4013819&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/010798X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE CHAMBER OF SECRETS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9059a6cbea8a6a4eef9a03_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418534639",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=010798X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7144172448fd836fd50835df58010c70071b9983dfb5f946901eb1f0ad8470778249b89ce24a1c8a0fc2365c79e4607794bc21ccf4e7cf9ae9e63b82f1af7039&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012210X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE PRISONER OF AZKABAN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5dc19061cbea8a6a4ef447c3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901199216748961269",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012210X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5d98ac7b7e1cf179211ef62861b70d0ab0980dcb905364b7679bd908c7df38b1d50bafe4bebd9f90985e96f76787c0d449876820c5e3a9e357783c82ba784537&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/016106X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE GOBLET OF FIRE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d904e95cbea8a6a4eef98eb_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901199216748966007",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=016106X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b561794d796b1239a33a97de5a7b945a250a0c325b0aed617458bd3342dd55ccbfd3b6c86d72f822d2c60dd9dbf73ef810386d429ef8e219694f081012d18efb&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020137X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE ORDER OF THE PHOENIX",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d905ff3cbea8a6a4eef9a9d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6905702814559301366",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=020137X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bf12c065852e4a6254f70355d3bea40f8409154e15b2daf6b9d185a14fbf7ce94e790753503f07d5ed0d1f29a6ad313eae9855d330a6cd7616e0df07963cbe93&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/010686X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE HALF-BLOOD PRINCE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9056b7cbea8a6a4eef99b8_hbovodhd/dash0/MYS_index.mpd?c3.ri=6923717214496836271",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=010686X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0c3b6bf25fd72bb10af00b2d1c1dd06cf8ef0bdb3e3b21278ef3026c977331141aaf42a83bbc08a1a3251c266cab981400e3c93a69e1bfb21c71fd2b0b90b5&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/012904X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE DEATHLY HALLOWS - PART 1",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d9046b4cbea8a6a4eef9826_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418565159",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=012904X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=91e8993f56918f022c00372aaed884a47eeb3aa597ffa7cd0a5c96363549d46de57d3eaf0dac584843f2589c7ae36126f103b5e8fe837ecf50a0383b06b66534&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/014122X0-landscape.jpg",
+	"name": "HARRY POTTER AND THE DEATHLY HALLOWS - PART 2",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d90582bcbea8a6a4eef99dc_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895569722418571128",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=014122X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ca2949d7b21a2ab7e065522a99b44b73bc53664103d5f5fb4a34c6f52e8b670b0eb18308919f7a208630b489547cde029005ea4a2216a30d5c40d28d45c76e9e&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "ALVIN AND THE CHIPMUNKS",
+            "samples": [
+       {
+        "name": "ALVIN AND THE CHIPMUNKS",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021249X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac474a6d048943f7693dc1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768350070",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021249X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a778869588cfb53da59d063943b5269860ca1a2c8e980986c4660cb53b4d9b0958b4632e9b6cd73d6cc8739924fb36f0e1817df74c6bfc69d36baa13e6eb7141&drmId=prod"
+      },
+      {
+        "name": "ALVIN AND THE CHIPMUNKS: THE SQUEAKQUEL",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021250X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac63596d048943f7694065_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895012384182616108",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021250X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bfb133208f3c99f1656f0df3635df57cc015de14b270f5dcf2b172b0cc7d85a7ecc64a70d2987eb82686e997441e0f7c3756cb5e162cba8a90e0c87e031a2b49&drmId=prod"
+      },
+      {
+        "name": "ALVIN AND THE CHIPMUNKS: CHIPWRECKED",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021252X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac51b46d048943f7693ebd_hbovodhd/dash0/MYS_index.mpd?c3.ri=6890508787941933572",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021252X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c03c2d041f87ced64adc11a1598f0dda7b3862268ffead24bc2cac20ef38542071238b1538cf9b61471c8a3fa6f7be6d32f456c7c5a89a8475d556a1ee6862fe&drmId=prod"
+      },
+      {
+        "name": "ALVIN AND THE CHIPMUNKS: THE ROAD CHIP",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021251X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac637c6d048943f769406a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924567270768340614",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021251X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cacf0803c55af475865783a502fc4c44452b59f38deccde0ebba252c5059611cb04002f28cc1507b52c5fca7881c28fcaeeddac106c3ef5a279afabd4f8cd3f5&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "ACTION & ADVENTURE",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028548X0-landscape.jpg",
+	"name": "JUSTICE LEAGUE DARK: APOKOLIPS WAR",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ff3dfd56d048943f76fd1e2_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916406354988741805",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028548X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3f7d984511633b7e89205fe65f5bf2f7674c193a12d32d51851d7df4d5b4ae7923351f12afb7f02b70ab0dfc6171757701e0f9a247e3b1d856b11d65208fa749&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028547X0-landscape.jpg",
+	"name": "MORTAL KOMBAT LEGENDS: SCORPION'S REVENGE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fc868a16d048943f76bd461_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916406354988747021",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028547X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8530d15464248e56bad2fa3e2b9c8be0fec096a06ed2d46a9c06ac8951e749d0d9e9346127a66332e76fe4577b61cf28906465d1fdfe5d9b8fb2deade873cac5&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023938X0-landscape.jpg",
+	"name": "SUPERMAN: RED SON",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f1fab296d048943f75c28d4_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916687818773209968",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023938X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fd21695b424a846c0dccf409e1cfb98396c60d7d97a7e023bd161571bc5dcc97f77b94ee54df5deac143d526e547a73247ced032b2c1b527127cbd67a873eb30&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023892X0-landscape.jpg",
+	"name": "SONIC THE HEDGEHOG",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f9ba5f86d048943f767b233_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916406354988761097",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023892X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e3d8c2ceaa22c0d74cfdf7dd079118202115b57511e9a89cd8688c10b8d8f7292f7bdcfbc3ef56629a57eaa7745bc3b23af0c07631c7ba32ca63897a51d5bb7d&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/026829X0-landscape.jpg",
+	"name": "BIRDS OF PREY AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916969325846857723",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=026829X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9c3eb6bb0c9608ee0b4d3b902ac50765a02a45b135bebd444e9318dc1d4740e1c5d8845a324d2a820be38621310bacdfa5966c958e9fc9d75e8551c7645acd7d&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023891X0-landscape.jpg",
+	"name": "THE RHYTHM SECTION",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f9abbad6d048943f7679cb5_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901488201948476894",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023891X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8ddbc5d51dc69c9b51bcb8869c1b325e4479347cdb07aec07ff055391ebd44f0e69ae2bcf211871e8e990f44ddf8b2f10bf1052873177b12f4ebcef70670a923&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023943X0-landscape.jpg",
+	"name": "DOLITTLE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feefbc06d048943f76f5f3a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916969325846865372",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023943X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=4b1ff9538ab7292e218cd6d396f3c9665c4984a1fb49faaca0829bd8e2e67f7ea284985d416cde86f3f256cae226e0d7ee0c70f479974d465179c39f2f77f6b3&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023944X0-landscape.jpg",
+	"name": "1917",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb751be6d048943f76a42bd_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379777089",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023944X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=07a007498d82dfb9c6aeebfbe8eeaaebb6f254f23985ad39707b81ac143b1215d253d2d0eb03526f49777250408fc680c0fc12ea1806c6c6621c92e0073f05f8&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023772X0-landscape.jpg",
+	"name": "BULLETPROOF 2",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f7572e76d048943f7642d80_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350963930",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023772X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0f8a4cf2dc0ed453d84ce511c3b037ae5251b06b62dc399cdc22677f66e7c1c02dc19fb857059f6c2c3ab071469144d03204a72070bbc52eaaeacea4abdafd87&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002746-landscape.jpg",
+	"name": "S.W.A.T.",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5feefd746d048943f76f5f64_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350966874",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002746&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e112d71ca955fefd5ef056e2f1c4a7a227742da4532bceb099e9ce39642d46b12d3bc501c46bf8a7d17b0180201a00714e3299aab9219f0ab5ed12a739a547c1&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027631X0-landscape.jpg",
+	"name": "THE COURIER",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f9bad2a6d048943f767b2df_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350972212",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027631X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8f9cd8f9a79f6ace987215e486093afa8e3914790758157a9daecdc9acefe5559cfa61b5a97b9c3be531a18e2d0f70941db4a320fc48a499460451c5b4bb89c2&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023716X0-landscape.jpg",
+	"name": "CREED II",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f22b0dc6d048943f75c7296_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920909975350980080",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023716X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c864454b4dfbb81c0fbb2dca4f7a4783457275ae3879a756743dc11f10351f4555dff14f862cdfa896475392f06c89b192038b69788e533b9d6b7de8ed70f9ce&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028259X0-landscape.jpg",
+	"name": "MIDWAY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5febdb286d048943f76f15dd_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379800294",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028259X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c20b0eb9f3ed142c54f19df3657deb0930e89abed9f61f1ae1e4823c841e35214d47774bf2157203c299d305874451866581e027df62f36c9c3ab7f44f46292&drmId=prod"
+     },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/AX002730-landscape.jpg",
+	"name": "THE DIVINE MOVE 2: THE WRATHFUL",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f1fcfc16d048943f75c2c53_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916969325846902730",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=AX002730&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=945f23e1c074f38cbddc0879d18a47134f1e5c1e075ce3e70b0fdea1e683a7c86a1f3f2d4ae516320024e39666f7fbd1aca679471f65f706a1e4953b3e43ba1d&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023544X0-landscape.jpg",
+	"name": "GEMINI MAN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5eb128ef6d048943f751a681_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379810325",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023544X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cfdfb79cc763616d615627df2830b73cf69c9dc11108c821ef3459e72e640ef3f3650f321c064203ca5967100a717cbe11a39f7695235d316150ceac531d97cb&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/027310X1-landscape.jpg",
+	"name": "SISTERS IN ARMS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fdc2d386d048943f76da636_hbovodhd/dash0/MYS_index.mpd?c3.ri=6898391977379816337",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=027310X1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b2503b6a88576d3df2d30a8ecf06b101c807ba6df658a695e906310f6f047815ba0f2f1d99be770cb774811d99fa80c51e561cd9e7d677ec92fcb5a9cbf73fe9&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023881X0-landscape.jpg",
+	"name": "WONDER WOMAN: BLOODLINES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5f2265eb6d048943f75c6b6a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901488201948535166",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023881X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=91c703e6e093a1a564a2b73bef8b912feb040f341467346e85cbe76fad270d3c9109d85695c310ba9f4ad7f82a39ef28ea7c4b157afd41ccd1539a60b4af5ea5&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "MADAGASCAR",
+            "samples": [
+       {
+        "name": "MADAGASCAR",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023333X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5dc58e31cbea8a6a4ef4acd7_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903458128637636560",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023333X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9a8b2b39b92fbb1fdf39d670f1ec3fd83d7f431c9dab7adce111ded87ffe18d83c96284003ebb4b8701dc2d7629d9ddbc737ad5e0382639c2da6e95c64bb085b&drmId=prod"
+      },
+      {
+        "name": "MADAGASCAR: ESCAPE 2 AFRICA",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/009619X0-landscape.jpg",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de9aba5cbea8a6a4ef81ade_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903458128637640934",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009619X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f144da38bfad811a6b8d0515e0cbaf55f7a4ba0df89b9b3e9f47056692ff54faa9e52214b1f3651384485437222508b197502f0646052d6c863fcf4b27d46f2a&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "ADVENTURE TIME SEASON 1",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021653X0-landscape.jpg",
+	"name": "A SLUMBER PARTY PANIC",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d92f20bcbea8a6a4eefd912_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021653X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d859d89342022a27312c16c4f9d912bd5587dc647c03007431657b3dbb9c429d29cd74f707a0251542265f72f767c12571e01afcde2618eb45ad56a790b8c911&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021655X0-landscape.jpg",
+	"name": "THE ENCHIRIDION",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79feb43ae366782ad91935_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021655X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fb626f96a42bc9d7f5ffd6cad9353e81b18bd77dd2803dbfc36e65ad86cb086aded983e95075eebb3b8684e822d689c3f84ca4bfda7d95e3c61f01be02286ddd&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021656X0-landscape.jpg",
+	"name": "THE JIGGLER",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79c05f3ae366782ad91257_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021656X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=562e2acfbe79c01680ce32701e2d942ef1a48f6ebce1cc1383822cceb6197bdba15f540379b78be708bb7e33a3e78227c4d77cbb2867291fb2dc4aba41ba2b55&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021657X0-landscape.jpg",
+	"name": "PRISONERS OF LOVE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d799c853ae366782ad90e92_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021657X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c5912a16e492f06c8ea485c88251246678083a5f80086dc278625a86ae50e623682856d5998ce31c283ff25498a1ba3f9ec18f9d3179f6fc86f2631ffde30e2&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021658X0-landscape.jpg",
+	"name": "TREE TRUNKS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a63453ae366782ad922fb_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021658X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=888b81897dc8641953d8da7dc7b7cb7e8efe9f24da1d755d38e8bb89b77195bd39fc99e7c8566fad49ddb0ff1f16c005e5c140ff017be412a073575d046cc473&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021659X0-landscape.jpg",
+	"name": "RICARDIO THE HEART GUY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a3ba63ae366782ad91f3a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021659X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0e2c2e9e44ff84ae483208814c8922618f42c0deb720e8643b4888038ab9002cd721687cc40f748f946ce74e181a91132dfcb7b8ff1d5e5b12e1f7a6e22216d8&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021660X0-landscape.jpg",
+	"name": "BUSINESS TIME",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d79e3933ae366782ad91653_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021660X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=669fd20c6fd5e652b6ba1280c18218bb1ef836ab2a211a2c1cbd1663a4c9bfb431670fd34a0d42b6a794c029d4b56b7a4f955c81397996a867fa4539cb2faccf&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021661X0-landscape.jpg",
+	"name": "MY TWO FAVORITE PEOPLE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a70a83ae366782ad92445_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021661X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e9025154a2ea0616da00333c4cbe2c3222c8b97e0449fda819cf91ab07ef2fa314833f96892c5bb43beea8ebf8726cf26c485384303a4f2e5ddc6c2d75faa481&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021662X0-landscape.jpg",
+	"name": "MEMORIES OF BOOM BOOM MOUNTAIN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a70d03ae366782ad9244b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021662X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b0dede205c08abf4f39a859294500e5d0f3da60b78f1ba846e744e3ef91e492a4b06e5d984070744a71b096c1b7491112c80f19b7391f8ebf34215931cc824f7&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021663X0-landscape.jpg",
+	"name": "WIZARD",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d41d73ae366782ad96aca_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021663X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=255548af58181e4666f5f30c00d1e02181aedfc755be3ba5d96c13a59767eb529242874e1002c3f152934ed55cb2953bf07d80fe721bc56aebddb4eac902caff&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021664X0-landscape.jpg",
+	"name": "EVICTED!",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cb08b3ae366782ad95ce2_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021664X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a1d79007435fea7dda1990cfe0c9bc1fb773ef8a51103f5ec83cebd69c1f488ae7ec77bf83288715ddc26e614dc62570b45ac4552ee86080633c0d36e734c852&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021665X0-landscape.jpg",
+	"name": "CITY OF THIEVES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cbe553ae366782ad95e34_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021665X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=acb9fc835ece4473f94e2c3d6d365e39fd2f4828da8da12587d583b9c3ac88345c7180d0c4572a3eeb9a7650e4915f29cda7e33896898b716cc091ffd8a97231&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021666X0-landscape.jpg",
+	"name": "THE WITCH'S GARDEN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ccd043ae366782ad95fa1_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021666X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=763bcb963f950e1ba4e2237c475b7f42f4f5e6ddd40a3b2dd03b4090b50bfbe832d327bb8811c5cd786a27426ca4882fbb8cd013186f61e274f1d52efbdf2ab6&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021667X0-landscape.jpg",
+	"name": "WHAT IS LIFE?", 
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ac4ff3ae366782ad92d3a_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021667X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7920fed935d378958853ce4854e884da7af9f58300c28af027e88cfa921d3584b5cf99cf8f7e5e35daf390fef06241ae0066df0318b273899b1437ddbdd48c4b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021668X0-landscape.jpg",
+	"name": "OCEAN OF FEAR",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ad3713ae366782ad92ecd_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021668X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=01d2f3b369f5b05fdfe141a1d6c67169b099a86799e545a9499cf9d66c6f75e94cca020c21bd3ece22dc13d4c07eb1f1c03705ffebb6ad70f31627f79b7684bc&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021669X0-landscape.jpg",
+	"name": "WHEN WEDDING BELLS THAW",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ab71c3ae366782ad92bba_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021669X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=45552cf5e157b1e5b6c808e353c9807f6e6cda9184e84f2f974af1057f284ae7fe019c4b94f0cc86d5e71a12e521f22647119d053b86ba4293c282a3f3c45f4e&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021670X0-landscape.jpg",
+	"name": "FREAK CITY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cda833ae366782ad960e8_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021670X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d6c1fbdcffb4f2491ad1ba1ac7b18359c50cb8aa057123248b767d01190190ac293dba477545d5144d8bb7bee5b3f0911ae595e701fe6f12ab0ca67a4e016ad0&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021671X0-landscape.jpg",
+	"name": "THE DUKE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ce9cc3ae366782ad96262_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021671X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=11127b11cc5d93a0aa47c0cf17b7bfada9f128b24d2f9f1852869af6b01cc3de732065cb8e870da3375da9cb1c2a27df2b08d7b2868650d5d1c26c22affa80b6&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021672X0-landscape.jpg",
+	"name": "DONNY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7ae12c3ae366782ad9303f_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021672X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6c5affcbbbb1df26c4ed72cd300a99762a04c9cefcf03f7f56c6908f3d51f10366bccc1eacda5f03046b7eb6b1c8e3446e625fcaa79a603e2fb14de5e4c7007a&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021673X0-landscape.jpg",
+	"name": "HENCHMAN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7aee023ae366782ad93195_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021673X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=51243706e669654c4177fb487a2bd7ee67be40acd211d170275ce3095b2daa8aacdb323c74e1bf63272413a47cd308ee8f4736a25c0aa1a77d7ea178dbd95d11&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021674X0-landscape.jpg",
+	"name": "DUNGEON",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7cf7323ae366782ad963a6_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021674X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a48f0066e2e939a8ccacb85f6bb656308455686f9f1c0ae5cbad801451592de85f21471f6a92fff8347ad5c47c014bc6d5275266404e81a0bc27f9641773433b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021675X0-landscape.jpg",
+	"name": "WHAT HAVE YOU DONE?",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a7df53ae366782ad9258c_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021675X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=451c968349f514a48bab6baa46ac629207684b273976f06cdf8fccb0cba3ce3405388bf6b67b674fd43c062b9740d6ce632e04a2603c6bf02427a50ca65f91d3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021676X0-landscape.jpg",
+	"name": "RAINY DAY DAYDREAM",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d05613ae366782ad96501_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021676X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=acb478baf070fa854537689be7d55ec0975b8eb2f104c880aca5d268c035164a6fface74d90e3252c7875f4aea052b3f61f03b751a903745d0ea6f025e958234&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021677X0-landscape.jpg",
+	"name": "GUT GRINDER",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d12253ae366782ad96636_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021677X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0ee9991b1f158a32c0fb5541bd562657b9bbc606e79101cc2aa0019364e0c2fd6f85754b18cb6f5472a28b7ef4b698738e864ab370e4675665c161a88fa6c2fb&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "ADVENTURE TIME SEASON 2",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021678X0-landscape.jpg",
+	"name": "LOYALTY TO THE KING",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d92f231cbea8a6a4eefd918_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021678X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ce42384758403796ae79c15ad23f0114fd920e38cf21ba35119da7f342c8527f47781e7d86c3615934f7a54d3a3adcfce01edb407bdb3a1986f75de7f051864c&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021679X0-landscape.jpg",
+	"name": "BLOOD UNDER THE SKIN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a8bbd3ae366782ad926ec_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021679X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=a2680d5bc0360603f25252a3bd48e83678991c91b1e6fe3a98d17ffceeb5513178ff1257351439f3edddba2da26ed441e3546a558fbd0a78d59d0bf39b08b5db&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021680X0-landscape.jpg",
+	"name": "IT CAME FROM THE NIGHTOSPHERE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7a9b6e3ae366782ad928ae_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021680X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=472155803bce1dbf2f7f5288ebb2f8907fffd9084cf2b37004154dec1ff35a303e50d33d949f3d255f0f7a39b80cae1041eb973a20b8049e6a6d14cad50de950&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021681X0-landscape.jpg",
+	"name": "THE EYES",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7d12463ae366782ad9663b_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021681X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=9e01c8a91cbbad3b9b0cbf2be983fae2d93bfe4f0746e6fd10d17858075f590e303ed4863c733a870f63ebfa78374289cb89347e64920df8e878efecf578d6cc&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021682X0-landscape.jpg",
+	"name": "STORY TELLING",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7c784c3ae366782ad95782_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021682X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=55eed835d7f88ee66671e0e115b3bcdae73155d5218315176255c9d70aa6850c7b187bf18bcdc16c8984f6c182ff6a0ff973f2ef586f8edc940e7ecf9d3692b7&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021683X0-landscape.jpg",
+	"name": "SLOW LOVE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7c85983ae366782ad958c7_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021683X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=097ed4e56c3d87c25595033dd992563af8369ffe2d934a3d5da76d4bf5846bf1375d531c2277cf70f1b9f47ff7fb708d8a035371731d26cc1c052dc9e470fbfc&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021684X0-landscape.jpg",
+	"name": "A POWER ANIMAL",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7afec63ae366782ad93364_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021684X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3772214a30bd0ce34b84e6826a628766fbe6d97123de0257bf9836fec2d3273b064c87744540ed04ea4b8b6e72c65561d76a16f41f6e4816a04ae0cc388d380f&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021685X0-landscape.jpg",
+	"name": "CRYSTALS HAVE POWER",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d7c93fb3ae366782ad95a25_hbovodhd/dash0/MYS_index.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021685X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0270d7df40aead94314e12bb55f403f564fa91d9f3806b45f426454e5f5b94c99ef2ce9461c0d99eef54bd94d87b00a1cda97632d1331bc10b1f5e25b4c01ea4&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021686X0-landscape.jpg",
+	"name": "HER PARENTS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/601392756d048943f772c3ab_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863883418",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021686X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=21971fafe88b8ec4f4db57918e4ea567473fa980f44546158473f2e2f494ccacc11f02be35580a28c629bf63e6cd47d019b2d57391a09a508afff16d1dfb3289&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021687X0-landscape.jpg",
+	"name": "TO CUT A WOMAN'S HAIR",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139b7e6d048943f772c484_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569853979",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021687X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8d23842b05275b40ef92e289f63299a7204fbfba229289b76282468888fae2c144f9d5635493c2201d7389b3555edf26f505d8f682e248c051d0b0715e6cc00c&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021688X0-landscape.jpg",
+	"name": "THE CHAMBER OF FROZEN BLADES",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139e4d6d048943f772c4d0_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569855772",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021688X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5734a2e57aeb0e160dec3a69ec0e1f98401e612be826df266108197196635b22741c2277925642c20a8d58d9880c4420ca0e226e4a346c8a229698566ff20ee3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021689X0-landscape.jpg",
+	"name": "THE OTHER TARTS!",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139bbd6d048943f772c48c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863887885",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021689X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=6b12149cdfbad97535805f53dbe43ed326327093afd4000d8a5621be094c0531993be512b3ae8192700ed4a95c27e1790a0d1637959f3fde2a2c58c92a416d37&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021690X0-landscape.jpg",
+	"name": "THE PODS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/60139bfb6d048943f772c494_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863889089",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021690X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7b53619b4d1981741d5cbe0e8f6d5d7c2bfa5ea786d0656f97f13e858d0e3a3c11e836e5614a18179238d721f4b40d1775c54dca3da8b21ac9c8e63f2416b48e&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021691X0-landscape.jpg",
+	"name": "THE SILENT KING",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60138fcf6d048943f772c365_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863892145",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021691X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=530e55a5539ee5c567681bc576f74d1caffc57134712b485fadea320530b179cfb1bb1efd04bec2eaf278689b265f0dfa5587eb00ca0d666acea4fcf4675f1cf&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021692X0-landscape.jpg",
+	"name": "THE REAL YOU", 
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601382716d048943f772c21f_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569862958",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021692X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=94192f31e389225a951cc2953d299c0d348fc3b3657d411349d51129191ee63e22400e7bcbe76a6a56c5216e79b88c91215cf62598664c331479dde796dc16fa&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021693X0-landscape.jpg",
+	"name": "GUARDIANS OF SUNSHINE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60137f716d048943f772c1d1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863895000",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021693X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=19b442d95709012201c26be6a2ee91fc1940078c3d4e3b64b10c0a1acbefb50b254b272ed08b6b8ba003d2379eb7f94e9abb170bd6905f42cfd3940113b227ad&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021694X0-landscape.jpg",
+	"name": "DEATH IN BLOOM",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601382a66d048943f772c226_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863895987",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021694X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=13a5fb2d4b50411364e62cf013f94ff4cc7e7eff87f17a40a98e393008ef4fee6092e9615b24e31159c0752c843024586e6f9c17bf5398c7e8894daea3dae1c7&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021695X0-landscape.jpg",
+	"name": "SUSAN STRONG",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601392b36d048943f772c3b3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863897226",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021695X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8be6f8a73f43d03632ad280bc9b7d9d67b671e6a1f2f296bee7a458af7ba405a11d3c8a8c67975f301b19a226362c43d0a791de933fc5bed1b72c9cc3779ddd0&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021696X0-landscape.jpg",
+	"name": "MYSTERY TRAIN",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601390166d048943f772c36d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863898316",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021696X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0b9f55275160e7256657a6e66dbaa3cd3be59f19cc7713cea8aeb5278b2aad57c964783a9d742c9a0f46fe8f32f249baab196e3b43bc61c04ebe3629396b92e3&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021697X0-landscape.jpg",
+	"name": "GO WITH ME",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/6013904b6d048943f772c374_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569868584",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021697X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5ef80528e5589215e2803e94cb191d28b900323f776e14cdb0b9da82379165f6acf4600e22a7e221239c297af2634bc95fcdfdfc827b34ba3678ccbac9c9bbaf&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021698X0-landscape.jpg",
+	"name": "BELLY OF THE BEAST",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6013a03d6d048943f772c500_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863900885",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021698X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=eb601c6e02ed2f22cb43f473e658247249a9d34dda94ceb403e425f7ef2cdfba9037e17f705112e3ead9d08cd649c9957ef8bdf694ee01879a83eb4609500dbe&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021699X0-landscape.jpg",
+	"name": "THE LIMIT",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/6013b16d6d048943f772c697_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569871077",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021699X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=72a3551011620731c61ff094a35e01cb4c56ae971df1ea56738796c2e4224cc3afbd5e97fcea6489f7004db09735c93139f83868096983f879763fb8af5376d8&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021700X0-landscape.jpg",
+	"name": "VIDEO MAKERS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601382de6d048943f772c22d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863903273",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021700X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=092c941a322bc62d4c43831bbc4d35a3abf45b104fd36f2bbba5ceaeb714599d57b9d616f37e18e88454e885217ee36c3b31622932dca66711b1671c9a8fd75f&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021701X0-landscape.jpg",
+	"name": "HEAT SIGNATURE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/601383156d048943f772c234_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569873452",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021701X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=502b275d200b706b5d24a58a15e68cd5a4e5efc45c9fbdc446094fddfd15d26d7dd8096832b4f6e8c55c3f1e23b3f576d24e7c6c5571b4ad782cc1d7e9c87a63&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021702X0-landscape.jpg",
+	"name": "MORTAL FOLLY",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60139c356d048943f772c49b_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863905579",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021702X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d8ffac09b692fadfe62c127730c13f77d277391799105690a6c505076cd043a659a1a0e28bbeeb05139df7b6fc9de78fcbef2b68db5c8f5cf45f87926574ace7&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021703X0-landscape.jpg",
+	"name": "MORTAL RECOIL",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/60139c726d048943f772c4a3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569875681",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021703X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=33b5b163f0b1f6fafeb21d79dd50fcaaa19c1b5b7de63a4d94502e2bf5f2bd4c822f1d6a799dfa25bab41e314fa81e02d52bca41be63ece02352f7cba02f29b2&drmId=prod"
+      }
+    ]
+  },
+  {
+           "name": "ADVENTURE TIME SEASON 3",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021704X0-landscape.jpg",
+	"name": "CONQUEST OF CUTENESS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5d92fd07cbea8a6a4eefda22_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569935075",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021704X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=317db645edfbbd5d298011352f445496942a12fcba6aedc6e8cde09987c3fa85480c3104cea195a7ccf20597950f5eacad7556faf9f8ef0de9af93608966f9bc&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021705X0-landscape.jpg",
+	"name": "MORITURI TE SALUTAMUS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7ac5223ae366782ad92d3f_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569936310",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021705X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b833a1b3b4cf9959104dda6b0b751b49528095e6344d20f01ef47f60a878e3e4dc90ffb09d48720026297e7d21da3ca3bff6632d0dc20a356d9a51fbc3a789dd&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021706X0-landscape.jpg",
+	"name": "MEMORY OF A MEMORY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7ab7433ae366782ad92bbf_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569937896",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021706X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8ac87ff3e0624034828de0c482934123e4876e0c49310d5c5493ab3217e44f9b51a15c979de8e3d065e0e16f029e5efb1c29d53846ea1b45e92b87dfbe49c8e0&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021707X0-landscape.jpg",
+	"name": "HITMAN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7ccd273ae366782ad95fa6_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863969988",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021707X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8c885cab0f240338ee2501e6e1a17ea67486f7a96849cedb2bd30fa1a946d1f8c02cf729fca9f8ab460b337ef10c1eea92159814eef7c9428d39dc38880a0e20&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021708X0-landscape.jpg",
+	"name": "TOO YOUNG",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7ad3933ae366782ad92ed2_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863971395",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021708X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=012016f405c706ce1fba381802801b76b107c55c1f6a9668ea506c2253352516dc707f0b2c821bb94f116fcd2aab0e4e186195a4999bb8cb32147389ad7f7256&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021709X0-landscape.jpg",
+	"name": "THANK YOU",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7a81513ae366782ad925e6_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863972746",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021709X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f6687dfa497ae803113dd921a26fcf0ce132f617f416f5d1b3815703d8b6833112923156af740375284d467abf235c7a0120d3fcf8db68ce4c0400cf82416853&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021710X0-landscape.jpg",
+	"name": "FIONNA & CAKE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7ba71f3ae366782ad94398_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569943180",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021710X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0e2acce986948910a1e66db934ed85c8e8fcdf2b5e1a8a19fc4a5897df3bb94a5a736c79720f40c77ce4a0b095e1aebc294c05f63edb0c0eef9cdd2144c080c8&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021711X0-landscape.jpg",
+	"name": "THE MONSTER",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c08ed3ae366782ad94ce0_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569944872",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021711X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=169b7c2e62754468f90b32888a2bed2d8a997833e21af1b919ff7e909008c85670a3c15ae32e5cea54c607f868980d4fedd2c30b61b421cfe4130ebc65b61426&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021712X0-landscape.jpg",
+	"name": "STILL",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7bb4bb3ae366782ad944e2_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569947554",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021712X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=814494e0e4ee3840daee39adba467717c6b173923303fe18f15a8fce9b673691c43c88c032019001025261f0d9b9aba3f9f089f1a084dcdf3b57d5753133197b&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021713X0-landscape.jpg",
+	"name": "WIZARD BATTLE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7a8f0c3ae366782ad92749_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569949494",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021713X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=ab236becf99abe2da9356286718ac4fbf65bdd065dbfe4d61b92893a9753cc2533aa1e2e83f7cc6582e3eb62d8d719b01fcc8914549bc21e77134ce9485f5722&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021714X0-landscape.jpg",
+	"name": "WHAT WAS MISSING",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7ae4293ae366782ad93091_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863981656",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021714X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fc7091a1eb2f8b5022437ac7924907e54b175e9d4332a1bdf1435dfbdd95c3335c017a51b2d87478a0a754c1cd3747c9406a706498b33fdd8dbd5345ed281387&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021715X0-landscape.jpg",
+	"name": "APPLE THIEF",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7a9b913ae366782ad928b3_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569952229",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021715X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c1bfe17b2a683bd7696f65153648745e8c5e09d8a7549e2d82702041727654bf064f6dc220e6a09186b5e9a32ee8cea4fce46dfba851ed3dac4d51ebe1727057&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021716X0-landscape.jpg",
+	"name": "BEAUTOPIA", 
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c331c3ae366782ad950e7_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863984780",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021716X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=3c6de0a6bafb8138dfcf37f10d9be1a5c1c5084265ca0f772778b2a2e269824135e08326ac8b018dcfdc23a6ec7932e54495899fd645c3a4fd00a2c6d2adc4dc&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021717X0-landscape.jpg",
+	"name": "FROM BAD TO WORSE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7aee253ae366782ad9319a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863986193",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021717X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bcce0554baf08d3a8f02ab2811ae2bf53ce8db6964769412fb41ba0ff7811bc89c43fe73a158066d3d9ac58103d1166e6f9a7a6990727be9dbfe23aeaddf65c5&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021718X0-landscape.jpg",
+	"name": "NO ONE CAN HEAR YOU",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7bc2153ae366782ad9462a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863987629",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021718X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7e0610b948037b394c074217e41a1a561e6dd5fc37f3d9536ebf1bfa8f755f4ae8ae05aa56255e8f44af86b50d68d468938c960f17f8926367bc55f3da0dc269&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021721X0-landscape.jpg",
+	"name": "THE NEW FRONTIER",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c3fd93ae366782ad9521c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863989372",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021721X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=2f9b6f62ba35b42ce36012a93ccceefe137e84b861c2ed0aa716efd071226d5c1459a90cab8f5f50cbf54adf22de3d04939621ef2b1a3959bf0a5f4ecae2b027&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021722X0-landscape.jpg",
+	"name": "HOLLY JOLLY SECRETS PART I",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c4f1f3ae366782ad95395_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863991156",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021722X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=2742fec752673500f866725f836498fc500f2b522c8289d32ab4af17912133de8492c26530e723c7fdd993ed9e1c4c7bc527f54ce5d4d7061fd72eb0cfe069d1&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021723X0-landscape.jpg",
+	"name": "HOLLY JOLLY SECRETS PART II",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c5b9a3ae366782ad954c2_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569961850",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021723X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=46fcff0096b5adf297c3998d045e61e36b24be98bce554a12833c1d3a8c61c7ba43dba678fd4c789eeba6357f1c9c1ee5008f2fd3349fc1595cd2a023f4a043c&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021724X0-landscape.jpg",
+	"name": "MARCELINE'S CLOSET",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c6c4b3ae366782ad95661_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569963319",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021724X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=240448e340c1f672e00c03be391fa6809f58129ec518799c7fc731a357705ac648a6c1d063780ab3c28a24329c5f4308bf644cda2412a6bc410f72e4c42f0507&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021725X0-landscape.jpg",
+	"name": "INCENDIUM",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c786d3ae366782ad95787_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569964691",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021725X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=aed0b00c0920f02decb4729561ed358e99bfdd173204889064982a561667c9e793407f86f1c8e1bda663ba26e79ce1d0b7722b09ce393f144fb614cd2a721262&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021726X0-landscape.jpg",
+	"name": "ANOTHER WAY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7d05843ae366782ad96506_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569965984",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021726X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c6f2b95e99d23fa461a92bf680536d0456df6f13210d93b5e852466b5045bd76cb52cee3ce4011be913fa8dac4f8aa5c6f8573ff36389983278dd139b85c9152&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021727X0-landscape.jpg",
+	"name": "PAPER PETE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7afef03ae366782ad9336a_hbovodhd/dash0/MYS_index.mpd?c3.ri=6897264331569967532",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021727X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=41710f56e7029bd3e634948978a06e258eb439fc26748d2c0adc9bb59c149cd17ef0a28e665202ee9507b13db3cd638cd2ac78f2502baebb6d353707fe77a8df&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021729X0-landscape.jpg",
+	"name": "DAD'S DUNGEON",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c87fe3ae366782ad95907_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863999853",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021729X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0af66214599c6322e5ada86d688fbb365e6f062aa36ea816289e7f800705e6db3eeb2f0da6523f2743f95b777d17541920e0b6ad870be9874d935abeadfdcd&drmId=prod"
+      }
+    ]
+  }
+]
+
+
