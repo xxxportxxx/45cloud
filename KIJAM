@@ -1637,6 +1637,37 @@
     ]
   },
   {
+    "name": "TAMIL MOVIES",
+    "samples": [ 
+      {
+        "name": "MASTER",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png",
+        "uri": "https://www.ohflix.com/files/backup345/3-3/NewVersion/tamil6/MASTER%20(2021)ok.mp4"
+      },
+      {
+        "name": "BIGIL",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil6/Bigil%20(2019)%20HDRip.mkv"
+      },
+      {
+        "name": "MERSAL",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Mersal%20HD%20AVC%20(2017).mkv"
+      },
+      {
+        "name": "SARKAR",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_100.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Sarkar%20HDRip%20(2018).mkv"
+      },
+      {
+        "name": "THERI",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/128_100.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Theri%20Web-DL%20(2016).mkv"
+      }
+    ]
+  },
+  
+      {
            "name": "MOVIES",
             "samples": [
        {
