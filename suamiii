@@ -1637,6 +1637,37 @@
     ]
   },
   {
+    "name": "TAMIL MOVIES",
+    "samples": [ 
+      {
+        "name": "MASTER",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/RREGWRG.png",
+        "uri": "https://www.ohflix.com/files/backup345/3-3/NewVersion/tamil6/MASTER%20(2021)ok.mp4"
+      },
+      {
+        "name": "BIGIL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cfghfcgtik.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil6/Bigil%20(2019)%20HDRip.mkv"
+      },
+      {
+        "name": "MERSAL",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/reere.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil3/Mersal%20HD%20AVC%20(2017).mkv"
+      },
+      {
+        "name": "SARKAR",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ggereryeswysw.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Sarkar%20HDRip%20(2018).mkv"
+      },
+      {
+        "name": "THERI",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dueeuyuy.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Tamil-Hindi/Tamil4/Theri%20Web-DL%20(2016).mkv"
+      }
+    ]
+  },
+  
+      {
            "name": "MOVIES",
             "samples": [
        {
@@ -1647,6 +1678,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023943X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1504a65447d8a5d380be690f313f1b1483df96f6864c88ec2d5ca0beb1297b3d2a310022b3fe571054324903c9224df6c7bafb0e0071a943d017750215ea1664&drmId=prod"
       },
       {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023890X0-landscape.jpg",
+	"name": "LIKE A BOSS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feef8726d048943f76f5ee9_hbovodhd/dash0/MYS_index.mpd?c3.ri=6919784200768862835",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023890X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=bc58d319fd1e1df0d7704669b90df2cf538e78208ca86e3380f3d309ab6078badfc08fd824d1d1ff6d24f433ae61a9913b83a9549a6dc8e553c45cdcadabc89e&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/026829X0-landscape.jpg",
 	"name": "BIRDS OF PREY AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feaed166d048943f76f000c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6916968878962135765",
