@@ -1637,6 +1637,17 @@
     ]
   },
   {
+    "name": "HINDI MOVIES",
+    "samples": [ 
+      {
+        "name": "3 IDIOT",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/3_IdiotsFDGASGDSG.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/1-1/Random1%20Movies%20Malay%20Sub/Idiots%202009.mp4"
+      }
+    ]
+  },
+  
+      {
     "name": "TAMIL MOVIES",
     "samples": [ 
       {
