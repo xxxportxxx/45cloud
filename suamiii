@@ -1637,6 +1637,31 @@
     ]
   },
   {
+    "name": "MUZIKAL LAWAK SUPERSTAR 2",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay6/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%20(2020)%20Minggu%201.mp4"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay6/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%20(2020)%20Minggu%202.mp4"
+      },
+      {
+        "name": "EPISODE 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay6/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%20(2020)%20Minggu%203.mp4"
+      },
+      {
+        "name": "EPISODE 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Muzikal%20Lawak%20Superstar%20.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay6/Muzikal%20Lawak%20Superstar%202/Muzikal%20Lawak%20Superstar%202%20(2020)%20Minggu%204.mp4"
+      }
+    ]
+  },
+      {
     "name": "WARUNG SEPAHTU",
     "samples": [ 
       {
