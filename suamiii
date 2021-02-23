@@ -1632,10 +1632,20 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
-        }
+         }
     ]
   },
       {
+    "name": "MARVEL MOVIES",
+    "samples": [ 
+      {
+        "name": "END GAME",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ENDGAME.png",
+        "uri": "https://www.googleapis.com/drive/v3/files/1a2ib7hdfQiTDAfCFBcVRCx1MK0uSGvA3?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
+      }
+    ]
+  },
+  {
     "name": "MR.QUEEN",
     "samples": [ 
       {
