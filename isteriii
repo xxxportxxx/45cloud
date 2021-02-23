@@ -1078,13 +1078,9 @@
     "name": "TEST",
     "samples": [ 
      {
-        "name": "CINEMAX",
-        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_300.png",
-        "uri": "https://linear-playback.astro.com.my/linear-livewvdaf/603/default_ott.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://sg-sg-sg.astro.com.my:9443/vgemultidrm/v1/widevine/license"
-        "access_token": "eyJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2MTM5MDU4OTUsInN1YiI6IjgxNDgzMjM4IiwiYXVkIjoiaXZwLnNlc3Npb25ndWFyZCIsImV4cCI6MTYxMzkxNjY5NSwic2Vzc2lvbl9kYXRhIjp7InNlc3Npb24iOnsiY29tbXVuaXR5IjoiTWFsYXlzaWEgTGl2ZSIsImJ1c1VuaXRJZCI6IkFTVFJPIiwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ1cElkIjoiODE0ODMyMzhfMCIsImRldklkIjoiODE0ODMyMzguYTc2OGZkYzMtM2M5NS00YzViLWFkZmYtODcxNzA2OWM1MWJiIiwicmVnaW9uIjoiUE9TVFBBSUQiLCJjbWRjUmVnaW9uIjoiODAwMDAiLCJkZXZpY2VGZWF0dXJlcyI6WyJBQlIiLCJQRVJTT05BTC1DT01QVVRFUiIsIlVOTUFOQUdFRCIsIkRBU0giLCJXVi1EUk0iLCJTZWNvbmRTY3JlZW4iXSwiY21kY0RldmljZVR5cGUiOiJQQyIsImRldmljZVR5cGUiOiJDT01QQU5JT04iLCJ0ZW5hbnQiOiJrIiwic29sdXRpb25JZCI6ImsiLCJ0ZW5hbnRJZCI6IkFTVFJPIiwiZ3Vlc3RNb2RlIjpmYWxzZSwiaGhJZCI6IjgxNDgzMjM4In0sImhoSGFzaCI6MTcsImNvbW11bml0eSI6Ik1hbGF5c2lhIExpdmUifSwic2NvcGUiOiJicm93c2UgcGxheWJhY2siLCJ0b2tlbl90eXBlIjoiYWNjZXNzX3Rva2VuIiwiY2xpZW50X2lkIjoiYnJvd3NlciIsImp0aSI6IjdiN2EyNmVhLTA5OWQtNDZjOS04YmIwLWQyZmVjZjIxZWU0NyJ9.qEuMDru4Yknm0qC__P3Z_WBKt5rm4Ad2H9LjAsP2Prk",
-	"token_type" : "Bearer"
+        "name": "HBO",
+        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
+        "uri": "https://api2.hbogoasia.com/v1/live?territory=MYS&channelId=hbom"
       }
     ]
   },
