@@ -1712,10 +1712,55 @@
         "name": "EPISODE 6",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SEPAHTUWARUNG.png",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/Warung%20Sepah2/Warung%20Sepah2%20(2021)%20Episod%206.mp4"
-       }
+        }
     ]
   },
       {
+    "name": "POTONG",
+    "samples": [ 
+      {
+        "name": "EPISODE 1 ",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/1.mp4"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/2.mp4"
+      },
+      {
+        "name": "EPISODE 3",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/3.mp4"
+      },
+      {
+        "name": "EPISODE 4",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/4.mp4"
+      },
+      {
+        "name": "EPISODE 5",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/5.mp4"
+      },
+      {
+        "name": "EPISODE 6",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/6.mp4"
+      },
+      {
+        "name": "EPISODE 7",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/7.mp4"
+      },
+      {
+        "name": "EPISODE 8",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Potong-.png",
+        "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/potong%202020/8.mp4"
+      }
+    ]
+  },
+  {
     "name": "KAMPONG PISANG BERSIRI",
     "samples": [ 
       {
