@@ -1632,6 +1632,26 @@
         "uri": "https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1"
+        }
+    ]
+  },
+      {
+    "name": "MR.QUEEN",
+    "samples": [ 
+      {
+        "name": "EPISODE 1",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
+        "uri": "https://www.googleapis.com/drive/v3/files/1qZVJ12_L6p2CFSMQFY9j8ZYvC_vXk0kT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
+      },
+      {
+        "name": "EPISODE 19",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
+        "uri": "https://www.googleapis.com/drive/v3/files/1G1w5KaULbT6ErQPckeUd6VCUsXwZDtUC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
+      },
+      {
+        "name": "EPISODE 20",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
+        "uri": "https://www.googleapis.com/drive/v3/files/1x6K28iMZqHP92TcRZPXM_Tj3kGUICVeG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
       }
     ]
   },
