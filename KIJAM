@@ -716,6 +716,7 @@
         "name": "ASTRO HBO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_100.png",
         "uri": "https://liveorigin01.hbogoasia.com:8443/origin/live/main/MSIA/index.m3u8"
+      },
       {
         "name": "HELLO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
@@ -756,10 +757,9 @@
         "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
         "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       }
-    ]
+    ]  
   },
-  
-      {
+  {
     "name": "INDONESIA MOVIES",
     "samples": [
       {
@@ -1653,9 +1653,9 @@
         "logo_uri": "http://www.rtb.gov.bn/SiteAssets/SitePages/TV%20Programme%20Division/RTB%20ANEKA%20LOGO.png",
         "uri": "https://rtb-channel.glue.live/smil:rtb-aneka/playlist.m3u8"
       }
-    ]
+    ]  
   },
-      {
+  {
     "name": "MUZIKAL LAWAK SUPERSTAR 2",
     "samples": [ 
       {
@@ -2053,9 +2053,9 @@
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/TAKDIIIIIIIIRGGGGG.png",
         "uri": "https://www.ohflix.com/files/g5dkg1ff4x/3-3/Random%20Drama%20Malay7/Takdir%20Yang%20Tertulis/Takdir%20Yang%20Tertulis%20EP%2015.mp4"
       }
-    ]
+    ]  
   },
-      {
+  {
     "name": "PENGANTIN 100 HARI",
     "samples": [ 
       {
