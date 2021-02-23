@@ -713,6 +713,11 @@
         "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
       },
       {
+        "name": "ASTRO HBO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_100.png",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/origin/live/main/MSIA/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vTVNJQS8qIiwiQ29uZGl0aW9uIjp7IkRhdGVMZXNzVGhhbiI6eyJBV1M6RXBvY2hUaW1lIjoxNjE0MDQyMDQzfX19XX0_&Signature=GL66xYtm4PrqL~BwKrWeQ2ccR9IIFMLSd3Uk0C2G9kpyzuCi9g6jS-G40MUg54loseU3-XdSeM8nUAv3R8TMNisFCOtTTVIv7D41lHFDJa2RuQ0c1UzbtkYJonhu0jLLKLRVpesVXs07X2LYprHBop-Z9Jo7XYLVN8AHHSnEXfwxo4YVcxT3dexL1oNqKr74-nveZayA6~4VM9DoPm-amArSMWRtw-LFJkjN0WoG7n0XUvSFRuo408GQU1EnzkRDpra6xHHtqXn0Xfl2upUu~KeSc9kqagiq00wossEwLKFdN1Ueyu~1AOzXG2pFBljVCj2Ujc77c9TkKYRhHoYUyA__&Key-Pair-Id=APKAJFBTWETXLROKW43A"
+      },
+      {
         "name": "HELLO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/702_100.png",
         "uri": "https://agsplayback01.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8"
