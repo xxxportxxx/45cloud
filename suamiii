@@ -708,6 +708,11 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
       },
       {
+        "name": "BERNAMA",
+        "logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png",
+        "uri": "https://bncstream.ddns.net/live/bncnews.m3u8"
+      },
+      {
         "name": "ASTRO BOO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
         "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
@@ -1642,6 +1647,11 @@
         "name": "EPISODE 1",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
         "uri": "https://www.googleapis.com/drive/v3/files/1qZVJ12_L6p2CFSMQFY9j8ZYvC_vXk0kT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
+      },
+      {
+        "name": "EPISODE 2",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
+        "uri": "https://www.googleapis.com/drive/v3/files/1fBVXtpdc-j38sIpY0Y_aHcSSc06FdPZ6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
       },
       {
         "name": "EPISODE 19",
