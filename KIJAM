@@ -708,6 +708,11 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
       },
       {
+        "name": "BERNAMA",
+        "logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png",
+        "uri": "https://bncstream.ddns.net/live/bncnews.m3u8"
+      },
+      {
         "name": "ASTRO BOO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
         "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
