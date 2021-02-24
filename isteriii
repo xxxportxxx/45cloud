@@ -1071,7 +1071,7 @@
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5d7c87fe3ae366782ad95907_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924848878863999853",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=021729X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=1a0af66214599c6322e5ada86d688fbb365e6f062aa36ea816289e7f800705e6db3eeb2f0da6523f2743f95b777d17541920e0b6ad870be9874d935abeadfdcd&drmId=prod"
-      }
+       }
     ]
   },
   {
@@ -1149,11 +1149,11 @@
         "uri": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd",
         "referer": "https://myklik.rtm.gov.my/"
       }
-    ]
-  },
-  {
-           "name": "LIVE HBO",
-            "samples": [
+     ]
+   },
+   {
+         "name": "LIVE HBO",
+         "samples": [
        {
         "name": "HBO Hits",
         "logo_uri": "https://www.transvision.co.id/img/channel/hbo_hits.png",
