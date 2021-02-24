@@ -1075,12 +1075,79 @@
     ]
   },
   {
-    "name": "TEST",
-    "samples": [ 
-     {
-        "name": "HBO",
-        "logo_uri": "https://www.transvision.co.id/img/channel/hbo.png",
-        "uri": "https://api2.hbogoasia.com/v1/live?territory=MYS&channelId=hbom"
+    "name": "UNITV LOKAL",
+    "samples": [
+      {
+        "name": "TV1",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV1logo-New.jpg",
+        "uri": "https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "TV2",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTV2logo.jpg",
+        "uri": "https://rtm2hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "TV3",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv3.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV3.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "Drama Sangat",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/dramasangat.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "NTV7",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/ntv7.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "8TV",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/8TV.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "TV9",
+        "logo_uri": "https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv9.png",
+        "uri": "https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8",
+        "referer": "https://www.dailymotion.com/"
+      },
+      {
+        "name": "TV Okey",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/tvTVOKEYlogo.jpg",
+        "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "RTM Sports",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Logo%20-%20RTM%20Sports%20Mac%2020%20-%20WhiteBG.png",
+        "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
+      },
+      {
+        "name": "Go Shop",
+        "logo_uri": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/192_144.png",
+        "uri": "https://agsplayback01.astro.com.my/CH1/master_GOSHOP.m3u8",
+        "referer": "https://www.goshop.com.my/"
+      },
+      {
+        "name": "Bernama",
+        "logo_uri": "https://www.bernama.com/tv/img/logotv_05.png",
+        "uri": "https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1601658027/ei/Swh3X52hN9e_z7sPzfeguA8/ip/35.247.134.71/id/fbk5VQoHV0M.0/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r2---sn-npoeener.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/10300/mh/78/mm/44/mn/sn-npoeener/ms/lva/mv/m/mvi/2/pl/20/dover/11/keepalive/yes/fexp/23915654/mt/1601636304/disable_polymer/true/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,goi,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgUudUkh0QDzq7AhQjweq0TvhPg1MtvIPefTcQcaUXeJcCIB3J5lpy32-VGOYHrhVAVpmBIZph-swC1vN0lqX6HFmI/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgVQNGqvOT3hXwP_cRJ71VsRx-S5un-fqZhh6C787OP4YCIQC1BGJeg_oFjugYXJs-NGvkm0m9GBDD3zpL1GAYUTkAUw%3D%3D/playlist/index.m3u8",
+        "referer": "https://www.youtube.com/"
+      },
+      {
+        "name": "Berita RTM",
+        "logo_uri": "https://myklikstatic.secureswiftcontent.com/image/Berita-NEW.jpg",
+        "uri": "https://rtmbeshbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd",
+        "referer": "https://myklik.rtm.gov.my/"
       }
     ]
   },
