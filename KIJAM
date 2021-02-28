@@ -154,70 +154,70 @@
     "samples": [
       {
         "name": "YUPP THIRAI HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/yupp-thirai.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/yupp-thirai.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227762/3221227762.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "COLORS TAMIL HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-tamil.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Zee-tamil.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227562/3221227562.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "POLIMER",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Polimer.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Polimer.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227532/3221227532.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "JAYA MAX",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/jaya-max.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jaya-max.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227551/3221227551.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "SONY MAX",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Sony-Max.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Sony-Max.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227498/3221227498.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "UTV MOVIES HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Utv-Movies.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Utv-Movies.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "COLORS CINEPLEX",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Zee-Cinema.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hLnucnRV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "COLORS",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/ZEE-TV.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ZEE-TV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227504/3221227504.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "SONY SAB",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/sony-sab.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/sony-sab.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227538/3221227538.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {        
 	"name": "SONY SET",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SONY-SET.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SONY-SET.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227541/3221227541.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
