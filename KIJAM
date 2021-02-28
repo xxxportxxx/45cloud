@@ -640,11 +640,6 @@
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
       },
       {
-        "name": "BERNAMA",
-        "logo_uri": "http://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502_300.png",
-        "uri": "https://bncstream.ddns.net/live/bncnews.m3u8"
-      },
-      {
         "name": "ASTRO BOO",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/404_100.png",
         "uri": "http://50.7.161.82:8278/streams/d/Boo/playlist.m3u8"
@@ -753,7 +748,7 @@
     ]
   },
   {
-    "name": "INDONESIA iptv MOVIES",
+    "name": "INDONESIA iptv 01",
     "samples": [
       {
         "name": "HBO Hits",
@@ -842,7 +837,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv KIDS",
+    "name": "INDONESIA iptv 02",
     "samples": [      
       {
         "name": "Nick Jr",
@@ -910,7 +905,7 @@
     ]
   },
   {
-    "name": "INDONESIA iptv LOCAL",
+    "name": "INDONESIA iptv 03",
     "samples": [
       {
         "name": "Indosiar",
@@ -1118,7 +1113,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv ENTERTAINMENT",
+    "name": "INDONESIA iptv 04",
     "samples": [
       {
         "name": "FMN",
@@ -1221,7 +1216,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv KNOWLEDGE",
+    "name": "INDONESIA iptv 05",
     "samples": [
       {
         "name": "BBC Earth",
@@ -1331,7 +1326,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv SPORTS",
+    "name": "INDONESIA iptv 06",
     "samples": [      
         {
         "name": "FOX Sports",
@@ -1378,7 +1373,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv NEWS",
+    "name": "INDONESIA iptv 07",
     "samples": [      
       {
         "name": "Channel News Asia",
@@ -1523,7 +1518,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv ADD-ON",
+    "name": "INDONESIA iptv 08",
     "samples": [  
       {
         "name": "& TV",
