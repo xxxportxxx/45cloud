@@ -431,10 +431,10 @@
   {
     "name": "MALAYSIA iptv 07",
     "samples": [
-     {
-        "name": "BBC WORLD NEWS HD",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-world-news.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
+      {
+        "name": "DW",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/DW.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
@@ -446,16 +446,37 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
-        "name": "SKY NEWS",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynews.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
+        "name": "CHANNEL NEWS ASIA",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/channel-news-asia.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
-        "name": "CHANNEL NEWS ASIA",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/channel-news-asia.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227543/3221227543.mpd",
+        "name": "PARLIMEN",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jata-negara-png-9.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "BBC WORLD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-world-news.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "NHK WORLD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/NHKWorld2.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "SKY NEWS",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/skynews.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227718/3221227718.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
@@ -474,30 +495,9 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
-        "name": "PARLIMEN",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jata-negara-png-9.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
         "name": "ABC AUSTRALIA",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/australia-plus.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
-        "name": "DW",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/DW.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
-        "name": "NHK WORLD",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/NHKWorld2.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       }
