@@ -317,65 +317,64 @@
     "name": "MALAYSIA iptv 05",
     "samples": [
       {
-        "name": "BBC EARTH HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-earth.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
         "name": "LOVE NATURE",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/love-nature.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/love-nature.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227672/3221227672.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
 	  {
         "name": "NATIONAL GEOGRAPHIC",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/natgeo.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227567/3221227567.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "NAT GEO WILD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/natgeo-wild.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/natgeo-wild.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227628/3221227628.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "NAT GEO PEOPLE HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nat-geo-people.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/nat-geo-people.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227590/3221227590.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
-        "name": "BBC LIFESTYLE HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/bbc-lifestyle.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
         "name": "TRAVEL CHANNEL HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/travel-channel.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/travel-channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227593/3221227593.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "LUXE.TV HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/luxe-tv.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/luxe-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227600/3221227600.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "MTV ASIA HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/mtv-asia.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/mtv-asia.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227613/3221227613.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      {
+        "name": "BBC EARTH HD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-earth.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227577/3221227577.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "BBC LIFESTYLE HD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-lifestyle.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227531/3221227531.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       }
