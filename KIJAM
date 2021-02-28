@@ -257,7 +257,7 @@
       },
       {
         "name": "CINEMA WORLD HD",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CMW-gold-logo-for-website-loading.png",
+	"logo_uri": "https://d3cl79h6n1fe0x.cloudfront.net/wp-content/uploads/2016/10/28150842/1-cw.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227568/3221227568.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
@@ -386,43 +386,43 @@
     "samples": [
       {
         "name": "DREAMWORK HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dreamworks.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dreamworks.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227596/3221227596.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "NICK JR.",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nick-jr.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/nick-jr.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227697/3221227697.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
-        "name": "CBEEBIES HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/cbeebies.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {           
 	"name": "NICKELODEON",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/nickelodeon.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/nickelodeon.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227539/3221227539.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "BOOMERANG HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/boomerang.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/boomerang.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227534/3221227534.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "BABY TV",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/baby-tv.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/baby-tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227602/3221227602.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "CBEEBIES HD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/cbeebies.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227650/3221227650.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       }
