@@ -18,14 +18,14 @@
       },
       {
         "name": "TV2",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv2.png",
+	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "TV3",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tv3.png",
+	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
