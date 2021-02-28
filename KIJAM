@@ -1,6 +1,6 @@
 [
   {
-    "name": "MALAYSIA TV 01",
+    "name": "MALAYSIA iptv 01",
     "samples": [
      {
         "name": "Unifi",
@@ -103,7 +103,7 @@
     ]
   },
   {
-    "name": "MALAYSIA TV 02",
+    "name": "MALAYSIA iptv 02",
     "samples": [
      {
         "name": "TVN MOVIES HD",
@@ -157,7 +157,7 @@
     ]
   },
   {
-    "name": "MALAYSIA TV 03",
+    "name": "MALAYSIA iptv 03",
     "samples": [
       {
         "name": "YUPP THIRAI HD",
@@ -232,7 +232,7 @@
     ]
   },
   {
-    "name": "MALAYSIA TV 04",
+    "name": "MALAYSIA iptv 04",
     "samples": [
       {
         "name": "FOX MOVIES",
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "name": "MALAYSIA TV 05",
+    "name": "MALAYSIA iptv 05",
     "samples": [
       {
         "name": "BBC EARTH HD",
@@ -389,7 +389,7 @@
 	]
   },
   {
-    "name": "MALAYSIA TV 06",
+    "name": "MALAYSIA iptv 06",
     "samples": [
       {
         "name": "DREAMWORK HD",
@@ -436,7 +436,7 @@
     ]
   },
   {
-    "name": "MALAYSIA TV 07",
+    "name": "MALAYSIA iptv 07",
     "samples": [
      {
         "name": "BBC WORLD NEWS HD",
@@ -511,7 +511,7 @@
     ]
   },
   {
-    "name": "MALAYSIA TV 08",
+    "name": "MALAYSIA iptv 08",
     "samples": [
      {
         "name": "UNIFI SPORTS 1",
@@ -572,7 +572,7 @@
     ]
   },
   {
-    "name": "MALAYSIA 09",
+    "name": "MALAYSIA iptv 09",
     "samples": [ 
       {
         "name": "ASTRO RIA",
@@ -692,7 +692,7 @@
     ]  
   },
   {
-    "name": "SINGAPURA TV",
+    "name": "SINGAPURA iptv",
     "samples": [
 	 {
         "name": "Channel 5",
@@ -753,7 +753,7 @@
     ]
   },
   {
-    "name": "INDONESIA MOVIES",
+    "name": "INDONESIA iptv MOVIES",
     "samples": [
       {
         "name": "HBO Hits",
@@ -842,7 +842,7 @@
     ]  
   },
   {
-    "name": "INDONESIA KIDS",
+    "name": "INDONESIA iptv KIDS",
     "samples": [      
       {
         "name": "Nick Jr",
@@ -910,7 +910,7 @@
     ]
   },
   {
-    "name": "INDONESIA LOCAL",
+    "name": "INDONESIA iptv LOCAL",
     "samples": [
       {
         "name": "Indosiar",
@@ -1118,7 +1118,7 @@
     ]  
   },
   {
-    "name": "INDONESIA ENTERTAINMENT",
+    "name": "INDONESIA iptv ENTERTAINMENT",
     "samples": [
       {
         "name": "FMN",
@@ -1221,7 +1221,7 @@
     ]  
   },
   {
-    "name": "INDONESIA KNOWLEDGE",
+    "name": "INDONESIA iptv KNOWLEDGE",
     "samples": [
       {
         "name": "BBC Earth",
@@ -1331,7 +1331,7 @@
     ]  
   },
   {
-    "name": "INDONESIA SPORTS",
+    "name": "INDONESIA iptv SPORTS",
     "samples": [      
         {
         "name": "FOX Sports",
@@ -1378,7 +1378,7 @@
     ]  
   },
   {
-    "name": "INDONESIA NEWS",
+    "name": "INDONESIA iptv NEWS",
     "samples": [      
       {
         "name": "Channel News Asia",
@@ -1523,7 +1523,7 @@
     ]  
   },
   {
-    "name": "INDONESIA ADD-ON",
+    "name": "INDONESIA iptv ADD-ON",
     "samples": [  
       {
         "name": "& TV",
@@ -1634,32 +1634,7 @@
     ]
   },
   {
-    "name": "MR.QUEEN",
-    "samples": [ 
-      {
-        "name": "EPISODE 1",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/1qZVJ12_L6p2CFSMQFY9j8ZYvC_vXk0kT?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
-      },
-      {
-        "name": "EPISODE 2",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/1fBVXtpdc-j38sIpY0Y_aHcSSc06FdPZ6?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
-      },
-      {
-        "name": "EPISODE 19",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/1G1w5KaULbT6ErQPckeUd6VCUsXwZDtUC?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
-      },
-      {
-        "name": "EPISODE 20",
-        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/MR.QUEEN.png",
-        "uri": "https://www.googleapis.com/drive/v3/files/1x6K28iMZqHP92TcRZPXM_Tj3kGUICVeG?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4"
-      }
-    ]
-  },
-  {
-    "name": "RTB GO BRUNEI",
+    "name": "BRUNEI iptv",
     "samples": [ 
       {
         "name": "RTB SUKMA INDERA",
