@@ -4,42 +4,42 @@
     "samples": [
       {
         "name": "TV1",
-	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101_100.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv1.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227709/3221227709.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "TV2",
-	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/102_100.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227712/3221227712.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "TV3",
-	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103_100.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv3.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227779/3221227779.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "NTV7",
-	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147_100.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/ntv7.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227515/3221227515.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "8TV",
-	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148_100.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/8tv.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227480/3221227480.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "TV9",
-	"logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149_100.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv9.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227483/3221227483.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
