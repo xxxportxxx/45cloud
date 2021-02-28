@@ -432,6 +432,13 @@
     "name": "MALAYSIA iptv 07",
     "samples": [
       {
+        "name": "DW",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/DW.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
         "name": "ALJAZEERA HD",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/al-jazeera.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227623/3221227623.mpd",
@@ -449,13 +456,6 @@
         "name": "PARLIMEN",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jata-negara-png-9.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
-        "name": "DW",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/DW.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
