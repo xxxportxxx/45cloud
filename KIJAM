@@ -67,35 +67,35 @@
       },
       {
         "name": "HYPP SENSASI HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Hypp-Sensasi.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Hypp-Sensasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227598/3221227598.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "HYYP INSPIRASI HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/hypp-inspirasi.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hypp-inspirasi.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227601/3221227601.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "DUNIA SINEMA HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/dunia-sinema.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/dunia-sinema.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "PESONA HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/Pesona.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Pesona.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227615/3221227615.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "LAKU MALL HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/laku-mall.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/laku-mall.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227560/3221227560.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
@@ -114,21 +114,21 @@
      },
      {
         "name": "SETI",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/seti.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/seti.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227529/3221227529.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
 	  {
         "name": "TVN HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/tvn.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tvn.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227556/3221227556.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "STAR CHINESE MOVIES HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/scm.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227606/3221227606.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
@@ -142,14 +142,14 @@
       },
       {
         "name": "STAR CHINESE CHANNEL HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/STAR-Chinese-Channel.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/STAR-Chinese-Channel.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227516/3221227516.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
         "name": "NOW JELLI HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/now-jelli.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/now-jelli.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227559/3221227559.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
