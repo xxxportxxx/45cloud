@@ -103,7 +103,7 @@
     ]
   },
   {
-    "name": "MALYSIA RUBY",
+    "name": "MALAYSIA RUBY",
     "samples": [
      {
         "name": "TVN MOVIES HD",
@@ -135,7 +135,7 @@
       },
       {
         "name": "STAR CHINESE LEGEND HD",
-	"logo_uri": "https://www.tm.com.my/tv/assets/imgs/channels/SCM-Legend.png",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/SCM-Legend.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227566/3221227566.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
