@@ -460,30 +460,9 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
       {
-        "name": "EURONEWS",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/euronews.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
-        "name": "BERNAMA",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bernama-news-channel.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
         "name": "PARLIMEN",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/jata-negara-png-9.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227546/3221227546.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
-      {
-        "name": "ABC AUSTRALIA",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/australia-plus.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
@@ -498,6 +477,27 @@
         "name": "NHK WORLD",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/NHKWorld2.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227626/3221227626.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "EURONEWS",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/euronews.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227486/3221227486.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "BERNAMA",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bernama-news-channel.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227511/3221227511.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "ABC AUSTRALIA",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/australia-plus.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227619/3221227619.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       }
