@@ -431,13 +431,6 @@
   {
     "name": "MALAYSIA iptv 07",
     "samples": [
-     {
-        "name": "BBC WORLD NEWS HD",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-world-news.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
-      },
       {
         "name": "ALJAZEERA HD",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/al-jazeera.png",
@@ -463,6 +456,13 @@
         "name": "DW",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/DW.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227595/3221227595.mpd",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
+      },
+      {
+        "name": "BBC WORLD NEWS HD",
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/bbc-world-news.png",
+        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227586/3221227586.mpd",
         "drm_scheme": "widevine",
         "drm_license_url": "http://1.9.58.113:8063?deviceId=ZTk5ZWMzZDMtYTVmNC0zNGJhLThhMzUtODZiZjUwYjYwNDQx"
       },
