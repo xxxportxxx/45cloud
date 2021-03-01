@@ -3217,6 +3217,53 @@
     ]
   },
   {
+           "name": "THE UNDOING S1",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023661X0-landscape.jpg",
+	"name": "THE UNDOING",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f8ec6e46d048943f76683b8_hbovodhd/dash0/MYS_index.mpd?c3.ri=6891356009371294099",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023661X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b281d52240777f290647e9cb39f5beede2ef511e6d0468e9fd2fd5b3fcf8940596c442f218d1f7367e4727f9a21a8a6078d9de639c6be64793fc47bee9d9d0aa&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023662X0-landscape.jpg",
+	"name": "THE MISSING",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f94e6b46d048943f767136d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6919222032064606694",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023662X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e48635017284d2e19ad9666c609dc1c87447fcfe3deca89863a28d168eaf81bf8e9809e1fc1f709bc1f36224d59e2815c94a82b68dd7a7b293787e44085a7ba9&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023663X0-landscape.jpg",
+	"name": "DO NO HARM",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fa0ba1c6d048943f7682b34_hbovodhd/dash0/MYS_index.mpd?c3.ri=6912185155031889982",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023663X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7ed2fa577e9678f519be69ac4eeee7f7048b2858443349b3c96c12c67563758f57d933d70ffff8e26c9ba4ed9ca87fa0766adc4bc8b18ccb51787d5c3af1cfc9&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023664X0-landscape.jpg",
+	"name": "SEE NO EVIL",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac41936d048943f7693d35_hbovodhd/dash0/MYS_index.mpd?c3.ri=6912185155031882299",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023664X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b2df43fc6d22e3e2e7306f8adf6cef890988104330684f6432feda9a9d2b0e49d6564f29bc30ec24f8ddec59964a5714e035464837e22643577a3fe703402bc0&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023665X0-landscape.jpg",
+	"name": "TRIAL BY FURY",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb1eb7f6d048943f769c3b1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6919222032064625616",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023665X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e7c474fe6ae71c8f34a0207c1a478a6827f0f955bc7b17dfb7e75a00dd43bf0cd268e4f7cb62adce14d4a3ba4b36186f97aeba4e17b8b33e5f4ac35ef49b9c76&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023666X0-landscape.jpg",
+	"name": "THE BLOODY TRUTH",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fbb1ecb6d048943f76a9bcf_hbovodhd/dash0/MYS_index.mpd?c3.ri=6919222032064619805",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=tvepisode&contentId=023666X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=088bbd5c089645919a3c87920384c1445afdcb710bcff475d1cc991fb0fa8411f05eeadfbfe30e8177a48d45ed53afcdc3cb40698e806d37d5c40a2541ae2f80&drmId=prod"
+      }
+    ]
+  },
+  {
            "name": "ADVENTURE TIME SEASON 1",
             "samples": [
        {
