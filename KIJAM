@@ -2520,7 +2520,14 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=025005H0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fed083c138397815020b4f1cf5d61e0d7c38cdd062e9826c3f25f84f2767c4cb140d2cd79c471e1da35c3637aeae234e891128cd2023867cd6c092b83cf4edf6&drmId=prod"
       },
-      { 
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023939X0-landscape.jpg",
+	"name": "DOCTOR SLEEP",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fb4b5056d048943f76a057d_hbovodhd/dash0/MYS_index.mpd?c3.ri=6896141088529146250",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023939X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0d17070139b4f4853ec03d15a53fb2d3fd1855e43819a7865f4a6f65804ed6ec507ea28f67a053bc95a974d238e5bc3ec1695ad328ae96f20a668667d8a9ecf9&drmId=prod"
+      },
+      {
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023890X0-landscape.jpg",
 	"name": "LIKE A BOSS",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feef8726d048943f76f5ee9_hbovodhd/dash0/MYS_index.mpd?c3.ri=6919784200768862835",
