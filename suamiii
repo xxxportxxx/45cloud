@@ -2513,6 +2513,13 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=017816X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b35951887c6114e55fdbb01610cad0653a1776dfb4826c09751c651bbddaf0401a2061207e69d107f9db0366f3ab8d6ff22f9c11b1b522cc9b888aca753c6549&drmId=prod"
       },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/025005H0-landscape.jpg",
+	"name": "WE BARE BEARS: THE MOVIE",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5f3cdd796d048943f75ef07e_hbovodhd/dash0/MYS_index.mpd?c3.ri=6891356009371228701",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=025005H0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=fed083c138397815020b4f1cf5d61e0d7c38cdd062e9826c3f25f84f2767c4cb140d2cd79c471e1da35c3637aeae234e891128cd2023867cd6c092b83cf4edf6&drmId=prod"
+      },
       { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023890X0-landscape.jpg",
 	"name": "LIKE A BOSS",
