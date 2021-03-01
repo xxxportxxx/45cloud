@@ -2507,6 +2507,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=025011X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f1d64ccaf9588c562f4ea131e55428857b72786a0166aaaa3cbed2a53cb74c13d04a5a6626026c457bbe6ce5b0814b78cc31415ffb8213852a52a81e9b74348f&drmId=prod"
       },
       {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/017816X0-landscape.jpg",
+	"name": "THE LEGO MOVIE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/600769046d048943f7719f63_hbovodhd/dash0/MYS_index.mpd?c3.ri=6912185155031727442",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=017816X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b35951887c6114e55fdbb01610cad0653a1776dfb4826c09751c651bbddaf0401a2061207e69d107f9db0366f3ab8d6ff22f9c11b1b522cc9b888aca753c6549&drmId=prod"
+      },
+      { 
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023890X0-landscape.jpg",
 	"name": "LIKE A BOSS",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5feef8726d048943f76f5ee9_hbovodhd/dash0/MYS_index.mpd?c3.ri=6919784200768862835",
@@ -3192,6 +3199,13 @@
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5de9aba5cbea8a6a4ef81ade_hbovodhd/dash0/MYS_index.mpd?c3.ri=6903458128637640934",
         "drm_scheme": "widevine",
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=009619X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f144da38bfad811a6b8d0515e0cbaf55f7a4ba0df89b9b3e9f47056692ff54faa9e52214b1f3651384485437222508b197502f0646052d6c863fcf4b27d46f2a&drmId=prod"
+      },
+      {
+        "name": "MADAGASCAR 3: EUROPE'S MOST WANTED",   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/014869X0-landscape.jpg",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/6010249c6d048943f772720c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6919222032064460257",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=014869X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=8b9bc1fe6e80100b19a4ce5d9433aebe350e3e863d65b40e7903f9b08d36bc1815e3cd7b2c904a018167fdff8508228ffa3336c0ed5ebee2d3509276a10fad16&drmId=prod"
       }
     ]
   },
