@@ -1,6 +1,6 @@
 [
   {
-    "name": "MALAYSIA iptv 01",
+    "name": "monyeng.my 01",
     "samples": [
       {
         "name": "TV1",
@@ -96,7 +96,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 02",
+    "name": "monyeng.my 02",
     "samples": [
      {
         "name": "TVN MOVIES HD",
@@ -150,7 +150,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 03",
+    "name": "monyeng.my 03",
     "samples": [
       {
         "name": "YUPP THIRAI HD",
@@ -225,7 +225,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 04",
+    "name": "monyeng.my 04",
     "samples": [
       {
         "name": "FOX MOVIES",
@@ -314,7 +314,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 05",
+    "name": "monyeng.my 05",
     "samples": [
       {
         "name": "LOVE NATURE",
@@ -382,7 +382,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 06",
+    "name": "monyeng.my 06",
     "samples": [
       {
         "name": "DREAMWORK HD",
@@ -429,7 +429,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 07",
+    "name": "monyeng.my 07",
     "samples": [
       {
         "name": "DW",
@@ -504,7 +504,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 08",
+    "name": "monyeng.my 08",
     "samples": [
      {
         "name": "UNIFI SPORTS 1",
@@ -565,7 +565,7 @@
     ]
   },
   {
-    "name": "MALAYSIA iptv 09",
+    "name": "monyeng.my 09",
     "samples": [ 
       {
         "name": "ASTRO RIA",
@@ -680,7 +680,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv 01",
+    "name": "monyeng.id 01",
     "samples": [
       {
         "name": "HBO Hits",
@@ -769,7 +769,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv 02",
+    "name": "monyeng.id 02",
     "samples": [      
       {
         "name": "Nick Jr",
@@ -837,7 +837,7 @@
     ]
   },
   {
-    "name": "INDONESIA iptv 03",
+    "name": "monyeng.id 03",
     "samples": [
       {
         "name": "Indosiar",
@@ -1045,7 +1045,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv 04",
+    "name": "monyeng.id 04",
     "samples": [
       {
         "name": "FMN",
@@ -1148,7 +1148,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv 05",
+    "name": "monyeng.id 05",
     "samples": [
       {
         "name": "BBC Earth",
@@ -1258,7 +1258,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv 06",
+    "name": "monyeng.id 06",
     "samples": [      
         {
         "name": "FOX Sports",
@@ -1305,7 +1305,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv 07",
+    "name": "monyeng.id 07",
     "samples": [      
       {
         "name": "Channel News Asia",
@@ -1450,7 +1450,7 @@
     ]  
   },
   {
-    "name": "INDONESIA iptv 08",
+    "name": "monyeng.id 08",
     "samples": [  
       {
         "name": "& TV",
@@ -1561,7 +1561,7 @@
     ]
   },
   {
-    "name": "SINGAPURA iptv",
+    "name": "monyeng.sg",
     "samples": [
 	 {
         "name": "Channel 5",
@@ -1622,7 +1622,7 @@
     ]
   },
   {
-    "name": "BRUNEI iptv",
+    "name": "monyeng.bn",
     "samples": [ 
       {
         "name": "RTB SUKMA INDERA",
