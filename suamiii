@@ -570,22 +570,22 @@
       {
         "name": "ASTRO RIA",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/124_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Ria/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/1705.m3u8.ts"
       },
       {
         "name": "ASTRO PRIMA",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/125_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Prima/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71020.m3u8.ts"
       },
       {
         "name": "ASTRO OASIS",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/126_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Oasis/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71021.m3u8.ts"
       },
       {
         "name": "ASTRO WARNA",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/127_100.png",
-        "uri": "http://190.2.155.140:8278/streams/d/warna_pye/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71022.m3u8.ts"
       },
       {
         "name": "ASTRO CITRA",
@@ -595,7 +595,7 @@
       {
         "name": "ASTRO CERIA",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/631_100.png",
-        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71080.m3u8.ts"
       },
       {
         "name": "AWANI",
@@ -605,27 +605,27 @@
       {
         "name": "ASTRO ARENA",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/801_100.png",
-        "uri": "http://190.2.155.140:8278/streams/d/arena_pye/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/71102.m3u8.ts"
      },
       {
         "name": "ASTRO ASSP 1",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/831_100.png",
-        "uri": "http://190.2.155.140:8278/streams/d/supersport1_pye/playlist.m3u8"
+        "uri": "http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8"
       },
       {
         "name": "ASTRO ASSP 2",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/832_100.png",
-        "uri": "http://190.2.155.140:8278/streams/d/supersport2_pye/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59219.m3u8.ts"
       },
       {
         "name": "ASTRO ASSP 3",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/833_100.png",
-        "uri": "http://190.2.155.140:8278/streams/d/supersport3_pye/playlist.m3u8"
+        "uri": "http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8"
       },
       {
         "name": "ASTRO ASSP 4",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/834_100.png",
-        "uri": "http://190.2.155.140:8278/streams/d/supersport4_pye/playlist.m3u8"
+        "uri": "http://Z.time@ed8.oknirvana.club:8880/live/76w12m1133/CjCVSH53D9/59217.m3u8.ts"
       },
       {
         "name": "DRAMA SANGAT",
