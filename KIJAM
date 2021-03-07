@@ -573,6 +573,11 @@
         "uri": "http://50.7.161.82:8278/streams/d/Citra/playlist.m3u8"
       },
       {
+        "name": "ASTRO CERIA",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/631_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Ceria/playlist.m3u8"
+      },
+      {
         "name": "AWANI",
         "logo_uri": "https://linear-poster.astro.com.my/prod/logo/Astro_Awani_v1.png",
         "uri": "https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8"
@@ -581,6 +586,11 @@
         "name": "DRAMA SANGAT",
         "logo_uri": "https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",
         "uri": "https://raw.githubusercontent.com/555Z555/music3/main/dramasangat.m3u8"
+      },
+      {
+        "name": "ASTRO HBO",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_100.png",
+        "uri": "http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8"
       },
       {
         "name": "ASTRO BOO",
