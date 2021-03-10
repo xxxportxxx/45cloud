@@ -188,13 +188,6 @@
         "drm_license_url": "http://1.9.58.113:8063?deviceId=YTMyMTQ4MTEtMzE2YS0zNGNmLWJkZDEtMDRmNWMyYzBjN2U5"
       },
       {
-        "name": "UTV MOVIES HD",
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/Utv-Movies.png",
-        "uri": "http://1.9.62.158/PLTV/88888888/224/3221227594/3221227594.mpd",
-        "drm_scheme": "widevine",
-        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTMyMTQ4MTEtMzE2YS0zNGNmLWJkZDEtMDRmNWMyYzBjN2U5"
-      },
-      {
         "name": "COLORS CINEPLEX",
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/hLnucnRV.png",
         "uri": "http://1.9.62.158/PLTV/88888888/224/3221227501/3221227501.mpd",
