@@ -2575,6 +2575,48 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=025011X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f1d64ccaf9588c562f4ea131e55428857b72786a0166aaaa3cbed2a53cb74c13d04a5a6626026c457bbe6ce5b0814b78cc31415ffb8213852a52a81e9b74348f&drmId=prod"
       },
       {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023681X0-landscape.jpg",
+	"name": "BRAHMS: THE BOY II",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/601118dc6d048943f7728885_hbovodhd/dash0/MYS_index.mpd?c3.ri=6896423658019472956",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023681X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=7d8a8613ee7dd31ee04f39ccd85fa66815bd78c8398389703597fbdc501fd0b0f744577f89f3d776d5c75c758a25170c43ac67a400f43299a8ff31bf23d5eab0&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028977X0-landscape.jpg",
+	"name": "CHARM CITY KINGS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/600ea5816d048943f7724e97_hbovodhd/dash0/MYS_index.mpd?c3.ri=6893045964292239934",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028977X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=96832f5fceedc2813b375792d8cb3277d38e7e01822fba111c9f0314d54e5f7f4a13939ffa9905f16eac2e13b32158296ed25ca0c8fb8b1dc966f9fe261a9e96&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/021161X0-landscape.jpg",
+	"name": "WONDER WOMAN",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5fca2a096d048943f76bfd96_hbovodhd/dash0/MYS_index.mpd?c3.ri=6905149384746849563",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=021161X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=35fc34f2ff49361e056d6b082859e3b955199be593032a2d2113b7d6c71b474a4f18697206d853ef8223bacf9689597d32c56da7252667319bcfcb1dbdce53f2&drmId=prod"
+      },
+      {   
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029184X0-landscape.jpg",
+	"name": "SUPERMAN: MAN OF TOMORROW",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6011192a6d048943f7728890_hbovodhd/dash0/MYS_index.mpd?c3.ri=6913030681644382515",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029184X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=e1fc9cc9ce82e2d5d1ac405832e6f3d8b4ef2c215209c1ba41ed219f6720f7a8aa6c4bcabc93ad29226c293a1156fb761ab23df863b26e48571f90e39ca6111d&drmId=prod"
+      },
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029381X0-landscape.jpg",
+	"name": "THE WAY BACK",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/6012c2906d048943f772b03b_hbovodhd/dash0/MYS_index.mpd?c3.ri=6905149384746856790",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029381X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=99696abee858b3614333e7ad176d15016d2abbf96c7a89030545b36d4814012b865b232b3e91b231bdd1ba26ef114ffd9dc8e050936dcbbf55e19aa21a032578&drmId=prod"
+      },
+      {    
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023889X0-landscape.jpg",
+	"name": "BODY CAM",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/600d198f6d048943f77229c1_hbovodhd/dash0/MYS_index.mpd?c3.ri=6896423658019509637",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023889X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=0988c4834ca59102c68957b9ff1695f4fcaf4f6b61f844e20154f1ae5d0b15f417c2f45c020f1f8cbed4ff59063ec5a34af248f0b776c990d24d6b745f2cdaba&drmId=prod"
+      },
+      {    
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/017816X0-landscape.jpg",
 	"name": "THE LEGO MOVIE",
         "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/600769046d048943f7719f63_hbovodhd/dash0/MYS_index.mpd?c3.ri=6912185155031727442",
