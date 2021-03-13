@@ -1605,6 +1605,32 @@
     ]
   },
   {
+       "name": "CICAKMAN",
+       "samples": [
+       {
+        "name": "CICAKMAN 1",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN1.jpg",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/233e9/Cicakman_Feature_25097_M(25097_ISMUSP).ism/Cicakman_Feature_25097_M(25097_ISMUSP).mpd?idx=0&assetId=25097&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/25097?timeStamp=2021-03-13T23%3A39%3A50%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F233e9%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.ism%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.mpd&profile=offline&securityToken=jgeXip7ZlAhZ674kKPCLHmOLZn87SuRuPJtwY51waFo&account=source"
+      },
+      {
+        "name": "CICAKMAN 2",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN2.jpg",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/cce08/Cicakman_2_Feature_25094(25094_ISMUSP).ism/Cicakman_2_Feature_25094(25094_ISMUSP).mpd?idx=0&assetId=25094&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/25094?timeStamp=2021-03-13T23%3A41%3A42%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2Fcce08%2FCicakman_2_Feature_25094%2825094_ISMUSP%29.ism%2FCicakman_2_Feature_25094%2825094_ISMUSP%29.mpd&profile=offline&securityToken=ZzNqggGBlrQbm7KEHT7IC-taiS6stSD5meTqosdlbIM&account=source"
+      },
+      {
+        "name": "CICAKMAN 3",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/CICAKMAN3.jpg",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/bb10b/Cicakman_3_Feature_41391(41391_ISMUSP).ism/Cicakman_3_Feature_41391(41391_ISMUSP).mpd?idx=0&assetId=41391&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/41391?timeStamp=2021-03-13T23%3A42%3A52%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2Fbb10b%2FCicakman_3_Feature_41391%2841391_ISMUSP%29.ism%2FCicakman_3_Feature_41391%2841391_ISMUSP%29.mpd&profile=offline&securityToken=e0u_cp5VVAUTB8VX0Lv8sFSJpI-vIV65TKhClTyeU5c&account=source"
+      }
+    ]
+  },
+  {
     "name": "POTONG",
     "samples": [ 
       {
