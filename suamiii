@@ -3411,6 +3411,81 @@
     ]
   },
   {
+           "name": "LEGO MOVIES",
+            "samples": [
+       {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/017816X0-landscape.jpg",
+	"name": "THE LEGO MOVIE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/600769046d048943f7719f63_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895860795250380082",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=017816X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f7d6f93387804b192c999f240ae5db3601b50ec14ba74d2b8a302e72b1b26addd8197e37912d4060e05483e4eb7419640bfa2dd0f874e2fa09262f02d9710b80&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023323X0-landscape.jpg",
+	"name": "THE LEGO MOVIE 2",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5da9b9dfcbea8a6a4ef2029b_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895860795250385079",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023323X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=dbeab90b8076e83f62b1c5cab5d650b459fbb64b0c2263ec4d0ad03456bab60f3ed8d665a5db83a599152bb713301decdab7963ceccae2f33879da47aee20bd2&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023619X0-landscape.jpg",
+	"name": "BATMAN - FAMILY MATTERS",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5ea3b3a86d048943f7505cba_hbovodhd/dash0/MYS_index.mpd?c3.ri=6894734883636889674",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=023619X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c26223c436942d70afc090f3dfdbe7d3099379840b36ebefcd41c5c9475e16bc50066055c25e5a5fd565ecf504e746f0d750b239a90a7d1a699a88850b3f5301&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/028978X0-landscape.jpg",
+	"name": "SHAZAM: MAGIC AND MONSTERS",
+        "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/5ff5a3a36d048943f76ffb48_hbovodhd/dash0/MYS_index.mpd?c3.ri=6924571230604116539",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=028978X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=d9e5714dbfb5450caaf260506a6da293416e017de91811d1d52011859d10ff65c92b4fe8c41c87a10cfbb3a557e151e06e0426112fe4edfce5a8eb1ffe501cff&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/026282X0-landscape.jpg",
+	"name": "BIZARRO LEAGUE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fe2d82e6d048943f76e4293_hbovodhd/dash0/MYS_index.mpd?c3.ri=6894734883636902054",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=026282X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b28ac55efacde5281ac5ff006c5acf34189ddba767079707fd8ee8bb9a5ae7178427d5ed63883fc82b8ba9c09b8d6532ed2fec9184355a7d9488a91aed5a41fb&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/026281X0-landscape.jpg",
+	"name": "BATMAN THE MOVIE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fbb44806d048943f76a9f42_hbovodhd/dash0/MYS_index.mpd?c3.ri=6920630586596335245",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=026281X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=5a6a45a2e2ab02f4ca3b3863a57041cdd5e5eb703dbe57d8fab6c98961d0876eeb004117da3ebb234534f9ac3d908d93972805614f8c136b4a3e5f4440e9854a&drmId=prod"
+      },
+      { 
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020405X0-landscape.jpg",
+	"name": "COSMIC CLASH",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac60666d048943f769401c_hbovodhd/dash0/MYS_index.mpd?c3.ri=6899238488356900073",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=020405X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=c04fcef98fa3cab14c7d3a86e981daacc36c3ee7b2aa16281274c1087be51d24f982b3251488f06cc7960aa9b0fd298c1357371b69bdcd6d1dd30a741a03d87f&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020522X0-landscape.jpg",
+	"name": "GOTHAM CITY BREAKOUT",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fa515756d048943f7689220_hbovodhd/dash0/MYS_index.mpd?c3.ri=6894734883636930933",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=020522X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=cc6a5838d3588d343badc0ac1a53a4e292996da5243d459c7658b33a74dc4924e4a8b1e8f71c6e154a9ed31581e5aeebe646756ac281da9125157b40ab77660b&drmId=prod"
+      },
+      {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/019665X0-landscape.jpg",
+	"name": "ATTACK OF THE LEGION OF DOOM!",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fac47246d048943f7693dbc_hbovodhd/dash0/MYS_index.mpd?c3.ri=6909653057391068742",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=019665X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f6b61b193454c6f0577bfb9d21ffdaa74b79ca8cbee894bf71a650a8b4b65cbd858d479452bdc3eab4ab2c7273fa0e6e46b6936143af42759c3d0790b67d7c37&drmId=prod"
+      },
+      {
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/020549X0-landscape.jpg",
+	"name": "SCOOBY-DOO!: HAUNTED HOLLYWOOD",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/5fc463f86d048943f76b7579_hbovodhd/dash0/MYS_index.mpd?c3.ri=6895297841399696799",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=020549X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f8002fd8504cc48e3326e5ecf0ffbc9d2c43a6c0b8e8113db6c942c25dcd6024113a30697c04480ea6412766ca361dd17a997df8d6a578d4641d66cd88c1dd9e&drmId=prod"
+      }
+    ]
+  },
+  {
            "name": "THE UNDOING S1",
             "samples": [
        {
