@@ -2553,8 +2553,26 @@
       }
     ]
   },
-  
+  {
+       "name": "CHINESE MOVIES",
+       "samples": [
+       {
+        "name": "KING OF BEGGARS",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/KINGOFBEGGARS.jpg",
+        "uri": "http://centerrrs.hypp.tv/88888888/16/20200317/268689888/268689888.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.240.227,20210314040910,SP0041698327,1502109523143355851405361,-1,1,0,,,1,HESA1060,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAAEWOQQrCMBREb5NlSGJq4yIrRRCkCla38pv8xmLaaNIWvL1WC25n5g2vj2Bwt9G1lZmERW6QWcmkqETGq0xZUTG1Yggk4bMIWhAD3jedK4KdsMtpfeWMMioEp5yTcrrbenDzshjaCuMfO2EcG4PappqOkCg4F9FB34SOHj28ztHPE4LlrMaXfMlULjOVK076KS0h3T8NuUFah_YBEe0-uC-ga_AJyQPMHRwW0KLuBu9_3CHaj80bZbyGqvQAAAA&tenantId=6003",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTMyMTQ4MTEtMzE2YS0zNGNmLWJkZDEtMDRmNWMyYzBjN2U5"
+      },
       {
+        "name": "THE WAY OF THE DRAGON",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/THEWAYOFTHEDRAGON.jpg",
+        "uri": "http://centerrrs.hypp.tv/88888888/16/20200310/268688613/268688613.mpd?allcentermount=5:1000002&rrsip=centerrrs.hypp.tv&zoneoffset=0&servicetype=0&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=,1502109523143355851405361,27.125.240.83,20210314041446,SP0041698022,1502109523143355851405361,-1,1,0,,,1,HESA1060,,,1,2096667,0,1002024,e53d8ef0-52ee-bcad-da60-f36b9aec66ed,,,2,1,END&GuardEncType=2&it=H4sIAAAAAAAAADWOQQ6CMBREb9NlAy0t3XSlMTExaAK6Nd_2U4mFaosm3l5Q3M7Mm7wxgsHtWlvZMllIJsqWFVxdFAfDSyMKpaaQK5LwUQXNiAHvu8FVwc7YqV6d84xmlLGc8ow0893Gg1uW1bO_YNTij9UYX51BbVNLX5AoOBfRwdiFgR48vI_RLxOCzaKWy1xmSikmBRdknNMG0m1qyBXSKvR3iGh3wX0B3YJPSO5gbuCwgh718PT-x-2jnWw-PjJifPQAAAA&tenantId=6003",
+        "drm_scheme": "widevine",
+        "drm_license_url": "http://1.9.58.113:8063?deviceId=YTMyMTQ4MTEtMzE2YS0zNGNmLWJkZDEtMDRmNWMyYzBjN2U5"
+      }
+    ]
+  },
+  {
     "name": "HINDI MOVIES",
     "samples": [ 
       {
