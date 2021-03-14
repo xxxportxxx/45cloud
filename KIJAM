@@ -1605,6 +1605,25 @@
     ]
   },
   {
+           "name": "MALAY MOVIES",
+            "samples": [
+       {
+        "name": "DUYUNG",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/DuyungMAYAKARIN.jpg",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/e5b2a/Duyung_Feature_25229_(25229_ISMUSP)_v2.ism/Duyung_Feature_25229_(25229_ISMUSP)_v2.mpd?idx=0&assetId=25229&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/25229?timeStamp=2021-03-14T00%3A17%3A51%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2Fe5b2a%2FDuyung_Feature_25229_%2825229_ISMUSP%29_v2.ism%2FDuyung_Feature_25229_%2825229_ISMUSP%29_v2.mpd&profile=offline&securityToken=JF0YFA7tj-iwvnKbvLSSJohlCS9OV1v-j2xZUQ6jF_k&account=source"
+      },
+      {
+        "name": "HANTU KAPCAI",   
+	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/HANTUKAPCAI.jpg",
+        "uri": "https://iflix-videocdn-p1.akamaized.net/ba8a4/Hantu_Kapcai_Feature_256(25655_ISMUSP)_v3.ism/Hantu_Kapcai_Feature_256(25655_ISMUSP)_v3.mpd?idx=0&assetId=25655&userId=v_61-i_527993946",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/25655?timeStamp=2021-03-14T00%3A25%3A54%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2Fba8a4%2FHantu_Kapcai_Feature_256%2825655_ISMUSP%29_v3.ism%2FHantu_Kapcai_Feature_256%2825655_ISMUSP%29_v3.mpd&profile=offline&securityToken=008JDdTZw8AadyvngpKys0PAqgdE7oItiD6BWVuLGTI&account=source"
+      }
+    ]
+  },
+  {
        "name": "CICAKMAN",
        "samples": [
        {
