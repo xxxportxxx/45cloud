@@ -3832,8 +3832,8 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/5334?timeStamp=2021-03-15T13%3A50%3A32%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F9ceee%2FWinter_Sonata_S01_E01_53%285334_ISMUSP%29_v8.ism%2FWinter_Sonata_S01_E01_53%285334_ISMUSP%29_v8.mpd&profile=offline&securityToken=keW503DMH5V3HqigQYIUO_yaWGQtksIOcgby3xWgf7M&account=source",
         "subtitle_uri": "https://subtitles.iflix.com/subtitles/5334/my/11117150.webvtt",
-        "subtitle_mime_type": "webvtt",
-        "subtitle_language": "mal"
+        "subtitle_mime_type": "https://subtitles.iflix.com/subtitles/5334/my/11117150.webvtt",
+        "subtitle_language": "Melayu"
       },
       {
         "name": "EPISODE 2",   
@@ -3842,8 +3842,8 @@
         "drm_scheme": "widevine",
         "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/5335?timeStamp=2021-03-15T13%3A51%3A53%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F66167%2FWinter_Sonata_S01_E02_53%285335_ISMUSP%29_v6.ism%2FWinter_Sonata_S01_E02_53%285335_ISMUSP%29_v6.mpd&profile=offline&securityToken=dgj_DilaR0CbgOhZY9TrNKztqSmRPWpgLcgwdhgPtA0&account=source",
         "subtitle_uri": "https://subtitles.iflix.com/subtitles/5335/my/11117172.webvtt",
-        "subtitle_mime_type": "webvtt",
-        "subtitle_language": "mal"
+        "subtitle_mime_type": "https://subtitles.iflix.com/subtitles/5335/my/11117172.webvtt",
+        "subtitle_language": "Melayu"
       }
     ]
   },
