@@ -3551,35 +3551,6 @@
     ]
   },
   {
-           "name": "WINTER SONATA",
-            "samples": [
-       {
-        "name": "EPISODE 1",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/WINTER%20SONATA.jpg",
-        "uri": "https://iflix-videocdn-p1.akamaized.net/9ceee/Winter_Sonata_S01_E01_53(5334_ISMUSP)_v8.ism/Winter_Sonata_S01_E01_53(5334_ISMUSP)_v8.mpd?idx=0&assetId=5334&userId=v_61-i_527993946",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/25097?timeStamp=2021-03-15T05%3A49%3A58%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F233e9%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.ism%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.mpd&profile=offline&securityToken=Qy-ajdTDS5TFBh4DggB5TI7Tsh2tHdRtrD3PCaIaKuw&account=source",
-        "subtitle_uri": "https://subtitles.iflix.com/subtitles/5334/my/11117150.webvtt"
-      },
-      {
-        "name": "EPISODE 2",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/WINTER%20SONATA.jpg",
-        "uri": "https://iflix-videocdn-p1.akamaized.net/9ceee/Winter_Sonata_S01_E01_53(5334_ISMUSP)_v8.ism/Winter_Sonata_S01_E01_53(5334_ISMUSP)_v8.mpd?idx=0&assetId=5334&userId=v_61-i_527993946",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/25097?timeStamp=2021-03-15T05%3A49%3A58%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F233e9%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.ism%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.mpd&profile=offline&securityToken=Qy-ajdTDS5TFBh4DggB5TI7Tsh2tHdRtrD3PCaIaKuw&account=source",
-        "subtitle_uri": "https://subtitles.iflix.com/subtitles/5334/my/11117150.webvtt"
-      },
-      {
-        "name": "EPISODE 3",   
-	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/WINTER%20SONATA.jpg",
-        "uri": "https://iflix-videocdn-p1.akamaized.net/9ceee/Winter_Sonata_S01_E01_53(5334_ISMUSP)_v8.ism/Winter_Sonata_S01_E01_53(5334_ISMUSP)_v8.mpd?idx=0&assetId=5334&userId=v_61-i_527993946",
-        "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/25097?timeStamp=2021-03-15T05%3A49%3A58%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F233e9%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.ism%2FCicakman_Feature_25097_M%2825097_ISMUSP%29.mpd&profile=offline&securityToken=Qy-ajdTDS5TFBh4DggB5TI7Tsh2tHdRtrD3PCaIaKuw&account=source",
-        "subtitle_uri": "https://subtitles.iflix.com/subtitles/5334/my/11117150.webvtt"
-      }
-    ]
-  },
-  {
            "name": "ACTION & ADVENTURE",
             "samples": [
        {
