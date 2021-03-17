@@ -636,12 +636,12 @@
         "uri": "https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_04.m3u8"
       },
       {
-        "name": "ASTRO OKEY",
+        "name": "RTM OKEY",
         "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_100.png",
         "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
-        "name": "TV6",
+        "name": "RTM TV6",
         "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv6.png",
         "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
       },
