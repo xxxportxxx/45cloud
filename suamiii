@@ -641,8 +641,13 @@
         "uri": "https://rtmokeyhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd"
       },
       {
+        "name": "TV6",
+        "logo_uri": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/146_100.png",
+        "uri": "https://rtm6hbbtv.secureswiftcontent.com/Origin03/ngrp:RTM3/manifest.mpd"
+      },
+      {
         "name": "RTM SPORTS",
-        "logo_uri": "https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png",
+        "logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/tv6.png",
         "uri": "https://rtmsportshdhbbtv.secureswiftcontent.com/Origin02/ngrp:RTM2/manifest.mpd" 
       }
     ]  
