@@ -3996,21 +3996,30 @@
 	"name": "EPISODE 2",
         "uri": "https://iflix-videocdn-p1.akamaized.net/8d363/Strong_Woman_Do_Bong_Soo(81856_ISMUSP).ism/Strong_Woman_Do_Bong_Soo(81856_ISMUSP).mpd?idx=0&assetId=81856&userId=v_61-i_527993946",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81856?timeStamp=2021-03-17T12%3A37%3A53%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F8d363%2FStrong_Woman_Do_Bong_Soo%2881856_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881856_ISMUSP%29.mpd&profile=offline&securityToken=v5qgaH_la6dZuah0TH2d07SdpDCJ7mqEqZVurA-6hHw&account=source"
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81856?timeStamp=2021-03-17T12%3A37%3A53%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F8d363%2FStrong_Woman_Do_Bong_Soo%2881856_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881856_ISMUSP%29.mpd&profile=offline&securityToken=v5qgaH_la6dZuah0TH2d07SdpDCJ7mqEqZVurA-6hHw&account=source",
+	"subtitle_uri": "https://subtitles.iflix.com/subtitles/81856/my/9290111.webvtt",
+	"subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY"
       },
       { 
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BONG.jpg",
 	"name": "EPISODE 3",
         "uri": "https://iflix-videocdn-p1.akamaized.net/0c623/Strong_Woman_Do_Bong_Soo(81857_ISMUSP).ism/Strong_Woman_Do_Bong_Soo(81857_ISMUSP).mpd?idx=0&assetId=81857&userId=v_61-i_527993946",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81857?timeStamp=2021-03-17T12%3A39%3A09%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F0c623%2FStrong_Woman_Do_Bong_Soo%2881857_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881857_ISMUSP%29.mpd&profile=offline&securityToken=4GFMm56JyvKZ2SFZkZB0z57NAtOonmha3Q7D3ttpJ7Q&account=source"
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81857?timeStamp=2021-03-17T12%3A39%3A09%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F0c623%2FStrong_Woman_Do_Bong_Soo%2881857_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881857_ISMUSP%29.mpd&profile=offline&securityToken=4GFMm56JyvKZ2SFZkZB0z57NAtOonmha3Q7D3ttpJ7Q&account=source",
+	"subtitle_uri": "https://subtitles.iflix.com/subtitles/81857/my/9290139.webvtt",
+	"subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY
       },
       { 
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BONG.jpg",
 	"name": "EPISODE 4",
         "uri": "https://iflix-videocdn-p1.akamaized.net/396f6/Strong_Woman_Do_Bong_Soo(81858_ISMUSP).ism/Strong_Woman_Do_Bong_Soo(81858_ISMUSP).mpd?idx=0&assetId=81858&userId=v_61-i_527993946",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81858?timeStamp=2021-03-17T12%3A40%3A18%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F396f6%2FStrong_Woman_Do_Bong_Soo%2881858_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881858_ISMUSP%29.mpd&profile=offline&securityToken=s_c-yiIR1lvinI6ptrAXsP9SsqhKR8sR0d0iLTRl9TE&account=source"
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81858?timeStamp=2021-03-17T12%3A40%3A18%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2F396f6%2FStrong_Woman_Do_Bong_Soo%2881858_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881858_ISMUSP%29.mpd&profile=offline&securityToken=s_c-yiIR1lvinI6ptrAXsP9SsqhKR8sR0d0iLTRl9TE&account=source",
+	"subtitle_uri": "https://subtitles.iflix.com/subtitles/81858/my/9290300.webvtt",
+	"subtitle_mime_type": "text/vtt",
+        "subtitle_language": "ms_MY
       },
       { 
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BONG.jpg",
