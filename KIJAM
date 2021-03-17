@@ -3986,7 +3986,8 @@
 	"name": "EPISODE 1",
         "uri": "https://iflix-videocdn-p1.akamaized.net/f4774/Strong_Woman_Do_Bong_Soo(81855_ISMUSP).ism/Strong_Woman_Do_Bong_Soo(81855_ISMUSP).mpd?idx=0&assetId=81855&userId=v_61-i_527993946",
         "drm_scheme": "widevine",
-        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81855?timeStamp=2021-03-17T12%3A20%3A26%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2Ff4774%2FStrong_Woman_Do_Bong_Soo%2881855_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881855_ISMUSP%29.mpd&profile=offline&securityToken=pUG3jpwvNxCIXgJhpStKbdhe88VhzkUQO5dc12jwHqk&account=source"
+        "drm_license_url": "https://licenseproxy.ha.iflix-second.vimondtv.com/license/wvmodular/81855?timeStamp=2021-03-17T12%3A20%3A26%2B0000&contentUrl=https%3A%2F%2Fiflix-videocdn.akamaized.net%2Ff4774%2FStrong_Woman_Do_Bong_Soo%2881855_ISMUSP%29.ism%2FStrong_Woman_Do_Bong_Soo%2881855_ISMUSP%29.mpd&profile=offline&securityToken=pUG3jpwvNxCIXgJhpStKbdhe88VhzkUQO5dc12jwHqk&account=source",
+	"subtitle_uri": "https://subtitles.iflix.com/subtitles/81855/my/5481769.webvtt"
       },
       { 
 	"logo_uri": "https://raw.githubusercontent.com/xxxportxxx/45cloud/master/BONG.jpg",
