@@ -2757,6 +2757,13 @@
         "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=025011X0&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=f1d64ccaf9588c562f4ea131e55428857b72786a0166aaaa3cbed2a53cb74c13d04a5a6626026c457bbe6ce5b0814b78cc31415ffb8213852a52a81e9b74348f&drmId=prod"
       },
       {  
+	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/029901X1-landscape.jpg",
+	"name": "ZACK SNYDER’S JUSTICE LEAGUE",
+        "uri": "https://dai3fd1oh325y.cloudfront.net/video/vod/output/HBOAsia/604f3ad46d048943f7784083_hbovodhd/dash0/MYS_index.mpd?c3.ri=6901772235954081379",
+        "drm_scheme": "widevine",
+        "drm_license_url": "https://api2.hbogoasia.com/onwards-widevine?contentType=movie&contentId=029901X1&territory=MYS&operatorId=SIN&userId=F3AE1b67-b8e2-3978-a29b-A07cfaaBfFBe&tkn=b61d529a7d601c02294d7cea77a0c92e42447370faa4b0508825905e2072c304405cbe594b30a3131e1ad933281b2e149418e2c96fc8a438e4c0d61d9ee0e787&drmId=prod"
+      },
+      {   
 	"logo_uri": "https://dai3fd1oh325y.cloudfront.net/images/480p/023681X0-landscape.jpg",
 	"name": "BRAHMS: THE BOY II",
         "uri": "https://hbogoprod-vod.akamaized.net/video/vod/output/HBOAsia/601118dc6d048943f7728885_hbovodhd/dash0/MYS_index.mpd?c3.ri=6896423658019472956",
