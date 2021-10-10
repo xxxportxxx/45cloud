@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" mediaPresentationDuration="PT2H13M46.769S" minBufferTime="PT4.00S" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="static">
+  <!-- Created with Bento4 mp4-dash.py, VERSION=2.0.0-625 -->
+  <Period>
+    <!-- Video -->
+    <!-- Audio -->
+    <AdaptationSet contentType="text" mimeType="text/vtt" lang="en">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <Representation id="subtitle/lang_eng/subtitle" bandwidth="16444">
+         <BaseURL>subtitle/lang_eng/subtitle.vtt</BaseURL>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet contentType="text" mimeType="text/vtt" lang="th">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <Representation id="subtitle/lang_tha/subtitle" bandwidth="16444">
+         <BaseURL>subtitle/lang_tha/subtitle.vtt</BaseURL>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet contentType="text" mimeType="text/vtt" lang="ms">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle"/>
+      <Representation id="subtitle/lang_msa/subtitle" bandwidth="16444">
+         <BaseURL>subtitle/lang_msa/subtitle.vtt</BaseURL>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet maxHeight="1080" maxWidth="1920" mimeType="video/mp4" segmentAlignment="true" startWithSAP="1">
+      <!-- MPEG Common Encryption -->
+      <ContentProtection cenc:default_KID="f33e39c8-0109-7286-6c3d-81f71d47d400" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+      </ContentProtection>
+      <SegmentTemplate duration="4004" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1" timescale="1000"/>
+      <Representation bandwidth="256541" codecs="avc1.42C015" frameRate="24000/1001" height="240" id="video_h264_fhd_sdr_1633350640744/avc1/2" scanType="progressive" width="426"/>
+      <Representation bandwidth="387252" codecs="avc1.4D401E" frameRate="24000/1001" height="360" id="video_h264_fhd_sdr_1633350640744/avc1/3" scanType="progressive" width="640"/>
+      <Representation bandwidth="697686" codecs="avc1.4D401F" frameRate="24000/1001" height="480" id="video_h264_fhd_sdr_1633350640744/avc1/4" scanType="progressive" width="854"/>
+      <Representation bandwidth="1361834" codecs="avc1.640028" frameRate="24000/1001" height="720" id="video_h264_fhd_sdr_1633350640744/avc1/6" scanType="progressive" width="1280"/>
+      <Representation bandwidth="1570687" codecs="avc1.640028" frameRate="24000/1001" height="1080" id="video_h264_fhd_sdr_1633350640744/avc1/7" scanType="progressive" width="1920"/>
+      <Representation bandwidth="3601088" codecs="avc1.640028" frameRate="24000/1001" height="1080" id="video_h264_fhd_sdr_1633350640744/avc1/8" scanType="progressive" width="1920"/>
+    </AdaptationSet>
+    <AdaptationSet lang="en" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
+      <!-- MPEG Common Encryption -->
+      <ContentProtection cenc:default_KID="f33e39c8-0109-7286-6c3d-81f71d47d400" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <SegmentTemplate duration="4004" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1" timescale="1000"/>
+      <Representation audioSamplingRate="48000" bandwidth="56151" codecs="mp4a.40.2" id="audio_aac_1633350640744/en/mp4a/1">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+      <Representation audioSamplingRate="48000" bandwidth="72138" codecs="mp4a.40.2" id="audio_aac_1633350640744/en/mp4a/2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+      <Representation audioSamplingRate="48000" bandwidth="136140" codecs="mp4a.40.2" id="audio_aac_1633350640744/en/mp4a/3">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet lang="th" mimeType="audio/mp4" segmentAlignment="true" startWithSAP="1">
+      <!-- MPEG Common Encryption -->
+      <ContentProtection cenc:default_KID="f33e39c8-0109-7286-6c3d-81f71d47d400" schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc"/>
+      <!-- Widevine -->
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh>AAAALnBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAA4IARABGgNoZXMiA2hlcw==</cenc:pssh>
+      </ContentProtection>
+      <SegmentTemplate duration="4004" initialization="$RepresentationID$/init.mp4" media="$RepresentationID$/seg-$Number$.m4s" startNumber="1" timescale="1000"/>
+      <Representation audioSamplingRate="48000" bandwidth="56156" codecs="mp4a.40.2" id="audio_aac_1633350640744/th/mp4a/1">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+      <Representation audioSamplingRate="48000" bandwidth="72147" codecs="mp4a.40.2" id="audio_aac_1633350640744/th/mp4a/2">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+      <Representation audioSamplingRate="48000" bandwidth="136159" codecs="mp4a.40.2" id="audio_aac_1633350640744/th/mp4a/3">
+        <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      </Representation>
+    </AdaptationSet>
+  </Period>
+</MPD>
